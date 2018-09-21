@@ -1,0 +1,219 @@
+array (
+  0 => 
+  array (
+    'term_id' => '1',
+    'name' => 'Uncategorized',
+    'slug' => 'uncategorized',
+    'term_group' => '0',
+  ),
+  1 => 
+  array (
+    'term_id' => '2',
+    'name' => 'simple',
+    'slug' => 'simple',
+    'term_group' => '0',
+  ),
+  2 => 
+  array (
+    'term_id' => '3',
+    'name' => 'grouped',
+    'slug' => 'grouped',
+    'term_group' => '0',
+  ),
+  3 => 
+  array (
+    'term_id' => '4',
+    'name' => 'variable',
+    'slug' => 'variable',
+    'term_group' => '0',
+  ),
+  4 => 
+  array (
+    'term_id' => '5',
+    'name' => 'external',
+    'slug' => 'external',
+    'term_group' => '0',
+  ),
+  5 => 
+  array (
+    'term_id' => '6',
+    'name' => 'exclude-from-search',
+    'slug' => 'exclude-from-search',
+    'term_group' => '0',
+  ),
+  6 => 
+  array (
+    'term_id' => '7',
+    'name' => 'exclude-from-catalog',
+    'slug' => 'exclude-from-catalog',
+    'term_group' => '0',
+  ),
+  7 => 
+  array (
+    'term_id' => '8',
+    'name' => 'featured',
+    'slug' => 'featured',
+    'term_group' => '0',
+  ),
+  8 => 
+  array (
+    'term_id' => '9',
+    'name' => 'outofstock',
+    'slug' => 'outofstock',
+    'term_group' => '0',
+  ),
+  9 => 
+  array (
+    'term_id' => '10',
+    'name' => 'rated-1',
+    'slug' => 'rated-1',
+    'term_group' => '0',
+  ),
+  10 => 
+  array (
+    'term_id' => '11',
+    'name' => 'rated-2',
+    'slug' => 'rated-2',
+    'term_group' => '0',
+  ),
+  11 => 
+  array (
+    'term_id' => '12',
+    'name' => 'rated-3',
+    'slug' => 'rated-3',
+    'term_group' => '0',
+  ),
+  12 => 
+  array (
+    'term_id' => '13',
+    'name' => 'rated-4',
+    'slug' => 'rated-4',
+    'term_group' => '0',
+  ),
+  13 => 
+  array (
+    'term_id' => '14',
+    'name' => 'rated-5',
+    'slug' => 'rated-5',
+    'term_group' => '0',
+  ),
+  14 => 
+  array (
+    'term_id' => '15',
+    'name' => 'Uncategorized',
+    'slug' => 'uncategorized',
+    'term_group' => '0',
+  ),
+  15 => 
+  array (
+    'term_id' => '16',
+    'name' => 'Clothing',
+    'slug' => 'clothing',
+    'term_group' => '0',
+  ),
+  16 => 
+  array (
+    'term_id' => '17',
+    'name' => 'Tshirts',
+    'slug' => 'tshirts',
+    'term_group' => '0',
+  ),
+  17 => 
+  array (
+    'term_id' => '18',
+    'name' => 'Hoodies',
+    'slug' => 'hoodies',
+    'term_group' => '0',
+  ),
+  18 => 
+  array (
+    'term_id' => '19',
+    'name' => 'Accessories',
+    'slug' => 'accessories',
+    'term_group' => '0',
+  ),
+  19 => 
+  array (
+    'term_id' => '20',
+    'name' => 'Music',
+    'slug' => 'music',
+    'term_group' => '0',
+  ),
+  20 => 
+  array (
+    'term_id' => '21',
+    'name' => 'Decor',
+    'slug' => 'decor',
+    'term_group' => '0',
+  ),
+  21 => 
+  array (
+    'term_id' => '22',
+    'name' => 'Blue',
+    'slug' => 'blue',
+    'term_group' => '0',
+  ),
+  22 => 
+  array (
+    'term_id' => '23',
+    'name' => 'Green',
+    'slug' => 'green',
+    'term_group' => '0',
+  ),
+  23 => 
+  array (
+    'term_id' => '24',
+    'name' => 'Red',
+    'slug' => 'red',
+    'term_group' => '0',
+  ),
+  24 => 
+  array (
+    'term_id' => '25',
+    'name' => 'Large',
+    'slug' => 'large',
+    'term_group' => '0',
+  ),
+  25 => 
+  array (
+    'term_id' => '26',
+    'name' => 'Medium',
+    'slug' => 'medium',
+    'term_group' => '0',
+  ),
+  26 => 
+  array (
+    'term_id' => '27',
+    'name' => 'Small',
+    'slug' => 'small',
+    'term_group' => '0',
+  ),
+  27 => 
+  array (
+    'term_id' => '28',
+    'name' => 'Gray',
+    'slug' => 'gray',
+    'term_group' => '0',
+  ),
+  28 => 
+  array (
+    'term_id' => '29',
+    'name' => 'Yellow',
+    'slug' => 'yellow',
+    'term_group' => '0',
+  ),
+  29 => 
+  array (
+    'term_id' => '30',
+    'name' => 'header',
+    'slug' => 'header',
+    'term_group' => '0',
+  ),
+  30 => 
+  array (
+    'term_id' => '31',
+    'name' => 'Primary Menu',
+    'slug' => 'primary-menu',
+    'term_group' => '0',
+  ),
+)

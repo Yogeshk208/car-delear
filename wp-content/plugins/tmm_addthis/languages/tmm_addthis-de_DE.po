@@ -1,0 +1,146 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ThemeMakers AddThis\n"
+"POT-Creation-Date: 2015-11-20 22:50+0100\n"
+"PO-Revision-Date: 2016-11-28 08:12+0100\n"
+"Last-Translator: \n"
+"Language-Team: ThemeMakers Team <support@webtemplatemasters.com>\n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: index.php\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: index.php:110
+msgid "Options have been saved."
+msgstr "Optionen wurden gespeichert."
+
+#: index.php:269
+msgid "Add This Share"
+msgstr ""
+
+#: views/addthis_form.php:4
+msgid "Title"
+msgstr "Titel"
+
+#: views/addthis_form.php:9
+msgid "Sharing Buttons Type"
+msgstr "Sharing Buttons Type"
+
+#: views/addthis_form.php:23
+msgid "Large buttons"
+msgstr "Große Tasten"
+
+#: views/addthis_form.php:38
+msgid "Middle buttons"
+msgstr "Mittlere-Tasten"
+
+#: views/addthis_form.php:53
+msgid "Small buttons"
+msgstr "Kleine Buttons"
+
+#: views/addthis_form.php:67
+msgid "One Share button"
+msgstr "\"Teilen\" Button anzeigen"
+
+#: views/addthis_form.php:70 views/theme_options_tab.php:45
+msgid "Disable and Select buttons"
+msgstr "Deaktivieren und Tasten wählen"
+
+#: views/addthis_form.php:82 views/theme_options_tab.php:55
+msgid "Facebook"
+msgstr "Facebook"
+
+#: views/addthis_form.php:94 views/theme_options_tab.php:69
+msgid "Twitter"
+msgstr "Twitter"
+
+#: views/addthis_form.php:107 views/theme_options_tab.php:83
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: views/addthis_form.php:120 views/theme_options_tab.php:97
+msgid "Google"
+msgstr "Google"
+
+#: views/addthis_form.php:132 views/theme_options_tab.php:111
+msgid "Share"
+msgstr "Teilen"
+
+#: views/theme_options_tab.php:8
+msgid "Large toolbox"
+msgstr "Großen toolbox"
+
+#: views/theme_options_tab.php:18
+msgid "Middle toolbox"
+msgstr "Mittleren toolbox"
+
+#: views/theme_options_tab.php:28
+msgid "Small toolbox"
+msgstr "Kleine toolbox"
+
+#: views/theme_options_tab.php:38
+msgid "All in one button"
+msgstr "Alles in einer Schaltfläche"
+
+#: views/theme_options_tab.php:122
+msgid "Show AddThis on:"
+msgstr ""
+
+#: views/theme_options_tab.php:131
+msgid "Single Car Page"
+msgstr "Einzelseite"
+
+#: views/theme_options_tab.php:142
+msgid "Single Blog Page"
+msgstr "Einzelseite"
+
+#: widget/addthis_widget.php:8
+msgid "Displays share buttons."
+msgstr "24/7 Cars & Parts fügen Sie diese Schaltflächen Freigabetyp"
+
+#: widget/addthis_widget.php:9
+msgid "TMM Add This"
+msgstr "24/7 Add This"
+
+#: widget/addthis_widget.php:11
+msgid "Social Share"
+msgstr "Soziales Teilen"
+
+#. Plugin Name of the plugin/theme
+msgid "ThemeMakers AddThis"
+msgstr "24/7 Cars & Parts AddThis"
+
+#. Plugin URI of the plugin/theme
+msgid "http://webtemplatemasters.com"
+msgstr "http://webtemplatemasters.com"
+
+#. Description of the plugin/theme
+msgid "ThemeMakers WordPress AddThis Share"
+msgstr "ThemeMakers Wordpress AddThis Share"
+
+#. Author of the plugin/theme
+msgid "ThemeMakers"
+msgstr "ThemeMakers"
+
+#. Author URI of the plugin/theme
+msgid "http://themeforest.net/user/ThemeMakers"
+msgstr "http://themeforest.net/user/Thememakers"
+
+#~ msgid "ThemeMakers Add This Share"
+#~ msgstr "24/7 Cars & Parts hinzufügen Dieses Teilen"
+
+#~ msgid "Show AddThis on"
+#~ msgstr "AddThis auf anzeigen:"
+
+#~ msgid "Save All Changes"
+#~ msgstr "Alle Änderungen speichern"

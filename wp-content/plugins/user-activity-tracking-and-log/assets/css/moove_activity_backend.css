@@ -1,0 +1,149 @@
+/*
+* Set colors
+*/
+.moove-donation-box-wrapper{
+  padding-right: 40%;
+}
+
+
+.moove-donation-box{
+  position: relative;
+  width: calc(100% - 20px);
+  margin: 16px 0;
+  padding: 0 15px 10px;
+  border: 1px solid #e5e5e5;
+  box-shadow: 0 1px 1px rgba(0,0,0,.04);
+  background: #fff;
+  font-size: 13px;
+}
+
+.moove-donation-box .notice-dismiss:before{
+  float: left;
+  margin:0 4px -2px 0;
+}
+
+.ma-metabox-wrapper .ma-trigger-campaign {
+  border-bottom: 1px solid #ececec;
+  padding: 10px 0;
+  margin-bottom: 15px;
+}
+.ma-metabox-wrapper .ma-log {
+  max-height: 400px;
+  overflow-y: scroll;
+}
+.ma-metabox-wrapper .ma-log table.ma-table {
+  width: 100%;
+}
+.ma-metabox-wrapper .ma-log table.ma-table td {
+  padding: 5px;
+}
+.ma-metabox-wrapper .ma-log table.ma-table thead tr {
+  background-color: #ececec;
+}
+.moove-activity-log-settings {
+  float: left;
+}
+.moove-activity-log-delete-text {
+  margin: 0;
+  line-height: 30px;
+  position: relative;
+  left: 10px;
+  float: left;
+  margin-right: 25px;
+}
+.moove-activity-plugin-wrap,
+.moove-activity-log-report  {
+  position: relative;
+}
+.moove-activity-plugin-wrap .moove-logo,
+.moove-activity-log-report .moove-logo {
+  display: block;
+  width: 67px;
+  height: 16px;
+  position: absolute;
+  top: 60px;
+  right: 0;
+  background: url('../images/logo_moove.png') no-repeat;
+  background-size: cover;
+}
+/*----- Accordion -----*/
+.moove-accordion, .moove-accordion * {
+    -webkit-box-sizing:border-box;
+    -moz-box-sizing:border-box;
+    box-sizing:border-box;
+}
+
+.moove-accordion {
+    overflow:hidden;
+}
+.moove-accordion table {
+  width: 100%;
+}
+.moove-accordion table thead {
+  margin-bottom: 20px;
+  font-weight: 700;
+  font-style: 16px;
+}
+.moove-accordion a:focus,
+.moove-accordion a:focus .media-icon img {
+    box-shadow: none;
+}
+.moove-accordion a {
+  box-shadow: none;
+  text-decoration: none;
+}
+
+/*----- Section Titles -----*/
+.moove-accordion-section-title {
+  width:100%;
+  padding: 10px;
+  display:inline-block;
+  margin-bottom: 5px;
+  background:#eaeaea;
+  border-radius: 3px;
+  transition:all linear 0.15s;
+  /* Type */
+  font-size:13px;
+  font-weight: 700;
+  color:#000;
+}
+
+.moove-accordion-section-title.active, .moove-accordion-section-title:hover {
+  background:#4c4c4c;
+  color: #fff;
+  /* Type */
+  text-decoration:none;
+}
+
+.moove-accordion-section:last-child .moove-accordion-section-title {
+  border-bottom:none;
+}
+
+/*----- Section Content -----*/
+.moove-accordion-section-content {
+  padding: 15px 0;
+  display:none;
+}
+.moove-accordion-cnt {
+  background-color: #fff;
+  padding: 20px;
+}
+.moove-activity-log-report table {
+  width: 100%;
+
+}
+.moove-activity-log-report .moove-activity-log-table {
+  background: #fff;
+  /*padding: 20px;*/
+}
+.moove-activity-log-report .load-more-container {
+  display: none;
+}
+.moove-activity-log-report .pullright {
+  float: right;
+  margin-left: 5px;
+}
+.moove-activity-screen-meta {
+  position: relative;
+  z-index: 10;
+}

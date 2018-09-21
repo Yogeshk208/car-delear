@@ -1,0 +1,116 @@
+/* -------------------------------------------------- */
+/*	Item Car
+/* -------------------------------------------------- */
+
+.item-car {
+	padding-top: 40px;
+
+	.buttons {
+		text-align: right;
+	}
+
+	.gallery {
+		display: block;
+		margin-bottom: 10px;
+		vertical-align: top;
+
+		#{'.no_sidebar'} & {
+			float: none;
+			width: 100%;
+		}
+	}
+
+	.price-title {
+		text-align: right;
+
+		h6 {
+			display: inline-block;
+			margin: 0 15px 0 0;
+		}
+
+		.price {
+			font-size: 28px;
+			line-height: 1.7;
+			margin: 0;
+
+			&:before {
+				display: none;
+			}
+		}
+	}
+
+	.tech {
+		.section-title {
+			margin-bottom: 5px;
+			border-bottom: none;
+		}
+	}
+
+	/* Tech Data List */
+	.data-list {
+		width: 100%;
+		margin: 0 0 20px;
+		padding: 0;
+		list-style: none;
+
+		@include flexbox();
+		@include flex-flow(row wrap);
+
+		&:after {
+			@include clearfix();
+		}
+
+		li {
+			min-width: 30px;
+			padding: 5px 0;
+			line-height: 25px;
+			border-bottom: 1px solid rgba(100, 100, 100, .2);
+
+			@include flex(1 0 50%);
+
+			&:first-child, &:nth-child(2) {
+				border-top: 1px solid rgba(100, 100, 100, .2);
+			}
+
+			&:nth-child(2n-1) {
+				color: #7b7b7b;
+				font-weight: 600;
+			}
+
+			&.vin,
+			&.engine-type,
+			&.body-style { text-transform: uppercase; }
+
+		}
+	}
+}
+
+.image-post-slider-cars-listing {
+	position: relative;
+	margin-bottom: 0;
+	width: 100%;
+
+	ul {
+		list-style: none;
+		margin: 0;
+		z-index: 1;
+
+		li {
+			list-style: none;
+			display: none;
+			width: 100% !important;
+
+			&:first-child {
+				display: block;
+			}
+
+			img,
+			img:hover {
+				display: block;
+				-webkit-backface-visibility: hidden;
+				-moz-backface-visibility: hidden;
+				backface-visibility: hidden;
+			}
+		}
+	}
+}

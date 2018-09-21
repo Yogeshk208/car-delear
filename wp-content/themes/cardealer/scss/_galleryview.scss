@@ -1,0 +1,152 @@
+.item .gallery {
+	width: 100%;
+}
+
+.car-slider-wrapper {
+	margin: 0 0 25px;
+	position: relative;
+
+	/* Loader */
+	&.loader {
+		> * {
+			opacity: 0;
+			filter: alpha(opacity = 0);
+		}
+
+		.loader {
+			width: 100%;
+			height: 100%;
+			opacity: 1;
+			filter: alpha(opacity = 1);
+		}
+	}
+
+	.loader {
+		position: absolute;
+		left: 0;
+		top: 0;
+		opacity: 0;
+		filter: alpha(opacity = 0);
+		background-image: url(../images/preloader.gif);
+		background-position: center center;
+		background-repeat: no-repeat;
+
+		@include transition(opacity .25s ease);
+	}
+
+	.car-slider {
+		position: relative;
+	}
+
+	ul {
+		list-style: none;
+		overflow: hidden;
+
+		> li {
+			/*display: none;*/
+			-webkit-backface-visibility: hidden;
+		}
+
+		img {
+			display: block;
+			width: 100%;
+			-webkit-user-select: none;
+			-moz-user-select: none;
+			-ms-user-select: none;
+			-o-user-select: none;
+			user-select: none;
+		}
+
+		/* Clearfix for the .slides element */
+		.slides {
+			> ul:after {
+				content: ".";
+				display: block;
+				clear: both;
+				visibility: hidden;
+				line-height: 0;
+				height: 0;
+			}
+		}
+	}
+
+	/* Direction Nav */
+	.slider-thumb-controls {
+		display: none;
+	}
+
+	.controls,
+	.slider-thumb-controls {
+		a {
+			width: 30px;
+			height: 30px;
+			margin: -15px 0 0;
+			display: block;
+			position: absolute;
+			top: 50%;
+			z-index: 8;
+			cursor: pointer;
+			opacity: 0.8;
+			filter: alpha(opacity = 80);
+			text-align: center;
+			font: 0/0 a !important;
+			color: #fff;
+			@include transition(all .3s ease);
+
+			@include media('<ipads_l') {
+				opacity: 1;
+			}
+
+			&:hover {
+				color: #fff;
+				opacity: 1;
+				filter: alpha(opacity = 1);
+			}
+		}
+	}
+
+	.nextBtn {
+		right: 5px;
+
+		&:before {
+			font: 26px/26px "fontello";
+			content: '\E8B8';
+		}
+	}
+
+	.prevBtn {
+		left: 5px;
+
+		&:before {
+			font: 26px/26px "fontello";
+			content: '\E8B7';
+		}
+	}
+}
+
+/* Thumbnails */
+#sliderControls {
+	margin: 10px 0 0;
+	overflow: hidden;
+
+	li {
+		margin: 0 7px 10px 0 !important;
+		opacity: .55;
+		filter: alpha(opacity = 55);
+
+		&:hover {
+			opacity: 1;
+			filter: alpha(opacity = 100);
+		}
+
+		> img {
+			width: 100%;
+			display: block;
+
+			cursor: pointer;
+
+			-webkit-backface-visibility: hidden;
+			backface-visibility: hidden;
+		}
+	}
+}

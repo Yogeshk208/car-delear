@@ -1,0 +1,264 @@
+/* ---------------------------------------------------------------------- */
+/*	Animation
+/* ---------------------------------------------------------------------- */
+
+.swipeDownEffect{
+	@include transform(translateY(-100%));
+}
+.swipeDownEffectRun{
+	@include animation(swipeDown 1s cubic-bezier(0.6,0,0.4,1) forwards 1);
+}
+
+@include keyframes(swipeDown) {
+	50%, 60% { transform: translateY(0); }
+	100%     { transform: translateY(100%); }
+}
+
+.swipeDownEffectRun::after {
+	@include animation(fadeOut 1s ease forwards inherit);
+}
+
+@include keyframes(fadeOut) {
+	50%, 60% { opacity: 1; }
+	100%     { opacity: 0; }
+}
+
+.showMeEffect{
+	opacity: 0;
+	@include transition(opacity .35s ease-in-out);
+	@include animation(both);
+}
+
+.masonry article.showMeEffectRun, .touch .showMeEffect {
+	opacity: 1;
+	@include animation(0.2s);
+}
+
+/* -------------------------------------------------- */
+/*	Opacity
+/* -------------------------------------------------- */
+
+.opacityEffect {
+	opacity: 0;
+	@include transition(opacity .4s ease-in-out);
+	@include animation(both);
+}
+
+.touch .opacityEffect { opacity: 1; }
+.opacityEffectRun	  { opacity: 1; }
+
+/* -------------------------------------------------- */
+/*	Scale
+/* -------------------------------------------------- */
+
+.scaleEffect {
+	opacity: 0;
+	@include transform-transition(.4s ease-in-out);
+	@include transform(scale(0.1));
+	@include animation(both);
+}
+
+.touch .scaleEffect {
+	opacity: 1;
+	@include animation(scaleEffectRun 1s cubic-bezier(0.175, 0.885, 0.320, 1.275));
+	@include transform(scale(1));
+}
+
+.scaleEffectRun {
+	opacity: 1;
+	@include animation(scaleEffectRun 1s cubic-bezier(0.175, 0.885, 0.320, 1.275));
+	@include transform(scale(1));
+}
+
+/* -------------------------------------------------- */
+/*	Rotate
+/* -------------------------------------------------- */
+
+.rotateEffect {
+	opacity: 0;
+	@include transform-transition(.35s ease-in-out, opacity .35s ease-in-out);
+	@include transform(rotate(0deg) scale(0.1));
+	@include animation(both);
+}
+
+.touch .rotateEffect {
+	opacity: 1;
+	@include animation(rotateEffectRun 1s ease);
+	@include transform(rotate(360deg) scale(1));
+}
+
+.rotateEffectRun {
+	opacity: 1;
+	@include animation(rotateEffectRun 1s ease);
+	@include transform(rotate(360deg) scale(1));
+}
+
+/* -------------------------------------------------- */
+/*	Slide Right
+/* -------------------------------------------------- */
+
+.slideRightEffect {
+	opacity: 0;
+	@include transform-transition(.45s ease-in-out, opacity .45s ease-in-out);
+	@include transform(translateX(-15%));
+	@include animation(both);
+}
+
+.touch .slideRightEffect {
+	opacity: 1;
+	@include animation(slideRightEffectRun 1s cubic-bezier(0.175, 0.885, 0.32, 1.275));
+	@include transform(translateX(0));
+}
+
+.slideRightEffectRun {
+	opacity: 1;
+	@include animation(slideRightEffectRun 1s cubic-bezier(0.175, 0.885, 0.32, 1.275));
+	@include transform(translateX(0));
+}
+
+/* -------------------------------------------------- */
+/*	Slide Left
+/* -------------------------------------------------- */
+
+.slideLeftEffect {
+	opacity: 0;
+	@include transform-transition(.45s ease-in-out, opacity .45s ease-in-out);
+	@include transform(translateX(15%));
+	@include animation(both);
+}
+
+.touch .slideLeftEffect {
+	opacity: 1;
+	@include animation(slideLeftEffectRun 1s cubic-bezier(0.175, 0.885, 0.32, 1.275));
+	@include transform(translateX(0));
+}
+
+.slideLeftEffectRun {
+	opacity: 1;
+	@include animation(slideLeftEffectRun 1s cubic-bezier(0.175, 0.885, 0.32, 1.275));
+	@include transform(translateX(0));
+}
+
+/* -------------------------------------------------- */
+/*	Slide Down
+/* -------------------------------------------------- */
+
+.slideDownEffect {
+	opacity: 0;
+	@include transform-transition(.35s ease-in-out, opacity .35s ease-in-out);
+	@include transform(translateY(-15%));
+	@include animation(both);
+}
+
+.touch .slideDownEffect {
+	opacity: 1;
+	@include animation(slideDownEffectRun 1s cubic-bezier(0.175, 0.885, 0.32, 1.275));
+	@include transform(translateY(0));
+}
+
+.slideDownEffectRun {
+	opacity: 1;
+	@include animation(slideDownEffectRun 1s cubic-bezier(0.175, 0.885, 0.32, 1.275));
+	@include transform(translateY(0));
+}
+
+/* -------------------------------------------------- */
+/*	Slide Up
+/* -------------------------------------------------- */
+
+.slideUpEffect {
+	opacity: 0;
+	@include transform-transition(.45s ease-in-out, opacity .45s ease-in-out);
+	@include transform(translateY(15%));
+	@include animation(both);
+}
+
+.touch .slideUpEffect {
+	opacity: 1;
+	@include animation(slideUpEffectRun);
+	@include transform(translateY(0));
+}
+
+.slideUpEffectRun {
+	opacity: 1;
+	@include animation(slideUpEffectRun);
+	@include transform(translateY(0));
+}
+
+/* -------------------------------------------------- */
+/*	Other Effects
+/* -------------------------------------------------- */
+
+.translateEffect {
+	opacity: 0;
+	@include transform-transition(.30s ease-in-out, opacity .30s ease-in-out);
+	@include transform(translateY(50%));
+	@include animation(both);
+}
+
+.touch .translateEffect {
+	opacity: 1;
+	@include transform(translateY(0));
+}
+
+.translateEffectRun {
+	opacity: 1;
+	@include transform(translateY(0));
+}
+
+/* ---------------------------------------------------------------------- */
+/*	Function Animation
+/* ---------------------------------------------------------------------- */
+
+/* Scale */
+
+@include keyframes(scaleEffectRun) {
+	0%   { transform: scale(0.1); opacity: 0; }
+	100% { transform: scale(1); opacity: 1; }
+}
+
+/* Rotate */
+
+@include keyframes(rotateEffectRun) {
+	0%   { transform: rotate(0deg) scale(0.1); }
+	100% { transform: rotate(360deg) scale(1); }
+}
+
+/* SlideLeft */
+
+@include keyframes(slideLeftEffectRun) {
+	0%   { transform: translateX(15%); }
+	100% { transform: translateX(0); }
+}
+
+/* SlideRight */
+
+@include keyframes (slideRightEffectRun) {
+	0%   { transform: translateX(-15%); }
+	100% { transform: translateX(0); }
+}
+
+/* SlideDown */
+
+@include keyframes(slideDownEffectRun) {
+	0%   { transform: translateY(-15%); }
+	100% { transform: translateY(0); }
+}
+
+/* SlideUp */
+
+@include keyframes(slideUpEffectRun) {
+	0%	 { transform: translateY(15%); }
+	100% { transform: translateY(0); }
+}
+
+/* SlideUpDown */
+
+@include keyframes(wobble-vertical) {
+	16.65% {transform: translateY(8px);}
+	33.3% {transform: translateY(-6px);}
+	49.95% {transform: translateY(4px);}
+	66.6% {transform: translateY(-2px);}
+	83.25% {transform: translateY(1px);}
+	100% {transform: translateY(0);}
+}

@@ -1,0 +1,281 @@
+array (
+  0 => 
+  array (
+    'term_taxonomy_id' => '1',
+    'term_id' => '1',
+    'taxonomy' => 'category',
+    'description' => '',
+    'parent' => '0',
+    'count' => '1',
+  ),
+  1 => 
+  array (
+    'term_taxonomy_id' => '2',
+    'term_id' => '2',
+    'taxonomy' => 'product_type',
+    'description' => '',
+    'parent' => '0',
+    'count' => '13',
+  ),
+  2 => 
+  array (
+    'term_taxonomy_id' => '3',
+    'term_id' => '3',
+    'taxonomy' => 'product_type',
+    'description' => '',
+    'parent' => '0',
+    'count' => '1',
+  ),
+  3 => 
+  array (
+    'term_taxonomy_id' => '4',
+    'term_id' => '4',
+    'taxonomy' => 'product_type',
+    'description' => '',
+    'parent' => '0',
+    'count' => '2',
+  ),
+  4 => 
+  array (
+    'term_taxonomy_id' => '5',
+    'term_id' => '5',
+    'taxonomy' => 'product_type',
+    'description' => '',
+    'parent' => '0',
+    'count' => '1',
+  ),
+  5 => 
+  array (
+    'term_taxonomy_id' => '6',
+    'term_id' => '6',
+    'taxonomy' => 'product_visibility',
+    'description' => '',
+    'parent' => '0',
+    'count' => '1',
+  ),
+  6 => 
+  array (
+    'term_taxonomy_id' => '7',
+    'term_id' => '7',
+    'taxonomy' => 'product_visibility',
+    'description' => '',
+    'parent' => '0',
+    'count' => '1',
+  ),
+  7 => 
+  array (
+    'term_taxonomy_id' => '8',
+    'term_id' => '8',
+    'taxonomy' => 'product_visibility',
+    'description' => '',
+    'parent' => '0',
+    'count' => '5',
+  ),
+  8 => 
+  array (
+    'term_taxonomy_id' => '9',
+    'term_id' => '9',
+    'taxonomy' => 'product_visibility',
+    'description' => '',
+    'parent' => '0',
+    'count' => '0',
+  ),
+  9 => 
+  array (
+    'term_taxonomy_id' => '10',
+    'term_id' => '10',
+    'taxonomy' => 'product_visibility',
+    'description' => '',
+    'parent' => '0',
+    'count' => '0',
+  ),
+  10 => 
+  array (
+    'term_taxonomy_id' => '11',
+    'term_id' => '11',
+    'taxonomy' => 'product_visibility',
+    'description' => '',
+    'parent' => '0',
+    'count' => '0',
+  ),
+  11 => 
+  array (
+    'term_taxonomy_id' => '12',
+    'term_id' => '12',
+    'taxonomy' => 'product_visibility',
+    'description' => '',
+    'parent' => '0',
+    'count' => '0',
+  ),
+  12 => 
+  array (
+    'term_taxonomy_id' => '13',
+    'term_id' => '13',
+    'taxonomy' => 'product_visibility',
+    'description' => '',
+    'parent' => '0',
+    'count' => '0',
+  ),
+  13 => 
+  array (
+    'term_taxonomy_id' => '14',
+    'term_id' => '14',
+    'taxonomy' => 'product_visibility',
+    'description' => '',
+    'parent' => '0',
+    'count' => '0',
+  ),
+  14 => 
+  array (
+    'term_taxonomy_id' => '15',
+    'term_id' => '15',
+    'taxonomy' => 'product_cat',
+    'description' => '',
+    'parent' => '0',
+    'count' => '0',
+  ),
+  15 => 
+  array (
+    'term_taxonomy_id' => '16',
+    'term_id' => '16',
+    'taxonomy' => 'product_cat',
+    'description' => '',
+    'parent' => '0',
+    'count' => '1',
+  ),
+  16 => 
+  array (
+    'term_taxonomy_id' => '17',
+    'term_id' => '17',
+    'taxonomy' => 'product_cat',
+    'description' => '',
+    'parent' => '16',
+    'count' => '5',
+  ),
+  17 => 
+  array (
+    'term_taxonomy_id' => '18',
+    'term_id' => '18',
+    'taxonomy' => 'product_cat',
+    'description' => '',
+    'parent' => '16',
+    'count' => '4',
+  ),
+  18 => 
+  array (
+    'term_taxonomy_id' => '19',
+    'term_id' => '19',
+    'taxonomy' => 'product_cat',
+    'description' => '',
+    'parent' => '16',
+    'count' => '5',
+  ),
+  19 => 
+  array (
+    'term_taxonomy_id' => '20',
+    'term_id' => '20',
+    'taxonomy' => 'product_cat',
+    'description' => '',
+    'parent' => '0',
+    'count' => '1',
+  ),
+  20 => 
+  array (
+    'term_taxonomy_id' => '21',
+    'term_id' => '21',
+    'taxonomy' => 'product_cat',
+    'description' => '',
+    'parent' => '0',
+    'count' => '1',
+  ),
+  21 => 
+  array (
+    'term_taxonomy_id' => '22',
+    'term_id' => '22',
+    'taxonomy' => 'pa_color',
+    'description' => '',
+    'parent' => '0',
+    'count' => '4',
+  ),
+  22 => 
+  array (
+    'term_taxonomy_id' => '23',
+    'term_id' => '23',
+    'taxonomy' => 'pa_color',
+    'description' => '',
+    'parent' => '0',
+    'count' => '3',
+  ),
+  23 => 
+  array (
+    'term_taxonomy_id' => '24',
+    'term_id' => '24',
+    'taxonomy' => 'pa_color',
+    'description' => '',
+    'parent' => '0',
+    'count' => '4',
+  ),
+  24 => 
+  array (
+    'term_taxonomy_id' => '25',
+    'term_id' => '25',
+    'taxonomy' => 'pa_size',
+    'description' => '',
+    'parent' => '0',
+    'count' => '1',
+  ),
+  25 => 
+  array (
+    'term_taxonomy_id' => '26',
+    'term_id' => '26',
+    'taxonomy' => 'pa_size',
+    'description' => '',
+    'parent' => '0',
+    'count' => '1',
+  ),
+  26 => 
+  array (
+    'term_taxonomy_id' => '27',
+    'term_id' => '27',
+    'taxonomy' => 'pa_size',
+    'description' => '',
+    'parent' => '0',
+    'count' => '1',
+  ),
+  27 => 
+  array (
+    'term_taxonomy_id' => '28',
+    'term_id' => '28',
+    'taxonomy' => 'pa_color',
+    'description' => '',
+    'parent' => '0',
+    'count' => '3',
+  ),
+  28 => 
+  array (
+    'term_taxonomy_id' => '29',
+    'term_id' => '29',
+    'taxonomy' => 'pa_color',
+    'description' => '',
+    'parent' => '0',
+    'count' => '1',
+  ),
+  29 => 
+  array (
+    'term_taxonomy_id' => '30',
+    'term_id' => '30',
+    'taxonomy' => 'nav_menu',
+    'description' => '',
+    'parent' => '0',
+    'count' => '13',
+  ),
+  30 => 
+  array (
+    'term_taxonomy_id' => '31',
+    'term_id' => '31',
+    'taxonomy' => 'nav_menu',
+    'description' => '',
+    'parent' => '0',
+    'count' => '0',
+  ),
+)

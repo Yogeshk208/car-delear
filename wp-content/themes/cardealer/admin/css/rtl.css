@@ -1,0 +1,89 @@
+input[type="text"],
+.tmm-lc-column-title {
+	font-style: normal !important;
+}
+
+textarea[name="custom_css"] {
+	direction: ltr !important;
+}
+
+
+#options-framework .section .controls {
+	padding-right: 0 !important;
+	padding-left: 5%;
+}
+
+.option input[type="checkbox"] + label span,
+.option input[type="radio"] + label span,
+.tmm-popup-content input[type="checkbox"] + label span,
+.tmm-popup-content input[type="checkbox"] + label,
+.tmm-popup-content input[type="radio"] + label span{
+	margin-right: 0 !important;
+	margin-left: 5px;
+}
+
+.tmm_shortcode_template .tmm-mover:after {
+	left: 10px !important;
+	right: auto !important;
+}
+
+.tmm-popup-overlay {
+	margin-left: 0 !important;
+	margin-right: 160px !important;
+}
+
+.tmm-popup-header .tmm-popup-close {
+	right: auto !important;
+	left: 8px;
+}
+
+#tmm_layout_constructor .tmm-lc-row-buttons-wrapper {
+	text-align: left;
+}
+
+.large_toolbox_above + label:after,
+.fb_tw_p1_sc_above + label:after,
+.small_toolbox_above + label:after,
+.button_above + label:after {
+	left: 0;
+	right: 130px;
+}
+
+.slide-options-dialog h3 {
+	text-indent: 30px;
+}
+
+.edit {
+	left: 35px !important;
+	right: auto !important;
+}
+
+.remove {
+	left: 5px !important;
+	right: auto !important;
+}
+
+.js_back_to_group_data_list,
+.js_back_to_user_roles_list,
+.admin-button.js_back_to_forms_list,
+.admin-button.js_back_to_sidebars_list,
+.admin-button.js_back_to_seo_list {
+	left: 30px !important;
+	right: auto !important;
+}
+
+.switch {
+	left: auto !important;
+	right: 40px !important;
+}
+
+.custom-page-options select,
+.tmm-popup-content select,
+#options-framework select {
+	padding-right: 40px !important;
+}
+
+.ui-slider-item:before {
+	left: 0;
+	right: auto !important;
+}

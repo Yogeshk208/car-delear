@@ -1,0 +1,64 @@
+
+/* Buttons Types */
+
+.addthis_buttons_type, 
+.addthis_own_buttons, 
+.show_buttons_on{
+    padding-top: 10px;
+    padding-left: 10px;
+    background: #fff;
+    width: 334px;
+}
+.addthis_buttons_type input{
+    float: left;
+}
+
+/* Labels */
+.large_toolbox_above + label,
+.fb_tw_p1_sc_above + label,
+.small_toolbox_above + label,
+.button_above + label{
+    position: relative;
+}
+
+.large_toolbox_above + label:after{
+    background:  url('../images/toolbox-large.png') no-repeat;
+    height: 32px;
+    width: 246px;
+    display: block;
+    position: absolute;
+    content: "";
+    top:-5px;
+    left: 130px;
+}
+.fb_tw_p1_sc_above + label:after{
+    background:  url('../images/horizontal_share_rect.png') no-repeat;
+    height: 32px;
+    width: 290px;
+    display: block;
+    position: absolute;
+    content: "";
+    top:-5px;
+    left: 130px;
+}
+.small_toolbox_above + label:after{
+    background:  url('../images/toolbox-small.png') no-repeat;
+    height: 32px;
+    width: 246px;
+    display: block;
+    position: absolute;
+    content: "";
+    top: 0px;
+    left: 130px;
+}
+.button_above + label:after{
+    background:  url('../images/horizontal_share.png') no-repeat;
+    height: 32px;
+    width: 246px;
+    display: block;
+    position: absolute;
+    content: "";
+    top: 0px;
+    left: 130px;
+}
+

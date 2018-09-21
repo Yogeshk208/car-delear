@@ -1,0 +1,227 @@
+@charset "UTF-8";
+/*
+ * jQuery File Upload Plugin CSS 1.3.0
+ * https://github.com/blueimp/jQuery-File-Upload
+ *
+ * Copyright 2013, Sebastian Tschan
+ * https://blueimp.net
+ *
+ * Licensed under the MIT license:
+ * http://www.opensource.org/licenses/MIT
+ */
+
+.fade {
+	opacity: 0;
+	-webkit-transition: opacity .15s linear;
+	-o-transition: opacity .15s linear;
+	transition: opacity .15s linear;
+
+	&.in {
+		opacity: 1;
+	}
+}
+
+.fileupload-progress {
+	margin: 10px 0;
+
+	&.fade {
+		display: none;
+	}
+
+	&.in {
+		display: block;
+	}
+
+	.progress {
+		height: 20px;
+		margin-bottom: 20px;
+		overflow: hidden;
+		background-color: #f5f5f5;
+		border-radius: 4px;
+		-webkit-box-shadow: inset 0 1px 2px rgba(0,0,0,.1);
+		box-shadow: inset 0 1px 2px rgba(0,0,0,.1);
+	}
+
+	.progress-extended {
+		margin-top: 5px;
+		color: #777676;
+		font-size: 12px;
+		font-weight: 700;
+	}
+
+	.error {
+		color: red;
+	}
+}
+
+// Bar animations
+// -------------------------
+
+// WebKit
+@-webkit-keyframes progress-bar-stripes {
+	from  { background-position: 40px 0; }
+	to    { background-position: 0 0; }
+}
+
+// Spec and IE10+
+@keyframes progress-bar-stripes {
+	from  { background-position: 40px 0; }
+	to    { background-position: 0 0; }
+}
+
+.progress.active .progress-bar, .progress-bar.active {
+	-webkit-animation: progress-bar-stripes 2s linear infinite;
+	-o-animation: progress-bar-stripes 2s linear infinite;
+	animation: progress-bar-stripes 2s linear infinite;
+}
+.progress-striped .progress-bar-success {
+	background-image: -webkit-linear-gradient(45deg,rgba(255,255,255,.15) 25%,transparent 25%,transparent 50%,rgba(255,255,255,.15) 50%,rgba(255,255,255,.15) 75%,transparent 75%,transparent);
+	background-image: -o-linear-gradient(45deg,rgba(255,255,255,.15) 25%,transparent 25%,transparent 50%,rgba(255,255,255,.15) 50%,rgba(255,255,255,.15) 75%,transparent 75%,transparent);
+	background-image: linear-gradient(45deg,rgba(255,255,255,.15) 25%,transparent 25%,transparent 50%,rgba(255,255,255,.15) 50%,rgba(255,255,255,.15) 75%,transparent 75%,transparent);
+}
+.progress-striped .progress-bar, .progress-bar-striped {
+	background-image: -webkit-linear-gradient(45deg,rgba(255,255,255,.15) 25%,transparent 25%,transparent 50%,rgba(255,255,255,.15) 50%,rgba(255,255,255,.15) 75%,transparent 75%,transparent);
+	background-image: -o-linear-gradient(45deg,rgba(255,255,255,.15) 25%,transparent 25%,transparent 50%,rgba(255,255,255,.15) 50%,rgba(255,255,255,.15) 75%,transparent 75%,transparent);
+	background-image: linear-gradient(45deg,rgba(255,255,255,.15) 25%,transparent 25%,transparent 50%,rgba(255,255,255,.15) 50%,rgba(255,255,255,.15) 75%,transparent 75%,transparent);
+	-webkit-background-size: 40px 40px;
+	background-size: 40px 40px;
+}
+.progress-bar-success {
+	background-color: #5cb85c;
+}
+.progress-bar {
+	float: left;
+	width: 0;
+	height: 100%;
+	font-size: 12px;
+	line-height: 20px;
+	color: #fff;
+	text-align: center;
+	background-color: #428bca;
+	-webkit-box-shadow: inset 0 -1px 0 rgba(0,0,0,.15);
+	box-shadow: inset 0 -1px 0 rgba(0,0,0,.15);
+	-webkit-transition: width .6s ease;
+	-o-transition: width .6s ease;
+	transition: width .6s ease;
+}
+
+// File Upload Custom Styles
+.tmm-fileupload {
+	p {
+		font-size: 12px;
+		line-height: 1.6em;
+		color: #7d7d7d;
+	}
+
+	table {
+		width: 100%;
+		margin: 20px 0;
+		text-align: center;
+		border-collapse: collapse;
+	}
+
+	.preview {
+		float: none;
+	}
+
+	.fileupload_presentation {
+		tr {
+			td {
+				padding: 5px 0;
+				vertical-align: middle;
+				text-align: center;
+				-webkit-transition: width .6s ease;
+				-o-transition: width .6s ease;
+				transition: width .6s ease;
+
+				&:first-child {
+					text-align: left;
+				}
+
+				&:last-child {
+					text-align: right;
+					padding-right: 20px;
+				}
+
+				p {margin: 0;}
+
+				.preview {
+					img {
+						display: block;
+						width: auto;
+						height: auto;
+						max-width: 80px;
+						max-height: 80px;
+					}
+				}
+			}
+
+			&:first-child {
+				td {
+					background-color: rgba(50,50,50,.1) !important;
+				}
+			}
+
+			&:hover {
+				td {
+					background-color: rgba(50,50,50,.05);
+				}
+			}
+		}
+
+		.set_main_image {
+			color: #585757;
+			font-size: 16px;
+			white-space: nowrap;
+		}
+	}
+
+	.error-msg {
+		color: red;
+		font-weight: 700;
+	}
+}
+
+.fileinput-button {
+	position: relative;
+	overflow: hidden;
+	display: inline-block;
+
+	input {
+		position: absolute;
+		top: 0;
+		right: 0;
+		margin: 0;
+		opacity: 0;
+		-ms-filter: 'alpha(opacity=0)';
+		font-size: 200px !important;
+		direction: ltr;
+		cursor: pointer;
+	}
+}
+
+.fileupload-buttonbar {
+	.btn, .toggle {
+		vertical-align: top;
+		margin: 0 5px 5px 0;
+		display: inline-block;
+	}
+}
+
+.progress-animated .progress-bar,
+.progress-animated .bar {
+	background: url("../../images/progressbar.gif") !important;
+	filter: none;
+}
+.fileupload-process {
+	float: right;
+	display: none;
+}
+.fileupload-processing .fileupload-process,
+.files .processing .preview {
+	display: block;
+	width: 128px;
+	height: 15px;
+	background: url("../../images/loading.gif") center no-repeat;
+	background-size: contain;
+}

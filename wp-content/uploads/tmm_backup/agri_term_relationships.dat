@@ -1,0 +1,482 @@
+array (
+  0 => 
+  array (
+    'object_id' => '1',
+    'term_taxonomy_id' => '1',
+    'term_order' => '0',
+  ),
+  1 => 
+  array (
+    'object_id' => '11',
+    'term_taxonomy_id' => '4',
+    'term_order' => '0',
+  ),
+  2 => 
+  array (
+    'object_id' => '11',
+    'term_taxonomy_id' => '8',
+    'term_order' => '0',
+  ),
+  3 => 
+  array (
+    'object_id' => '11',
+    'term_taxonomy_id' => '17',
+    'term_order' => '0',
+  ),
+  4 => 
+  array (
+    'object_id' => '11',
+    'term_taxonomy_id' => '22',
+    'term_order' => '0',
+  ),
+  5 => 
+  array (
+    'object_id' => '11',
+    'term_taxonomy_id' => '23',
+    'term_order' => '0',
+  ),
+  6 => 
+  array (
+    'object_id' => '11',
+    'term_taxonomy_id' => '24',
+    'term_order' => '0',
+  ),
+  7 => 
+  array (
+    'object_id' => '11',
+    'term_taxonomy_id' => '25',
+    'term_order' => '0',
+  ),
+  8 => 
+  array (
+    'object_id' => '11',
+    'term_taxonomy_id' => '26',
+    'term_order' => '0',
+  ),
+  9 => 
+  array (
+    'object_id' => '11',
+    'term_taxonomy_id' => '27',
+    'term_order' => '0',
+  ),
+  10 => 
+  array (
+    'object_id' => '12',
+    'term_taxonomy_id' => '4',
+    'term_order' => '0',
+  ),
+  11 => 
+  array (
+    'object_id' => '12',
+    'term_taxonomy_id' => '18',
+    'term_order' => '0',
+  ),
+  12 => 
+  array (
+    'object_id' => '12',
+    'term_taxonomy_id' => '22',
+    'term_order' => '0',
+  ),
+  13 => 
+  array (
+    'object_id' => '12',
+    'term_taxonomy_id' => '23',
+    'term_order' => '0',
+  ),
+  14 => 
+  array (
+    'object_id' => '12',
+    'term_taxonomy_id' => '24',
+    'term_order' => '0',
+  ),
+  15 => 
+  array (
+    'object_id' => '13',
+    'term_taxonomy_id' => '2',
+    'term_order' => '0',
+  ),
+  16 => 
+  array (
+    'object_id' => '13',
+    'term_taxonomy_id' => '18',
+    'term_order' => '0',
+  ),
+  17 => 
+  array (
+    'object_id' => '13',
+    'term_taxonomy_id' => '22',
+    'term_order' => '0',
+  ),
+  18 => 
+  array (
+    'object_id' => '14',
+    'term_taxonomy_id' => '2',
+    'term_order' => '0',
+  ),
+  19 => 
+  array (
+    'object_id' => '14',
+    'term_taxonomy_id' => '17',
+    'term_order' => '0',
+  ),
+  20 => 
+  array (
+    'object_id' => '14',
+    'term_taxonomy_id' => '28',
+    'term_order' => '0',
+  ),
+  21 => 
+  array (
+    'object_id' => '15',
+    'term_taxonomy_id' => '2',
+    'term_order' => '0',
+  ),
+  22 => 
+  array (
+    'object_id' => '15',
+    'term_taxonomy_id' => '19',
+    'term_order' => '0',
+  ),
+  23 => 
+  array (
+    'object_id' => '15',
+    'term_taxonomy_id' => '24',
+    'term_order' => '0',
+  ),
+  24 => 
+  array (
+    'object_id' => '16',
+    'term_taxonomy_id' => '2',
+    'term_order' => '0',
+  ),
+  25 => 
+  array (
+    'object_id' => '16',
+    'term_taxonomy_id' => '19',
+    'term_order' => '0',
+  ),
+  26 => 
+  array (
+    'object_id' => '17',
+    'term_taxonomy_id' => '2',
+    'term_order' => '0',
+  ),
+  27 => 
+  array (
+    'object_id' => '17',
+    'term_taxonomy_id' => '8',
+    'term_order' => '0',
+  ),
+  28 => 
+  array (
+    'object_id' => '17',
+    'term_taxonomy_id' => '19',
+    'term_order' => '0',
+  ),
+  29 => 
+  array (
+    'object_id' => '17',
+    'term_taxonomy_id' => '29',
+    'term_order' => '0',
+  ),
+  30 => 
+  array (
+    'object_id' => '18',
+    'term_taxonomy_id' => '2',
+    'term_order' => '0',
+  ),
+  31 => 
+  array (
+    'object_id' => '18',
+    'term_taxonomy_id' => '8',
+    'term_order' => '0',
+  ),
+  32 => 
+  array (
+    'object_id' => '18',
+    'term_taxonomy_id' => '19',
+    'term_order' => '0',
+  ),
+  33 => 
+  array (
+    'object_id' => '19',
+    'term_taxonomy_id' => '2',
+    'term_order' => '0',
+  ),
+  34 => 
+  array (
+    'object_id' => '19',
+    'term_taxonomy_id' => '6',
+    'term_order' => '0',
+  ),
+  35 => 
+  array (
+    'object_id' => '19',
+    'term_taxonomy_id' => '7',
+    'term_order' => '0',
+  ),
+  36 => 
+  array (
+    'object_id' => '19',
+    'term_taxonomy_id' => '8',
+    'term_order' => '0',
+  ),
+  37 => 
+  array (
+    'object_id' => '19',
+    'term_taxonomy_id' => '18',
+    'term_order' => '0',
+  ),
+  38 => 
+  array (
+    'object_id' => '19',
+    'term_taxonomy_id' => '28',
+    'term_order' => '0',
+  ),
+  39 => 
+  array (
+    'object_id' => '20',
+    'term_taxonomy_id' => '2',
+    'term_order' => '0',
+  ),
+  40 => 
+  array (
+    'object_id' => '20',
+    'term_taxonomy_id' => '8',
+    'term_order' => '0',
+  ),
+  41 => 
+  array (
+    'object_id' => '20',
+    'term_taxonomy_id' => '18',
+    'term_order' => '0',
+  ),
+  42 => 
+  array (
+    'object_id' => '21',
+    'term_taxonomy_id' => '2',
+    'term_order' => '0',
+  ),
+  43 => 
+  array (
+    'object_id' => '21',
+    'term_taxonomy_id' => '17',
+    'term_order' => '0',
+  ),
+  44 => 
+  array (
+    'object_id' => '21',
+    'term_taxonomy_id' => '23',
+    'term_order' => '0',
+  ),
+  45 => 
+  array (
+    'object_id' => '22',
+    'term_taxonomy_id' => '2',
+    'term_order' => '0',
+  ),
+  46 => 
+  array (
+    'object_id' => '22',
+    'term_taxonomy_id' => '17',
+    'term_order' => '0',
+  ),
+  47 => 
+  array (
+    'object_id' => '22',
+    'term_taxonomy_id' => '22',
+    'term_order' => '0',
+  ),
+  48 => 
+  array (
+    'object_id' => '23',
+    'term_taxonomy_id' => '2',
+    'term_order' => '0',
+  ),
+  49 => 
+  array (
+    'object_id' => '23',
+    'term_taxonomy_id' => '20',
+    'term_order' => '0',
+  ),
+  50 => 
+  array (
+    'object_id' => '25',
+    'term_taxonomy_id' => '15',
+    'term_order' => '0',
+  ),
+  51 => 
+  array (
+    'object_id' => '26',
+    'term_taxonomy_id' => '15',
+    'term_order' => '0',
+  ),
+  52 => 
+  array (
+    'object_id' => '27',
+    'term_taxonomy_id' => '15',
+    'term_order' => '0',
+  ),
+  53 => 
+  array (
+    'object_id' => '28',
+    'term_taxonomy_id' => '15',
+    'term_order' => '0',
+  ),
+  54 => 
+  array (
+    'object_id' => '29',
+    'term_taxonomy_id' => '15',
+    'term_order' => '0',
+  ),
+  55 => 
+  array (
+    'object_id' => '30',
+    'term_taxonomy_id' => '15',
+    'term_order' => '0',
+  ),
+  56 => 
+  array (
+    'object_id' => '31',
+    'term_taxonomy_id' => '2',
+    'term_order' => '0',
+  ),
+  57 => 
+  array (
+    'object_id' => '31',
+    'term_taxonomy_id' => '17',
+    'term_order' => '0',
+  ),
+  58 => 
+  array (
+    'object_id' => '31',
+    'term_taxonomy_id' => '28',
+    'term_order' => '0',
+  ),
+  59 => 
+  array (
+    'object_id' => '32',
+    'term_taxonomy_id' => '2',
+    'term_order' => '0',
+  ),
+  60 => 
+  array (
+    'object_id' => '32',
+    'term_taxonomy_id' => '19',
+    'term_order' => '0',
+  ),
+  61 => 
+  array (
+    'object_id' => '32',
+    'term_taxonomy_id' => '24',
+    'term_order' => '0',
+  ),
+  62 => 
+  array (
+    'object_id' => '33',
+    'term_taxonomy_id' => '3',
+    'term_order' => '0',
+  ),
+  63 => 
+  array (
+    'object_id' => '33',
+    'term_taxonomy_id' => '16',
+    'term_order' => '0',
+  ),
+  64 => 
+  array (
+    'object_id' => '34',
+    'term_taxonomy_id' => '5',
+    'term_order' => '0',
+  ),
+  65 => 
+  array (
+    'object_id' => '34',
+    'term_taxonomy_id' => '21',
+    'term_order' => '0',
+  ),
+  66 => 
+  array (
+    'object_id' => '35',
+    'term_taxonomy_id' => '15',
+    'term_order' => '0',
+  ),
+  67 => 
+  array (
+    'object_id' => '57',
+    'term_taxonomy_id' => '30',
+    'term_order' => '0',
+  ),
+  68 => 
+  array (
+    'object_id' => '58',
+    'term_taxonomy_id' => '30',
+    'term_order' => '0',
+  ),
+  69 => 
+  array (
+    'object_id' => '60',
+    'term_taxonomy_id' => '30',
+    'term_order' => '0',
+  ),
+  70 => 
+  array (
+    'object_id' => '61',
+    'term_taxonomy_id' => '30',
+    'term_order' => '0',
+  ),
+  71 => 
+  array (
+    'object_id' => '62',
+    'term_taxonomy_id' => '30',
+    'term_order' => '0',
+  ),
+  72 => 
+  array (
+    'object_id' => '63',
+    'term_taxonomy_id' => '30',
+    'term_order' => '0',
+  ),
+  73 => 
+  array (
+    'object_id' => '64',
+    'term_taxonomy_id' => '30',
+    'term_order' => '0',
+  ),
+  74 => 
+  array (
+    'object_id' => '65',
+    'term_taxonomy_id' => '30',
+    'term_order' => '0',
+  ),
+  75 => 
+  array (
+    'object_id' => '66',
+    'term_taxonomy_id' => '30',
+    'term_order' => '0',
+  ),
+  76 => 
+  array (
+    'object_id' => '67',
+    'term_taxonomy_id' => '30',
+    'term_order' => '0',
+  ),
+  77 => 
+  array (
+    'object_id' => '68',
+    'term_taxonomy_id' => '30',
+    'term_order' => '0',
+  ),
+  78 => 
+  array (
+    'object_id' => '69',
+    'term_taxonomy_id' => '30',
+    'term_order' => '0',
+  ),
+  79 => 
+  array (
+    'object_id' => '70',
+    'term_taxonomy_id' => '30',
+    'term_order' => '0',
+  ),
+)

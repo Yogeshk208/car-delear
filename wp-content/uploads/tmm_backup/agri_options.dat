@@ -1,0 +1,4669 @@
+array (
+  0 => 
+  array (
+    'option_id' => '1',
+    'option_name' => 'siteurl',
+    'option_value' => '__tmm_old_home_url__',
+    'autoload' => 'yes',
+  ),
+  1 => 
+  array (
+    'option_id' => '2',
+    'option_name' => 'home',
+    'option_value' => '__tmm_old_home_url__',
+    'autoload' => 'yes',
+  ),
+  2 => 
+  array (
+    'option_id' => '3',
+    'option_name' => 'blogname',
+    'option_value' => 'Agriculture',
+    'autoload' => 'yes',
+  ),
+  3 => 
+  array (
+    'option_id' => '4',
+    'option_name' => 'blogdescription',
+    'option_value' => '',
+    'autoload' => 'yes',
+  ),
+  4 => 
+  array (
+    'option_id' => '5',
+    'option_name' => 'users_can_register',
+    'option_value' => '1',
+    'autoload' => 'yes',
+  ),
+  5 => 
+  array (
+    'option_id' => '6',
+    'option_name' => 'admin_email',
+    'option_value' => 'yogeshk2081991@gmail.com',
+    'autoload' => 'yes',
+  ),
+  6 => 
+  array (
+    'option_id' => '7',
+    'option_name' => 'start_of_week',
+    'option_value' => '1',
+    'autoload' => 'yes',
+  ),
+  7 => 
+  array (
+    'option_id' => '8',
+    'option_name' => 'use_balanceTags',
+    'option_value' => '0',
+    'autoload' => 'yes',
+  ),
+  8 => 
+  array (
+    'option_id' => '9',
+    'option_name' => 'use_smilies',
+    'option_value' => '1',
+    'autoload' => 'yes',
+  ),
+  9 => 
+  array (
+    'option_id' => '10',
+    'option_name' => 'require_name_email',
+    'option_value' => '1',
+    'autoload' => 'yes',
+  ),
+  10 => 
+  array (
+    'option_id' => '11',
+    'option_name' => 'comments_notify',
+    'option_value' => '1',
+    'autoload' => 'yes',
+  ),
+  11 => 
+  array (
+    'option_id' => '12',
+    'option_name' => 'posts_per_rss',
+    'option_value' => '10',
+    'autoload' => 'yes',
+  ),
+  12 => 
+  array (
+    'option_id' => '13',
+    'option_name' => 'rss_use_excerpt',
+    'option_value' => '0',
+    'autoload' => 'yes',
+  ),
+  13 => 
+  array (
+    'option_id' => '14',
+    'option_name' => 'mailserver_url',
+    'option_value' => 'mail.example.com',
+    'autoload' => 'yes',
+  ),
+  14 => 
+  array (
+    'option_id' => '15',
+    'option_name' => 'mailserver_login',
+    'option_value' => 'login@example.com',
+    'autoload' => 'yes',
+  ),
+  15 => 
+  array (
+    'option_id' => '16',
+    'option_name' => 'mailserver_pass',
+    'option_value' => 'password',
+    'autoload' => 'yes',
+  ),
+  16 => 
+  array (
+    'option_id' => '17',
+    'option_name' => 'mailserver_port',
+    'option_value' => '110',
+    'autoload' => 'yes',
+  ),
+  17 => 
+  array (
+    'option_id' => '18',
+    'option_name' => 'default_category',
+    'option_value' => '1',
+    'autoload' => 'yes',
+  ),
+  18 => 
+  array (
+    'option_id' => '19',
+    'option_name' => 'default_comment_status',
+    'option_value' => 'open',
+    'autoload' => 'yes',
+  ),
+  19 => 
+  array (
+    'option_id' => '20',
+    'option_name' => 'default_ping_status',
+    'option_value' => 'open',
+    'autoload' => 'yes',
+  ),
+  20 => 
+  array (
+    'option_id' => '21',
+    'option_name' => 'default_pingback_flag',
+    'option_value' => '0',
+    'autoload' => 'yes',
+  ),
+  21 => 
+  array (
+    'option_id' => '22',
+    'option_name' => 'posts_per_page',
+    'option_value' => '10',
+    'autoload' => 'yes',
+  ),
+  22 => 
+  array (
+    'option_id' => '23',
+    'option_name' => 'date_format',
+    'option_value' => 'F j, Y',
+    'autoload' => 'yes',
+  ),
+  23 => 
+  array (
+    'option_id' => '24',
+    'option_name' => 'time_format',
+    'option_value' => 'g:i a',
+    'autoload' => 'yes',
+  ),
+  24 => 
+  array (
+    'option_id' => '25',
+    'option_name' => 'links_updated_date_format',
+    'option_value' => 'F j, Y g:i a',
+    'autoload' => 'yes',
+  ),
+  25 => 
+  array (
+    'option_id' => '26',
+    'option_name' => 'comment_moderation',
+    'option_value' => '0',
+    'autoload' => 'yes',
+  ),
+  26 => 
+  array (
+    'option_id' => '27',
+    'option_name' => 'moderation_notify',
+    'option_value' => '1',
+    'autoload' => 'yes',
+  ),
+  27 => 
+  array (
+    'option_id' => '28',
+    'option_name' => 'permalink_structure',
+    'option_value' => '/%postname%/',
+    'autoload' => 'yes',
+  ),
+  28 => 
+  array (
+    'option_id' => '29',
+    'option_name' => 'rewrite_rules',
+    'option_value' => 
+    array (
+      '^wc-auth/v([1]{1})/(.*)?' => 'index.php?wc-auth-version=$matches[1]&wc-auth-route=$matches[2]',
+      '^wc-api/v([1-3]{1})/?$' => 'index.php?wc-api-version=$matches[1]&wc-api-route=/',
+      '^wc-api/v([1-3]{1})(.*)?' => 'index.php?wc-api-version=$matches[1]&wc-api-route=$matches[2]',
+      'shop/?$' => 'index.php?post_type=product',
+      'shop/feed/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?post_type=product&feed=$matches[1]',
+      'shop/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?post_type=product&feed=$matches[1]',
+      'shop/page/([0-9]{1,})/?$' => 'index.php?post_type=product&paged=$matches[1]',
+      '^wp-json/?$' => 'index.php?rest_route=/',
+      '^wp-json/(.*)?' => 'index.php?rest_route=/$matches[1]',
+      '^index.php/wp-json/?$' => 'index.php?rest_route=/',
+      '^index.php/wp-json/(.*)?' => 'index.php?rest_route=/$matches[1]',
+      'staff-page/?$' => 'index.php?post_type=staff-page',
+      'staff-page/feed/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?post_type=staff-page&feed=$matches[1]',
+      'staff-page/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?post_type=staff-page&feed=$matches[1]',
+      'staff-page/page/([0-9]{1,})/?$' => 'index.php?post_type=staff-page&paged=$matches[1]',
+      'car/?$' => 'index.php?post_type=car',
+      'car/feed/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?post_type=car&feed=$matches[1]',
+      'car/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?post_type=car&feed=$matches[1]',
+      'car/page/([0-9]{1,})/?$' => 'index.php?post_type=car&paged=$matches[1]',
+      'sidebars/?$' => 'index.php?post_type=sidebar',
+      'sidebars/feed/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?post_type=sidebar&feed=$matches[1]',
+      'sidebars/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?post_type=sidebar&feed=$matches[1]',
+      'sidebars/page/([0-9]{1,})/?$' => 'index.php?post_type=sidebar&paged=$matches[1]',
+      'category/(.+?)/feed/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?category_name=$matches[1]&feed=$matches[2]',
+      'category/(.+?)/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?category_name=$matches[1]&feed=$matches[2]',
+      'category/(.+?)/embed/?$' => 'index.php?category_name=$matches[1]&embed=true',
+      'category/(.+?)/page/?([0-9]{1,})/?$' => 'index.php?category_name=$matches[1]&paged=$matches[2]',
+      'category/(.+?)/wc-api(/(.*))?/?$' => 'index.php?category_name=$matches[1]&wc-api=$matches[3]',
+      'category/(.+?)/?$' => 'index.php?category_name=$matches[1]',
+      'tag/([^/]+)/feed/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?tag=$matches[1]&feed=$matches[2]',
+      'tag/([^/]+)/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?tag=$matches[1]&feed=$matches[2]',
+      'tag/([^/]+)/embed/?$' => 'index.php?tag=$matches[1]&embed=true',
+      'tag/([^/]+)/page/?([0-9]{1,})/?$' => 'index.php?tag=$matches[1]&paged=$matches[2]',
+      'tag/([^/]+)/wc-api(/(.*))?/?$' => 'index.php?tag=$matches[1]&wc-api=$matches[3]',
+      'tag/([^/]+)/?$' => 'index.php?tag=$matches[1]',
+      'type/([^/]+)/feed/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?post_format=$matches[1]&feed=$matches[2]',
+      'type/([^/]+)/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?post_format=$matches[1]&feed=$matches[2]',
+      'type/([^/]+)/embed/?$' => 'index.php?post_format=$matches[1]&embed=true',
+      'type/([^/]+)/page/?([0-9]{1,})/?$' => 'index.php?post_format=$matches[1]&paged=$matches[2]',
+      'type/([^/]+)/?$' => 'index.php?post_format=$matches[1]',
+      'product-category/(.+?)/feed/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?product_cat=$matches[1]&feed=$matches[2]',
+      'product-category/(.+?)/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?product_cat=$matches[1]&feed=$matches[2]',
+      'product-category/(.+?)/embed/?$' => 'index.php?product_cat=$matches[1]&embed=true',
+      'product-category/(.+?)/page/?([0-9]{1,})/?$' => 'index.php?product_cat=$matches[1]&paged=$matches[2]',
+      'product-category/(.+?)/?$' => 'index.php?product_cat=$matches[1]',
+      'product-tag/([^/]+)/feed/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?product_tag=$matches[1]&feed=$matches[2]',
+      'product-tag/([^/]+)/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?product_tag=$matches[1]&feed=$matches[2]',
+      'product-tag/([^/]+)/embed/?$' => 'index.php?product_tag=$matches[1]&embed=true',
+      'product-tag/([^/]+)/page/?([0-9]{1,})/?$' => 'index.php?product_tag=$matches[1]&paged=$matches[2]',
+      'product-tag/([^/]+)/?$' => 'index.php?product_tag=$matches[1]',
+      'product/[^/]+/attachment/([^/]+)/?$' => 'index.php?attachment=$matches[1]',
+      'product/[^/]+/attachment/([^/]+)/trackback/?$' => 'index.php?attachment=$matches[1]&tb=1',
+      'product/[^/]+/attachment/([^/]+)/feed/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?attachment=$matches[1]&feed=$matches[2]',
+      'product/[^/]+/attachment/([^/]+)/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?attachment=$matches[1]&feed=$matches[2]',
+      'product/[^/]+/attachment/([^/]+)/comment-page-([0-9]{1,})/?$' => 'index.php?attachment=$matches[1]&cpage=$matches[2]',
+      'product/[^/]+/attachment/([^/]+)/embed/?$' => 'index.php?attachment=$matches[1]&embed=true',
+      'product/([^/]+)/embed/?$' => 'index.php?product=$matches[1]&embed=true',
+      'product/([^/]+)/trackback/?$' => 'index.php?product=$matches[1]&tb=1',
+      'product/([^/]+)/feed/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?product=$matches[1]&feed=$matches[2]',
+      'product/([^/]+)/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?product=$matches[1]&feed=$matches[2]',
+      'product/([^/]+)/page/?([0-9]{1,})/?$' => 'index.php?product=$matches[1]&paged=$matches[2]',
+      'product/([^/]+)/comment-page-([0-9]{1,})/?$' => 'index.php?product=$matches[1]&cpage=$matches[2]',
+      'product/([^/]+)/wc-api(/(.*))?/?$' => 'index.php?product=$matches[1]&wc-api=$matches[3]',
+      'product/[^/]+/([^/]+)/wc-api(/(.*))?/?$' => 'index.php?attachment=$matches[1]&wc-api=$matches[3]',
+      'product/[^/]+/attachment/([^/]+)/wc-api(/(.*))?/?$' => 'index.php?attachment=$matches[1]&wc-api=$matches[3]',
+      'product/([^/]+)(?:/([0-9]+))?/?$' => 'index.php?product=$matches[1]&page=$matches[2]',
+      'product/[^/]+/([^/]+)/?$' => 'index.php?attachment=$matches[1]',
+      'product/[^/]+/([^/]+)/trackback/?$' => 'index.php?attachment=$matches[1]&tb=1',
+      'product/[^/]+/([^/]+)/feed/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?attachment=$matches[1]&feed=$matches[2]',
+      'product/[^/]+/([^/]+)/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?attachment=$matches[1]&feed=$matches[2]',
+      'product/[^/]+/([^/]+)/comment-page-([0-9]{1,})/?$' => 'index.php?attachment=$matches[1]&cpage=$matches[2]',
+      'product/[^/]+/([^/]+)/embed/?$' => 'index.php?attachment=$matches[1]&embed=true',
+      'slidergroup/.+?/attachment/([^/]+)/?$' => 'index.php?attachment=$matches[1]',
+      'slidergroup/.+?/attachment/([^/]+)/trackback/?$' => 'index.php?attachment=$matches[1]&tb=1',
+      'slidergroup/.+?/attachment/([^/]+)/feed/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?attachment=$matches[1]&feed=$matches[2]',
+      'slidergroup/.+?/attachment/([^/]+)/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?attachment=$matches[1]&feed=$matches[2]',
+      'slidergroup/.+?/attachment/([^/]+)/comment-page-([0-9]{1,})/?$' => 'index.php?attachment=$matches[1]&cpage=$matches[2]',
+      'slidergroup/.+?/attachment/([^/]+)/embed/?$' => 'index.php?attachment=$matches[1]&embed=true',
+      'slidergroup/(.+?)/embed/?$' => 'index.php?slidergroup=$matches[1]&embed=true',
+      'slidergroup/(.+?)/trackback/?$' => 'index.php?slidergroup=$matches[1]&tb=1',
+      'slidergroup/(.+?)/page/?([0-9]{1,})/?$' => 'index.php?slidergroup=$matches[1]&paged=$matches[2]',
+      'slidergroup/(.+?)/comment-page-([0-9]{1,})/?$' => 'index.php?slidergroup=$matches[1]&cpage=$matches[2]',
+      'slidergroup/(.+?)/wc-api(/(.*))?/?$' => 'index.php?slidergroup=$matches[1]&wc-api=$matches[3]',
+      'slidergroup/.+?/([^/]+)/wc-api(/(.*))?/?$' => 'index.php?attachment=$matches[1]&wc-api=$matches[3]',
+      'slidergroup/.+?/attachment/([^/]+)/wc-api(/(.*))?/?$' => 'index.php?attachment=$matches[1]&wc-api=$matches[3]',
+      'slidergroup/(.+?)(?:/([0-9]+))?/?$' => 'index.php?slidergroup=$matches[1]&page=$matches[2]',
+      'staff-page/.+?/attachment/([^/]+)/?$' => 'index.php?attachment=$matches[1]',
+      'staff-page/.+?/attachment/([^/]+)/trackback/?$' => 'index.php?attachment=$matches[1]&tb=1',
+      'staff-page/.+?/attachment/([^/]+)/feed/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?attachment=$matches[1]&feed=$matches[2]',
+      'staff-page/.+?/attachment/([^/]+)/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?attachment=$matches[1]&feed=$matches[2]',
+      'staff-page/.+?/attachment/([^/]+)/comment-page-([0-9]{1,})/?$' => 'index.php?attachment=$matches[1]&cpage=$matches[2]',
+      'staff-page/.+?/attachment/([^/]+)/embed/?$' => 'index.php?attachment=$matches[1]&embed=true',
+      'staff-page/(.+?)/embed/?$' => 'index.php?staff-page=$matches[1]&embed=true',
+      'staff-page/(.+?)/trackback/?$' => 'index.php?staff-page=$matches[1]&tb=1',
+      'staff-page/(.+?)/feed/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?staff-page=$matches[1]&feed=$matches[2]',
+      'staff-page/(.+?)/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?staff-page=$matches[1]&feed=$matches[2]',
+      'staff-page/(.+?)/page/?([0-9]{1,})/?$' => 'index.php?staff-page=$matches[1]&paged=$matches[2]',
+      'staff-page/(.+?)/comment-page-([0-9]{1,})/?$' => 'index.php?staff-page=$matches[1]&cpage=$matches[2]',
+      'staff-page/(.+?)/wc-api(/(.*))?/?$' => 'index.php?staff-page=$matches[1]&wc-api=$matches[3]',
+      'staff-page/.+?/([^/]+)/wc-api(/(.*))?/?$' => 'index.php?attachment=$matches[1]&wc-api=$matches[3]',
+      'staff-page/.+?/attachment/([^/]+)/wc-api(/(.*))?/?$' => 'index.php?attachment=$matches[1]&wc-api=$matches[3]',
+      'staff-page/(.+?)(?:/([0-9]+))?/?$' => 'index.php?staff-page=$matches[1]&page=$matches[2]',
+      'carproducer/([^/]+)/feed/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?carproducer=$matches[1]&feed=$matches[2]',
+      'carproducer/([^/]+)/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?carproducer=$matches[1]&feed=$matches[2]',
+      'carproducer/([^/]+)/embed/?$' => 'index.php?carproducer=$matches[1]&embed=true',
+      'carproducer/([^/]+)/page/?([0-9]{1,})/?$' => 'index.php?carproducer=$matches[1]&paged=$matches[2]',
+      'carproducer/([^/]+)/?$' => 'index.php?carproducer=$matches[1]',
+      'car/[^/]+/attachment/([^/]+)/?$' => 'index.php?attachment=$matches[1]',
+      'car/[^/]+/attachment/([^/]+)/trackback/?$' => 'index.php?attachment=$matches[1]&tb=1',
+      'car/[^/]+/attachment/([^/]+)/feed/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?attachment=$matches[1]&feed=$matches[2]',
+      'car/[^/]+/attachment/([^/]+)/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?attachment=$matches[1]&feed=$matches[2]',
+      'car/[^/]+/attachment/([^/]+)/comment-page-([0-9]{1,})/?$' => 'index.php?attachment=$matches[1]&cpage=$matches[2]',
+      'car/[^/]+/attachment/([^/]+)/embed/?$' => 'index.php?attachment=$matches[1]&embed=true',
+      'car/([^/]+)/embed/?$' => 'index.php?car=$matches[1]&embed=true',
+      'car/([^/]+)/trackback/?$' => 'index.php?car=$matches[1]&tb=1',
+      'car/([^/]+)/feed/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?car=$matches[1]&feed=$matches[2]',
+      'car/([^/]+)/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?car=$matches[1]&feed=$matches[2]',
+      'car/([^/]+)/page/?([0-9]{1,})/?$' => 'index.php?car=$matches[1]&paged=$matches[2]',
+      'car/([^/]+)/comment-page-([0-9]{1,})/?$' => 'index.php?car=$matches[1]&cpage=$matches[2]',
+      'car/([^/]+)/wc-api(/(.*))?/?$' => 'index.php?car=$matches[1]&wc-api=$matches[3]',
+      'car/[^/]+/([^/]+)/wc-api(/(.*))?/?$' => 'index.php?attachment=$matches[1]&wc-api=$matches[3]',
+      'car/[^/]+/attachment/([^/]+)/wc-api(/(.*))?/?$' => 'index.php?attachment=$matches[1]&wc-api=$matches[3]',
+      'car/([^/]+)(?:/([0-9]+))?/?$' => 'index.php?car=$matches[1]&page=$matches[2]',
+      'car/[^/]+/([^/]+)/?$' => 'index.php?attachment=$matches[1]',
+      'car/[^/]+/([^/]+)/trackback/?$' => 'index.php?attachment=$matches[1]&tb=1',
+      'car/[^/]+/([^/]+)/feed/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?attachment=$matches[1]&feed=$matches[2]',
+      'car/[^/]+/([^/]+)/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?attachment=$matches[1]&feed=$matches[2]',
+      'car/[^/]+/([^/]+)/comment-page-([0-9]{1,})/?$' => 'index.php?attachment=$matches[1]&cpage=$matches[2]',
+      'car/[^/]+/([^/]+)/embed/?$' => 'index.php?attachment=$matches[1]&embed=true',
+      'sidebars/[^/]+/attachment/([^/]+)/?$' => 'index.php?attachment=$matches[1]',
+      'sidebars/[^/]+/attachment/([^/]+)/trackback/?$' => 'index.php?attachment=$matches[1]&tb=1',
+      'sidebars/[^/]+/attachment/([^/]+)/feed/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?attachment=$matches[1]&feed=$matches[2]',
+      'sidebars/[^/]+/attachment/([^/]+)/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?attachment=$matches[1]&feed=$matches[2]',
+      'sidebars/[^/]+/attachment/([^/]+)/comment-page-([0-9]{1,})/?$' => 'index.php?attachment=$matches[1]&cpage=$matches[2]',
+      'sidebars/[^/]+/attachment/([^/]+)/embed/?$' => 'index.php?attachment=$matches[1]&embed=true',
+      'sidebars/([^/]+)/embed/?$' => 'index.php?sidebar=$matches[1]&embed=true',
+      'sidebars/([^/]+)/trackback/?$' => 'index.php?sidebar=$matches[1]&tb=1',
+      'sidebars/([^/]+)/feed/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?sidebar=$matches[1]&feed=$matches[2]',
+      'sidebars/([^/]+)/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?sidebar=$matches[1]&feed=$matches[2]',
+      'sidebars/([^/]+)/page/?([0-9]{1,})/?$' => 'index.php?sidebar=$matches[1]&paged=$matches[2]',
+      'sidebars/([^/]+)/comment-page-([0-9]{1,})/?$' => 'index.php?sidebar=$matches[1]&cpage=$matches[2]',
+      'sidebars/([^/]+)/wc-api(/(.*))?/?$' => 'index.php?sidebar=$matches[1]&wc-api=$matches[3]',
+      'sidebars/[^/]+/([^/]+)/wc-api(/(.*))?/?$' => 'index.php?attachment=$matches[1]&wc-api=$matches[3]',
+      'sidebars/[^/]+/attachment/([^/]+)/wc-api(/(.*))?/?$' => 'index.php?attachment=$matches[1]&wc-api=$matches[3]',
+      'sidebars/([^/]+)(?:/([0-9]+))?/?$' => 'index.php?sidebar=$matches[1]&page=$matches[2]',
+      'sidebars/[^/]+/([^/]+)/?$' => 'index.php?attachment=$matches[1]',
+      'sidebars/[^/]+/([^/]+)/trackback/?$' => 'index.php?attachment=$matches[1]&tb=1',
+      'sidebars/[^/]+/([^/]+)/feed/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?attachment=$matches[1]&feed=$matches[2]',
+      'sidebars/[^/]+/([^/]+)/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?attachment=$matches[1]&feed=$matches[2]',
+      'sidebars/[^/]+/([^/]+)/comment-page-([0-9]{1,})/?$' => 'index.php?attachment=$matches[1]&cpage=$matches[2]',
+      'sidebars/[^/]+/([^/]+)/embed/?$' => 'index.php?attachment=$matches[1]&embed=true',
+      '.*wp-(atom|rdf|rss|rss2|feed|commentsrss2)\\.php$' => 'index.php?feed=old',
+      '.*wp-app\\.php(/.*)?$' => 'index.php?error=403',
+      '.*wp-register.php$' => 'index.php?register=true',
+      'feed/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?&feed=$matches[1]',
+      '(feed|rdf|rss|rss2|atom)/?$' => 'index.php?&feed=$matches[1]',
+      'embed/?$' => 'index.php?&embed=true',
+      'page/?([0-9]{1,})/?$' => 'index.php?&paged=$matches[1]',
+      'comment-page-([0-9]{1,})/?$' => 'index.php?&page_id=4&cpage=$matches[1]',
+      'wc-api(/(.*))?/?$' => 'index.php?&wc-api=$matches[2]',
+      'lost-password(/(.*))?/?$' => 'index.php?&lost-password=$matches[2]',
+      'dealer_id(/(.*))?/?$' => 'index.php?&dealer_id=$matches[2]',
+      'comments/feed/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?&feed=$matches[1]&withcomments=1',
+      'comments/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?&feed=$matches[1]&withcomments=1',
+      'comments/embed/?$' => 'index.php?&embed=true',
+      'comments/wc-api(/(.*))?/?$' => 'index.php?&wc-api=$matches[2]',
+      'search/(.+)/feed/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?s=$matches[1]&feed=$matches[2]',
+      'search/(.+)/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?s=$matches[1]&feed=$matches[2]',
+      'search/(.+)/embed/?$' => 'index.php?s=$matches[1]&embed=true',
+      'search/(.+)/page/?([0-9]{1,})/?$' => 'index.php?s=$matches[1]&paged=$matches[2]',
+      'search/(.+)/wc-api(/(.*))?/?$' => 'index.php?s=$matches[1]&wc-api=$matches[3]',
+      'search/(.+)/?$' => 'index.php?s=$matches[1]',
+      'author/([^/]+)/feed/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?author_name=$matches[1]&feed=$matches[2]',
+      'author/([^/]+)/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?author_name=$matches[1]&feed=$matches[2]',
+      'author/([^/]+)/embed/?$' => 'index.php?author_name=$matches[1]&embed=true',
+      'author/([^/]+)/page/?([0-9]{1,})/?$' => 'index.php?author_name=$matches[1]&paged=$matches[2]',
+      'author/([^/]+)/wc-api(/(.*))?/?$' => 'index.php?author_name=$matches[1]&wc-api=$matches[3]',
+      'author/([^/]+)/?$' => 'index.php?author_name=$matches[1]',
+      '([0-9]{4})/([0-9]{1,2})/([0-9]{1,2})/feed/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?year=$matches[1]&monthnum=$matches[2]&day=$matches[3]&feed=$matches[4]',
+      '([0-9]{4})/([0-9]{1,2})/([0-9]{1,2})/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?year=$matches[1]&monthnum=$matches[2]&day=$matches[3]&feed=$matches[4]',
+      '([0-9]{4})/([0-9]{1,2})/([0-9]{1,2})/embed/?$' => 'index.php?year=$matches[1]&monthnum=$matches[2]&day=$matches[3]&embed=true',
+      '([0-9]{4})/([0-9]{1,2})/([0-9]{1,2})/page/?([0-9]{1,})/?$' => 'index.php?year=$matches[1]&monthnum=$matches[2]&day=$matches[3]&paged=$matches[4]',
+      '([0-9]{4})/([0-9]{1,2})/([0-9]{1,2})/wc-api(/(.*))?/?$' => 'index.php?year=$matches[1]&monthnum=$matches[2]&day=$matches[3]&wc-api=$matches[5]',
+      '([0-9]{4})/([0-9]{1,2})/([0-9]{1,2})/?$' => 'index.php?year=$matches[1]&monthnum=$matches[2]&day=$matches[3]',
+      '([0-9]{4})/([0-9]{1,2})/feed/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?year=$matches[1]&monthnum=$matches[2]&feed=$matches[3]',
+      '([0-9]{4})/([0-9]{1,2})/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?year=$matches[1]&monthnum=$matches[2]&feed=$matches[3]',
+      '([0-9]{4})/([0-9]{1,2})/embed/?$' => 'index.php?year=$matches[1]&monthnum=$matches[2]&embed=true',
+      '([0-9]{4})/([0-9]{1,2})/page/?([0-9]{1,})/?$' => 'index.php?year=$matches[1]&monthnum=$matches[2]&paged=$matches[3]',
+      '([0-9]{4})/([0-9]{1,2})/wc-api(/(.*))?/?$' => 'index.php?year=$matches[1]&monthnum=$matches[2]&wc-api=$matches[4]',
+      '([0-9]{4})/([0-9]{1,2})/?$' => 'index.php?year=$matches[1]&monthnum=$matches[2]',
+      '([0-9]{4})/feed/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?year=$matches[1]&feed=$matches[2]',
+      '([0-9]{4})/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?year=$matches[1]&feed=$matches[2]',
+      '([0-9]{4})/embed/?$' => 'index.php?year=$matches[1]&embed=true',
+      '([0-9]{4})/page/?([0-9]{1,})/?$' => 'index.php?year=$matches[1]&paged=$matches[2]',
+      '([0-9]{4})/wc-api(/(.*))?/?$' => 'index.php?year=$matches[1]&wc-api=$matches[3]',
+      '([0-9]{4})/?$' => 'index.php?year=$matches[1]',
+      '.?.+?/attachment/([^/]+)/?$' => 'index.php?attachment=$matches[1]',
+      '.?.+?/attachment/([^/]+)/trackback/?$' => 'index.php?attachment=$matches[1]&tb=1',
+      '.?.+?/attachment/([^/]+)/feed/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?attachment=$matches[1]&feed=$matches[2]',
+      '.?.+?/attachment/([^/]+)/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?attachment=$matches[1]&feed=$matches[2]',
+      '.?.+?/attachment/([^/]+)/comment-page-([0-9]{1,})/?$' => 'index.php?attachment=$matches[1]&cpage=$matches[2]',
+      '.?.+?/attachment/([^/]+)/embed/?$' => 'index.php?attachment=$matches[1]&embed=true',
+      '(.?.+?)/embed/?$' => 'index.php?pagename=$matches[1]&embed=true',
+      '(.?.+?)/trackback/?$' => 'index.php?pagename=$matches[1]&tb=1',
+      '(.?.+?)/feed/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?pagename=$matches[1]&feed=$matches[2]',
+      '(.?.+?)/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?pagename=$matches[1]&feed=$matches[2]',
+      '(.?.+?)/page/?([0-9]{1,})/?$' => 'index.php?pagename=$matches[1]&paged=$matches[2]',
+      '(.?.+?)/comment-page-([0-9]{1,})/?$' => 'index.php?pagename=$matches[1]&cpage=$matches[2]',
+      '(.?.+?)/wc-api(/(.*))?/?$' => 'index.php?pagename=$matches[1]&wc-api=$matches[3]',
+      '(.?.+?)/order-pay(/(.*))?/?$' => 'index.php?pagename=$matches[1]&order-pay=$matches[3]',
+      '(.?.+?)/order-received(/(.*))?/?$' => 'index.php?pagename=$matches[1]&order-received=$matches[3]',
+      '(.?.+?)/orders(/(.*))?/?$' => 'index.php?pagename=$matches[1]&orders=$matches[3]',
+      '(.?.+?)/view-order(/(.*))?/?$' => 'index.php?pagename=$matches[1]&view-order=$matches[3]',
+      '(.?.+?)/downloads(/(.*))?/?$' => 'index.php?pagename=$matches[1]&downloads=$matches[3]',
+      '(.?.+?)/edit-account(/(.*))?/?$' => 'index.php?pagename=$matches[1]&edit-account=$matches[3]',
+      '(.?.+?)/edit-address(/(.*))?/?$' => 'index.php?pagename=$matches[1]&edit-address=$matches[3]',
+      '(.?.+?)/payment-methods(/(.*))?/?$' => 'index.php?pagename=$matches[1]&payment-methods=$matches[3]',
+      '(.?.+?)/lost-password(/(.*))?/?$' => 'index.php?pagename=$matches[1]&lost-password=$matches[3]',
+      '(.?.+?)/customer-logout(/(.*))?/?$' => 'index.php?pagename=$matches[1]&customer-logout=$matches[3]',
+      '(.?.+?)/add-payment-method(/(.*))?/?$' => 'index.php?pagename=$matches[1]&add-payment-method=$matches[3]',
+      '(.?.+?)/delete-payment-method(/(.*))?/?$' => 'index.php?pagename=$matches[1]&delete-payment-method=$matches[3]',
+      '(.?.+?)/set-default-payment-method(/(.*))?/?$' => 'index.php?pagename=$matches[1]&set-default-payment-method=$matches[3]',
+      '(.?.+?)/dealer_id(/(.*))?/?$' => 'index.php?pagename=$matches[1]&dealer_id=$matches[3]',
+      '.?.+?/([^/]+)/wc-api(/(.*))?/?$' => 'index.php?attachment=$matches[1]&wc-api=$matches[3]',
+      '.?.+?/attachment/([^/]+)/wc-api(/(.*))?/?$' => 'index.php?attachment=$matches[1]&wc-api=$matches[3]',
+      '(.?.+?)(?:/([0-9]+))?/?$' => 'index.php?pagename=$matches[1]&page=$matches[2]',
+      '[^/]+/attachment/([^/]+)/?$' => 'index.php?attachment=$matches[1]',
+      '[^/]+/attachment/([^/]+)/trackback/?$' => 'index.php?attachment=$matches[1]&tb=1',
+      '[^/]+/attachment/([^/]+)/feed/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?attachment=$matches[1]&feed=$matches[2]',
+      '[^/]+/attachment/([^/]+)/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?attachment=$matches[1]&feed=$matches[2]',
+      '[^/]+/attachment/([^/]+)/comment-page-([0-9]{1,})/?$' => 'index.php?attachment=$matches[1]&cpage=$matches[2]',
+      '[^/]+/attachment/([^/]+)/embed/?$' => 'index.php?attachment=$matches[1]&embed=true',
+      '([^/]+)/embed/?$' => 'index.php?name=$matches[1]&embed=true',
+      '([^/]+)/trackback/?$' => 'index.php?name=$matches[1]&tb=1',
+      '([^/]+)/feed/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?name=$matches[1]&feed=$matches[2]',
+      '([^/]+)/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?name=$matches[1]&feed=$matches[2]',
+      '([^/]+)/page/?([0-9]{1,})/?$' => 'index.php?name=$matches[1]&paged=$matches[2]',
+      '([^/]+)/comment-page-([0-9]{1,})/?$' => 'index.php?name=$matches[1]&cpage=$matches[2]',
+      '([^/]+)/wc-api(/(.*))?/?$' => 'index.php?name=$matches[1]&wc-api=$matches[3]',
+      '[^/]+/([^/]+)/wc-api(/(.*))?/?$' => 'index.php?attachment=$matches[1]&wc-api=$matches[3]',
+      '[^/]+/attachment/([^/]+)/wc-api(/(.*))?/?$' => 'index.php?attachment=$matches[1]&wc-api=$matches[3]',
+      '([^/]+)(?:/([0-9]+))?/?$' => 'index.php?name=$matches[1]&page=$matches[2]',
+      '[^/]+/([^/]+)/?$' => 'index.php?attachment=$matches[1]',
+      '[^/]+/([^/]+)/trackback/?$' => 'index.php?attachment=$matches[1]&tb=1',
+      '[^/]+/([^/]+)/feed/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?attachment=$matches[1]&feed=$matches[2]',
+      '[^/]+/([^/]+)/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?attachment=$matches[1]&feed=$matches[2]',
+      '[^/]+/([^/]+)/comment-page-([0-9]{1,})/?$' => 'index.php?attachment=$matches[1]&cpage=$matches[2]',
+      '[^/]+/([^/]+)/embed/?$' => 'index.php?attachment=$matches[1]&embed=true',
+    ),
+    'autoload' => 'yes',
+  ),
+  29 => 
+  array (
+    'option_id' => '30',
+    'option_name' => 'hack_file',
+    'option_value' => '0',
+    'autoload' => 'yes',
+  ),
+  30 => 
+  array (
+    'option_id' => '31',
+    'option_name' => 'blog_charset',
+    'option_value' => 'UTF-8',
+    'autoload' => 'yes',
+  ),
+  31 => 
+  array (
+    'option_id' => '32',
+    'option_name' => 'moderation_keys',
+    'option_value' => '',
+    'autoload' => 'no',
+  ),
+  32 => 
+  array (
+    'option_id' => '33',
+    'option_name' => 'active_plugins',
+    'option_value' => 
+    array (
+      0 => 'LayerSlider/layerslider.php',
+      2 => 'jetpack/jetpack.php',
+      3 => 'tmm_addthis/index.php',
+      4 => 'tmm_content_composer/index.php',
+      5 => 'tmm_db_migrate/index.php',
+      6 => 'tmm_paypal_checkout/index.php',
+      7 => 'tmm_theme_features/index.php',
+      8 => 'woo-cart-count-shortcode/woocommerce-cart-count-shortcode.php',
+      9 => 'woocommerce-gateway-paypal-express-checkout/woocommerce-gateway-paypal-express-checkout.php',
+      10 => 'woocommerce-services/woocommerce-services.php',
+      11 => 'woocommerce/woocommerce.php',
+      12 => 'woowidebars/woosidebars.php',
+    ),
+    'autoload' => 'yes',
+  ),
+  33 => 
+  array (
+    'option_id' => '34',
+    'option_name' => 'category_base',
+    'option_value' => '',
+    'autoload' => 'yes',
+  ),
+  34 => 
+  array (
+    'option_id' => '35',
+    'option_name' => 'ping_sites',
+    'option_value' => 'http://rpc.pingomatic.com/',
+    'autoload' => 'yes',
+  ),
+  35 => 
+  array (
+    'option_id' => '36',
+    'option_name' => 'comment_max_links',
+    'option_value' => '2',
+    'autoload' => 'yes',
+  ),
+  36 => 
+  array (
+    'option_id' => '37',
+    'option_name' => 'gmt_offset',
+    'option_value' => '0',
+    'autoload' => 'yes',
+  ),
+  37 => 
+  array (
+    'option_id' => '38',
+    'option_name' => 'default_email_category',
+    'option_value' => '1',
+    'autoload' => 'yes',
+  ),
+  38 => 
+  array (
+    'option_id' => '39',
+    'option_name' => 'recently_edited',
+    'option_value' => '',
+    'autoload' => 'no',
+  ),
+  39 => 
+  array (
+    'option_id' => '40',
+    'option_name' => 'template',
+    'option_value' => 'cardealer',
+    'autoload' => 'yes',
+  ),
+  40 => 
+  array (
+    'option_id' => '41',
+    'option_name' => 'stylesheet',
+    'option_value' => 'cardealer-child',
+    'autoload' => 'yes',
+  ),
+  41 => 
+  array (
+    'option_id' => '42',
+    'option_name' => 'comment_whitelist',
+    'option_value' => '1',
+    'autoload' => 'yes',
+  ),
+  42 => 
+  array (
+    'option_id' => '43',
+    'option_name' => 'blacklist_keys',
+    'option_value' => '',
+    'autoload' => 'no',
+  ),
+  43 => 
+  array (
+    'option_id' => '44',
+    'option_name' => 'comment_registration',
+    'option_value' => '0',
+    'autoload' => 'yes',
+  ),
+  44 => 
+  array (
+    'option_id' => '45',
+    'option_name' => 'html_type',
+    'option_value' => 'text/html',
+    'autoload' => 'yes',
+  ),
+  45 => 
+  array (
+    'option_id' => '46',
+    'option_name' => 'use_trackback',
+    'option_value' => '0',
+    'autoload' => 'yes',
+  ),
+  46 => 
+  array (
+    'option_id' => '47',
+    'option_name' => 'default_role',
+    'option_value' => 'subscriber',
+    'autoload' => 'yes',
+  ),
+  47 => 
+  array (
+    'option_id' => '48',
+    'option_name' => 'db_version',
+    'option_value' => '38590',
+    'autoload' => 'yes',
+  ),
+  48 => 
+  array (
+    'option_id' => '49',
+    'option_name' => 'uploads_use_yearmonth_folders',
+    'option_value' => '1',
+    'autoload' => 'yes',
+  ),
+  49 => 
+  array (
+    'option_id' => '50',
+    'option_name' => 'upload_path',
+    'option_value' => '',
+    'autoload' => 'yes',
+  ),
+  50 => 
+  array (
+    'option_id' => '51',
+    'option_name' => 'blog_public',
+    'option_value' => '0',
+    'autoload' => 'yes',
+  ),
+  51 => 
+  array (
+    'option_id' => '52',
+    'option_name' => 'default_link_category',
+    'option_value' => '2',
+    'autoload' => 'yes',
+  ),
+  52 => 
+  array (
+    'option_id' => '53',
+    'option_name' => 'show_on_front',
+    'option_value' => 'page',
+    'autoload' => 'yes',
+  ),
+  53 => 
+  array (
+    'option_id' => '54',
+    'option_name' => 'tag_base',
+    'option_value' => '',
+    'autoload' => 'yes',
+  ),
+  54 => 
+  array (
+    'option_id' => '55',
+    'option_name' => 'show_avatars',
+    'option_value' => '1',
+    'autoload' => 'yes',
+  ),
+  55 => 
+  array (
+    'option_id' => '56',
+    'option_name' => 'avatar_rating',
+    'option_value' => 'G',
+    'autoload' => 'yes',
+  ),
+  56 => 
+  array (
+    'option_id' => '57',
+    'option_name' => 'upload_url_path',
+    'option_value' => '',
+    'autoload' => 'yes',
+  ),
+  57 => 
+  array (
+    'option_id' => '58',
+    'option_name' => 'thumbnail_size_w',
+    'option_value' => '150',
+    'autoload' => 'yes',
+  ),
+  58 => 
+  array (
+    'option_id' => '59',
+    'option_name' => 'thumbnail_size_h',
+    'option_value' => '150',
+    'autoload' => 'yes',
+  ),
+  59 => 
+  array (
+    'option_id' => '60',
+    'option_name' => 'thumbnail_crop',
+    'option_value' => '1',
+    'autoload' => 'yes',
+  ),
+  60 => 
+  array (
+    'option_id' => '61',
+    'option_name' => 'medium_size_w',
+    'option_value' => '300',
+    'autoload' => 'yes',
+  ),
+  61 => 
+  array (
+    'option_id' => '62',
+    'option_name' => 'medium_size_h',
+    'option_value' => '300',
+    'autoload' => 'yes',
+  ),
+  62 => 
+  array (
+    'option_id' => '63',
+    'option_name' => 'avatar_default',
+    'option_value' => 'mystery',
+    'autoload' => 'yes',
+  ),
+  63 => 
+  array (
+    'option_id' => '64',
+    'option_name' => 'large_size_w',
+    'option_value' => '1024',
+    'autoload' => 'yes',
+  ),
+  64 => 
+  array (
+    'option_id' => '65',
+    'option_name' => 'large_size_h',
+    'option_value' => '1024',
+    'autoload' => 'yes',
+  ),
+  65 => 
+  array (
+    'option_id' => '66',
+    'option_name' => 'image_default_link_type',
+    'option_value' => 'none',
+    'autoload' => 'yes',
+  ),
+  66 => 
+  array (
+    'option_id' => '67',
+    'option_name' => 'image_default_size',
+    'option_value' => '',
+    'autoload' => 'yes',
+  ),
+  67 => 
+  array (
+    'option_id' => '68',
+    'option_name' => 'image_default_align',
+    'option_value' => '',
+    'autoload' => 'yes',
+  ),
+  68 => 
+  array (
+    'option_id' => '69',
+    'option_name' => 'close_comments_for_old_posts',
+    'option_value' => '0',
+    'autoload' => 'yes',
+  ),
+  69 => 
+  array (
+    'option_id' => '70',
+    'option_name' => 'close_comments_days_old',
+    'option_value' => '14',
+    'autoload' => 'yes',
+  ),
+  70 => 
+  array (
+    'option_id' => '71',
+    'option_name' => 'thread_comments',
+    'option_value' => '1',
+    'autoload' => 'yes',
+  ),
+  71 => 
+  array (
+    'option_id' => '72',
+    'option_name' => 'thread_comments_depth',
+    'option_value' => '5',
+    'autoload' => 'yes',
+  ),
+  72 => 
+  array (
+    'option_id' => '73',
+    'option_name' => 'page_comments',
+    'option_value' => '0',
+    'autoload' => 'yes',
+  ),
+  73 => 
+  array (
+    'option_id' => '74',
+    'option_name' => 'comments_per_page',
+    'option_value' => '50',
+    'autoload' => 'yes',
+  ),
+  74 => 
+  array (
+    'option_id' => '75',
+    'option_name' => 'default_comments_page',
+    'option_value' => 'newest',
+    'autoload' => 'yes',
+  ),
+  75 => 
+  array (
+    'option_id' => '76',
+    'option_name' => 'comment_order',
+    'option_value' => 'asc',
+    'autoload' => 'yes',
+  ),
+  76 => 
+  array (
+    'option_id' => '77',
+    'option_name' => 'sticky_posts',
+    'option_value' => 
+    array (
+    ),
+    'autoload' => 'yes',
+  ),
+  77 => 
+  array (
+    'option_id' => '78',
+    'option_name' => 'widget_categories',
+    'option_value' => 
+    array (
+      '_multiwidget' => 1,
+    ),
+    'autoload' => 'yes',
+  ),
+  78 => 
+  array (
+    'option_id' => '79',
+    'option_name' => 'widget_text',
+    'option_value' => 
+    array (
+    ),
+    'autoload' => 'yes',
+  ),
+  79 => 
+  array (
+    'option_id' => '80',
+    'option_name' => 'widget_rss',
+    'option_value' => 
+    array (
+    ),
+    'autoload' => 'yes',
+  ),
+  80 => 
+  array (
+    'option_id' => '81',
+    'option_name' => 'uninstall_plugins',
+    'option_value' => 
+    array (
+      'woocommerce-services/woocommerce-services.php' => 
+      array (
+        0 => 'WC_Connect_Loader',
+        1 => 'plugin_uninstall',
+      ),
+      'LayerSlider/layerslider.php' => 'layerslider_uninstall_scripts',
+    ),
+    'autoload' => 'no',
+  ),
+  81 => 
+  array (
+    'option_id' => '82',
+    'option_name' => 'timezone_string',
+    'option_value' => '',
+    'autoload' => 'yes',
+  ),
+  82 => 
+  array (
+    'option_id' => '83',
+    'option_name' => 'page_for_posts',
+    'option_value' => '0',
+    'autoload' => 'yes',
+  ),
+  83 => 
+  array (
+    'option_id' => '84',
+    'option_name' => 'page_on_front',
+    'option_value' => '4',
+    'autoload' => 'yes',
+  ),
+  84 => 
+  array (
+    'option_id' => '85',
+    'option_name' => 'default_post_format',
+    'option_value' => '0',
+    'autoload' => 'yes',
+  ),
+  85 => 
+  array (
+    'option_id' => '86',
+    'option_name' => 'link_manager_enabled',
+    'option_value' => '0',
+    'autoload' => 'yes',
+  ),
+  86 => 
+  array (
+    'option_id' => '87',
+    'option_name' => 'finished_splitting_shared_terms',
+    'option_value' => '1',
+    'autoload' => 'yes',
+  ),
+  87 => 
+  array (
+    'option_id' => '88',
+    'option_name' => 'site_icon',
+    'option_value' => '0',
+    'autoload' => 'yes',
+  ),
+  88 => 
+  array (
+    'option_id' => '89',
+    'option_name' => 'medium_large_size_w',
+    'option_value' => '768',
+    'autoload' => 'yes',
+  ),
+  89 => 
+  array (
+    'option_id' => '90',
+    'option_name' => 'medium_large_size_h',
+    'option_value' => '0',
+    'autoload' => 'yes',
+  ),
+  90 => 
+  array (
+    'option_id' => '91',
+    'option_name' => 'initial_db_version',
+    'option_value' => '38590',
+    'autoload' => 'yes',
+  ),
+  91 => 
+  array (
+    'option_id' => '92',
+    'option_name' => '__tmm_wpdb_prefix__user_roles',
+    'option_value' => 
+    array (
+      'administrator' => 
+      array (
+        'name' => 'Administrator',
+        'capabilities' => 
+        array (
+          'switch_themes' => true,
+          'edit_themes' => true,
+          'activate_plugins' => true,
+          'edit_plugins' => true,
+          'edit_users' => true,
+          'edit_files' => true,
+          'manage_options' => true,
+          'moderate_comments' => true,
+          'manage_categories' => true,
+          'manage_links' => true,
+          'upload_files' => true,
+          'import' => true,
+          'unfiltered_html' => true,
+          'edit_posts' => true,
+          'edit_others_posts' => true,
+          'edit_published_posts' => true,
+          'publish_posts' => true,
+          'edit_pages' => true,
+          'read' => true,
+          'level_10' => true,
+          'level_9' => true,
+          'level_8' => true,
+          'level_7' => true,
+          'level_6' => true,
+          'level_5' => true,
+          'level_4' => true,
+          'level_3' => true,
+          'level_2' => true,
+          'level_1' => true,
+          'level_0' => true,
+          'edit_others_pages' => true,
+          'edit_published_pages' => true,
+          'publish_pages' => true,
+          'delete_pages' => true,
+          'delete_others_pages' => true,
+          'delete_published_pages' => true,
+          'delete_posts' => true,
+          'delete_others_posts' => true,
+          'delete_published_posts' => true,
+          'delete_private_posts' => true,
+          'edit_private_posts' => true,
+          'read_private_posts' => true,
+          'delete_private_pages' => true,
+          'edit_private_pages' => true,
+          'read_private_pages' => true,
+          'delete_users' => true,
+          'create_users' => true,
+          'unfiltered_upload' => true,
+          'edit_dashboard' => true,
+          'update_plugins' => true,
+          'delete_plugins' => true,
+          'install_plugins' => true,
+          'update_themes' => true,
+          'install_themes' => true,
+          'update_core' => true,
+          'list_users' => true,
+          'remove_users' => true,
+          'promote_users' => true,
+          'edit_theme_options' => true,
+          'delete_themes' => true,
+          'export' => true,
+          'manage_woocommerce' => true,
+          'view_woocommerce_reports' => true,
+          'edit_product' => true,
+          'read_product' => true,
+          'delete_product' => true,
+          'edit_products' => true,
+          'edit_others_products' => true,
+          'publish_products' => true,
+          'read_private_products' => true,
+          'delete_products' => true,
+          'delete_private_products' => true,
+          'delete_published_products' => true,
+          'delete_others_products' => true,
+          'edit_private_products' => true,
+          'edit_published_products' => true,
+          'manage_product_terms' => true,
+          'edit_product_terms' => true,
+          'delete_product_terms' => true,
+          'assign_product_terms' => true,
+          'edit_shop_order' => true,
+          'read_shop_order' => true,
+          'delete_shop_order' => true,
+          'edit_shop_orders' => true,
+          'edit_others_shop_orders' => true,
+          'publish_shop_orders' => true,
+          'read_private_shop_orders' => true,
+          'delete_shop_orders' => true,
+          'delete_private_shop_orders' => true,
+          'delete_published_shop_orders' => true,
+          'delete_others_shop_orders' => true,
+          'edit_private_shop_orders' => true,
+          'edit_published_shop_orders' => true,
+          'manage_shop_order_terms' => true,
+          'edit_shop_order_terms' => true,
+          'delete_shop_order_terms' => true,
+          'assign_shop_order_terms' => true,
+          'edit_shop_coupon' => true,
+          'read_shop_coupon' => true,
+          'delete_shop_coupon' => true,
+          'edit_shop_coupons' => true,
+          'edit_others_shop_coupons' => true,
+          'publish_shop_coupons' => true,
+          'read_private_shop_coupons' => true,
+          'delete_shop_coupons' => true,
+          'delete_private_shop_coupons' => true,
+          'delete_published_shop_coupons' => true,
+          'delete_others_shop_coupons' => true,
+          'edit_private_shop_coupons' => true,
+          'edit_published_shop_coupons' => true,
+          'manage_shop_coupon_terms' => true,
+          'edit_shop_coupon_terms' => true,
+          'delete_shop_coupon_terms' => true,
+          'assign_shop_coupon_terms' => true,
+        ),
+      ),
+      'editor' => 
+      array (
+        'name' => 'Editor',
+        'capabilities' => 
+        array (
+          'moderate_comments' => true,
+          'manage_categories' => true,
+          'manage_links' => true,
+          'upload_files' => true,
+          'unfiltered_html' => true,
+          'edit_posts' => true,
+          'edit_others_posts' => true,
+          'edit_published_posts' => true,
+          'publish_posts' => true,
+          'edit_pages' => true,
+          'read' => true,
+          'level_7' => true,
+          'level_6' => true,
+          'level_5' => true,
+          'level_4' => true,
+          'level_3' => true,
+          'level_2' => true,
+          'level_1' => true,
+          'level_0' => true,
+          'edit_others_pages' => true,
+          'edit_published_pages' => true,
+          'publish_pages' => true,
+          'delete_pages' => true,
+          'delete_others_pages' => true,
+          'delete_published_pages' => true,
+          'delete_posts' => true,
+          'delete_others_posts' => true,
+          'delete_published_posts' => true,
+          'delete_private_posts' => true,
+          'edit_private_posts' => true,
+          'read_private_posts' => true,
+          'delete_private_pages' => true,
+          'edit_private_pages' => true,
+          'read_private_pages' => true,
+        ),
+      ),
+      'author' => 
+      array (
+        'name' => 'Author',
+        'capabilities' => 
+        array (
+          'upload_files' => true,
+          'edit_posts' => true,
+          'edit_published_posts' => true,
+          'publish_posts' => true,
+          'read' => true,
+          'level_2' => true,
+          'level_1' => true,
+          'level_0' => true,
+          'delete_posts' => true,
+          'delete_published_posts' => true,
+        ),
+      ),
+      'contributor' => 
+      array (
+        'name' => 'Contributor',
+        'capabilities' => 
+        array (
+          'edit_posts' => true,
+          'read' => true,
+          'level_1' => true,
+          'level_0' => true,
+          'delete_posts' => true,
+        ),
+      ),
+      'subscriber' => 
+      array (
+        'name' => 'Subscriber',
+        'capabilities' => 
+        array (
+          'read' => true,
+          'level_0' => true,
+        ),
+      ),
+      'customer' => 
+      array (
+        'name' => 'Customer',
+        'capabilities' => 
+        array (
+          'read' => true,
+        ),
+      ),
+      'shop_manager' => 
+      array (
+        'name' => 'Shop manager',
+        'capabilities' => 
+        array (
+          'level_9' => true,
+          'level_8' => true,
+          'level_7' => true,
+          'level_6' => true,
+          'level_5' => true,
+          'level_4' => true,
+          'level_3' => true,
+          'level_2' => true,
+          'level_1' => true,
+          'level_0' => true,
+          'read' => true,
+          'read_private_pages' => true,
+          'read_private_posts' => true,
+          'edit_users' => true,
+          'edit_posts' => true,
+          'edit_pages' => true,
+          'edit_published_posts' => true,
+          'edit_published_pages' => true,
+          'edit_private_pages' => true,
+          'edit_private_posts' => true,
+          'edit_others_posts' => true,
+          'edit_others_pages' => true,
+          'publish_posts' => true,
+          'publish_pages' => true,
+          'delete_posts' => true,
+          'delete_pages' => true,
+          'delete_private_pages' => true,
+          'delete_private_posts' => true,
+          'delete_published_pages' => true,
+          'delete_published_posts' => true,
+          'delete_others_posts' => true,
+          'delete_others_pages' => true,
+          'manage_categories' => true,
+          'manage_links' => true,
+          'moderate_comments' => true,
+          'upload_files' => true,
+          'export' => true,
+          'import' => true,
+          'list_users' => true,
+          'manage_woocommerce' => true,
+          'view_woocommerce_reports' => true,
+          'edit_product' => true,
+          'read_product' => true,
+          'delete_product' => true,
+          'edit_products' => true,
+          'edit_others_products' => true,
+          'publish_products' => true,
+          'read_private_products' => true,
+          'delete_products' => true,
+          'delete_private_products' => true,
+          'delete_published_products' => true,
+          'delete_others_products' => true,
+          'edit_private_products' => true,
+          'edit_published_products' => true,
+          'manage_product_terms' => true,
+          'edit_product_terms' => true,
+          'delete_product_terms' => true,
+          'assign_product_terms' => true,
+          'edit_shop_order' => true,
+          'read_shop_order' => true,
+          'delete_shop_order' => true,
+          'edit_shop_orders' => true,
+          'edit_others_shop_orders' => true,
+          'publish_shop_orders' => true,
+          'read_private_shop_orders' => true,
+          'delete_shop_orders' => true,
+          'delete_private_shop_orders' => true,
+          'delete_published_shop_orders' => true,
+          'delete_others_shop_orders' => true,
+          'edit_private_shop_orders' => true,
+          'edit_published_shop_orders' => true,
+          'manage_shop_order_terms' => true,
+          'edit_shop_order_terms' => true,
+          'delete_shop_order_terms' => true,
+          'assign_shop_order_terms' => true,
+          'edit_shop_coupon' => true,
+          'read_shop_coupon' => true,
+          'delete_shop_coupon' => true,
+          'edit_shop_coupons' => true,
+          'edit_others_shop_coupons' => true,
+          'publish_shop_coupons' => true,
+          'read_private_shop_coupons' => true,
+          'delete_shop_coupons' => true,
+          'delete_private_shop_coupons' => true,
+          'delete_published_shop_coupons' => true,
+          'delete_others_shop_coupons' => true,
+          'edit_private_shop_coupons' => true,
+          'edit_published_shop_coupons' => true,
+          'manage_shop_coupon_terms' => true,
+          'edit_shop_coupon_terms' => true,
+          'delete_shop_coupon_terms' => true,
+          'assign_shop_coupon_terms' => true,
+        ),
+      ),
+    ),
+    'autoload' => 'yes',
+  ),
+  92 => 
+  array (
+    'option_id' => '93',
+    'option_name' => 'fresh_site',
+    'option_value' => '0',
+    'autoload' => 'yes',
+  ),
+  93 => 
+  array (
+    'option_id' => '94',
+    'option_name' => 'widget_search',
+    'option_value' => 
+    array (
+      '_multiwidget' => 1,
+    ),
+    'autoload' => 'yes',
+  ),
+  94 => 
+  array (
+    'option_id' => '95',
+    'option_name' => 'widget_recent-posts',
+    'option_value' => 
+    array (
+      '_multiwidget' => 1,
+    ),
+    'autoload' => 'yes',
+  ),
+  95 => 
+  array (
+    'option_id' => '96',
+    'option_name' => 'widget_recent-comments',
+    'option_value' => 
+    array (
+      '_multiwidget' => 1,
+    ),
+    'autoload' => 'yes',
+  ),
+  96 => 
+  array (
+    'option_id' => '97',
+    'option_name' => 'widget_archives',
+    'option_value' => 
+    array (
+      '_multiwidget' => 1,
+    ),
+    'autoload' => 'yes',
+  ),
+  97 => 
+  array (
+    'option_id' => '98',
+    'option_name' => 'widget_meta',
+    'option_value' => 
+    array (
+      '_multiwidget' => 1,
+    ),
+    'autoload' => 'yes',
+  ),
+  98 => 
+  array (
+    'option_id' => '99',
+    'option_name' => 'sidebars_widgets',
+    'option_value' => 
+    array (
+      'wp_inactive_widgets' => 
+      array (
+      ),
+      'thememakers_default_sidebar' => 
+      array (
+      ),
+      'thememakers_single_car_sidebar' => 
+      array (
+      ),
+      'thememakers_single_user_cars' => 
+      array (
+      ),
+      'cars_slider_sidebar' => 
+      array (
+      ),
+      'top_sidebar' => 
+      array (
+      ),
+      'header_sidebar' => 
+      array (
+      ),
+      'footer_sidebar_1' => 
+      array (
+      ),
+      'footer_sidebar_2' => 
+      array (
+      ),
+      'footer_sidebar_3' => 
+      array (
+      ),
+      'footer_sidebar_4' => 
+      array (
+      ),
+      'array_version' => 3,
+    ),
+    'autoload' => 'yes',
+  ),
+  99 => 
+  array (
+    'option_id' => '100',
+    'option_name' => 'widget_pages',
+    'option_value' => 
+    array (
+      '_multiwidget' => 1,
+    ),
+    'autoload' => 'yes',
+  ),
+  100 => 
+  array (
+    'option_id' => '101',
+    'option_name' => 'widget_calendar',
+    'option_value' => 
+    array (
+      '_multiwidget' => 1,
+    ),
+    'autoload' => 'yes',
+  ),
+  101 => 
+  array (
+    'option_id' => '102',
+    'option_name' => 'widget_media_audio',
+    'option_value' => 
+    array (
+      '_multiwidget' => 1,
+    ),
+    'autoload' => 'yes',
+  ),
+  102 => 
+  array (
+    'option_id' => '103',
+    'option_name' => 'widget_media_image',
+    'option_value' => 
+    array (
+      '_multiwidget' => 1,
+    ),
+    'autoload' => 'yes',
+  ),
+  103 => 
+  array (
+    'option_id' => '104',
+    'option_name' => 'widget_media_gallery',
+    'option_value' => 
+    array (
+      '_multiwidget' => 1,
+    ),
+    'autoload' => 'yes',
+  ),
+  104 => 
+  array (
+    'option_id' => '105',
+    'option_name' => 'widget_media_video',
+    'option_value' => 
+    array (
+      '_multiwidget' => 1,
+    ),
+    'autoload' => 'yes',
+  ),
+  105 => 
+  array (
+    'option_id' => '106',
+    'option_name' => 'widget_tag_cloud',
+    'option_value' => 
+    array (
+      '_multiwidget' => 1,
+    ),
+    'autoload' => 'yes',
+  ),
+  106 => 
+  array (
+    'option_id' => '107',
+    'option_name' => 'widget_nav_menu',
+    'option_value' => 
+    array (
+      '_multiwidget' => 1,
+    ),
+    'autoload' => 'yes',
+  ),
+  107 => 
+  array (
+    'option_id' => '108',
+    'option_name' => 'widget_custom_html',
+    'option_value' => 
+    array (
+      '_multiwidget' => 1,
+    ),
+    'autoload' => 'yes',
+  ),
+  108 => 
+  array (
+    'option_id' => '109',
+    'option_name' => 'cron',
+    'option_value' => 
+    array (
+      1532452796 => 
+      array (
+        'sold_cars_sheduler' => 
+        array (
+          '40cd750bba9870f18aada2478b24840a' => 
+          array (
+            'schedule' => 'time_to_draft_sold_cars',
+            'args' => 
+            array (
+            ),
+            'interval' => 604800,
+          ),
+        ),
+      ),
+      1532452931 => 
+      array (
+        'unfeature_cars_sheduler' => 
+        array (
+          '40cd750bba9870f18aada2478b24840a' => 
+          array (
+            'schedule' => 'time_to_unfeature_cars',
+            'args' => 
+            array (
+            ),
+            'interval' => 360,
+          ),
+        ),
+      ),
+      1532453126 => 
+      array (
+        'woocommerce_cancel_unpaid_orders' => 
+        array (
+          '40cd750bba9870f18aada2478b24840a' => 
+          array (
+            'schedule' => false,
+            'args' => 
+            array (
+            ),
+          ),
+        ),
+      ),
+      1532454615 => 
+      array (
+        'wp_privacy_delete_old_export_files' => 
+        array (
+          '40cd750bba9870f18aada2478b24840a' => 
+          array (
+            'schedule' => 'hourly',
+            'args' => 
+            array (
+            ),
+            'interval' => 3600,
+          ),
+        ),
+      ),
+      1532454939 => 
+      array (
+        'upgrader_scheduled_cleanup' => 
+        array (
+          'd99e77e0d50c9c3dc0e0e534829dd859' => 
+          array (
+            'schedule' => false,
+            'args' => 
+            array (
+              0 => 75,
+            ),
+          ),
+        ),
+      ),
+      1532455451 => 
+      array (
+        'enduser_packet_cars_sheduler' => 
+        array (
+          '40cd750bba9870f18aada2478b24840a' => 
+          array (
+            'schedule' => 'hourly',
+            'args' => 
+            array (
+            ),
+            'interval' => 3600,
+          ),
+        ),
+      ),
+      1532456136 => 
+      array (
+        'jetpack_clean_nonces' => 
+        array (
+          '40cd750bba9870f18aada2478b24840a' => 
+          array (
+            'schedule' => 'hourly',
+            'args' => 
+            array (
+            ),
+            'interval' => 3600,
+          ),
+        ),
+      ),
+      1532456990 => 
+      array (
+        'upgrader_scheduled_cleanup' => 
+        array (
+          '87201d3637e485f7d6563d69209cf3f4' => 
+          array (
+            'schedule' => false,
+            'args' => 
+            array (
+              0 => 76,
+            ),
+          ),
+        ),
+      ),
+      1532460326 => 
+      array (
+        'woocommerce_cleanup_logs' => 
+        array (
+          '40cd750bba9870f18aada2478b24840a' => 
+          array (
+            'schedule' => 'daily',
+            'args' => 
+            array (
+            ),
+            'interval' => 86400,
+          ),
+        ),
+      ),
+      1532471126 => 
+      array (
+        'woocommerce_cleanup_sessions' => 
+        array (
+          '40cd750bba9870f18aada2478b24840a' => 
+          array (
+            'schedule' => 'twicedaily',
+            'args' => 
+            array (
+            ),
+            'interval' => 43200,
+          ),
+        ),
+      ),
+      1532471445 => 
+      array (
+        'wp_version_check' => 
+        array (
+          '40cd750bba9870f18aada2478b24840a' => 
+          array (
+            'schedule' => 'twicedaily',
+            'args' => 
+            array (
+            ),
+            'interval' => 43200,
+          ),
+        ),
+        'wp_update_plugins' => 
+        array (
+          '40cd750bba9870f18aada2478b24840a' => 
+          array (
+            'schedule' => 'twicedaily',
+            'args' => 
+            array (
+            ),
+            'interval' => 43200,
+          ),
+        ),
+        'wp_update_themes' => 
+        array (
+          '40cd750bba9870f18aada2478b24840a' => 
+          array (
+            'schedule' => 'twicedaily',
+            'args' => 
+            array (
+            ),
+            'interval' => 43200,
+          ),
+        ),
+      ),
+      1532476800 => 
+      array (
+        'woocommerce_scheduled_sales' => 
+        array (
+          '40cd750bba9870f18aada2478b24840a' => 
+          array (
+            'schedule' => 'daily',
+            'args' => 
+            array (
+            ),
+            'interval' => 86400,
+          ),
+        ),
+      ),
+      1532491451 => 
+      array (
+        'convert_curency_sheduler' => 
+        array (
+          '40cd750bba9870f18aada2478b24840a' => 
+          array (
+            'schedule' => 'twicedaily',
+            'args' => 
+            array (
+            ),
+            'interval' => 43200,
+          ),
+        ),
+      ),
+      1532514822 => 
+      array (
+        'wp_scheduled_delete' => 
+        array (
+          '40cd750bba9870f18aada2478b24840a' => 
+          array (
+            'schedule' => 'daily',
+            'args' => 
+            array (
+            ),
+            'interval' => 86400,
+          ),
+        ),
+        'delete_expired_transients' => 
+        array (
+          '40cd750bba9870f18aada2478b24840a' => 
+          array (
+            'schedule' => 'daily',
+            'args' => 
+            array (
+            ),
+            'interval' => 86400,
+          ),
+        ),
+      ),
+      1532515937 => 
+      array (
+        'wp_scheduled_auto_draft_delete' => 
+        array (
+          '40cd750bba9870f18aada2478b24840a' => 
+          array (
+            'schedule' => 'daily',
+            'args' => 
+            array (
+            ),
+            'interval' => 86400,
+          ),
+        ),
+      ),
+      1532534651 => 
+      array (
+        'tmp_images_sheduler' => 
+        array (
+          '40cd750bba9870f18aada2478b24840a' => 
+          array (
+            'schedule' => 'daily',
+            'args' => 
+            array (
+            ),
+            'interval' => 86400,
+          ),
+        ),
+      ),
+      1532535926 => 
+      array (
+        'woocommerce_cleanup_personal_data' => 
+        array (
+          '40cd750bba9870f18aada2478b24840a' => 
+          array (
+            'schedule' => 'daily',
+            'args' => 
+            array (
+            ),
+            'interval' => 86400,
+          ),
+        ),
+      ),
+      1532535936 => 
+      array (
+        'woocommerce_tracker_send_event' => 
+        array (
+          '40cd750bba9870f18aada2478b24840a' => 
+          array (
+            'schedule' => 'daily',
+            'args' => 
+            array (
+            ),
+            'interval' => 86400,
+          ),
+        ),
+      ),
+      1533600000 => 
+      array (
+        'woocommerce_geoip_updater' => 
+        array (
+          '40cd750bba9870f18aada2478b24840a' => 
+          array (
+            'schedule' => 'monthly',
+            'args' => 
+            array (
+            ),
+            'interval' => 2635200,
+          ),
+        ),
+      ),
+      'version' => 2,
+    ),
+    'autoload' => 'yes',
+  ),
+  109 => 
+  array (
+    'option_id' => '110',
+    'option_name' => 'theme_mods_twentyseventeen',
+    'option_value' => 
+    array (
+      'custom_css_post_id' => -1,
+      'sidebars_widgets' => 
+      array (
+        'time' => 1524393229,
+        'data' => 
+        array (
+          'wp_inactive_widgets' => 
+          array (
+          ),
+          'sidebar-1' => 
+          array (
+            0 => 'search-2',
+            1 => 'recent-posts-2',
+            2 => 'recent-comments-2',
+            3 => 'archives-2',
+            4 => 'categories-2',
+            5 => 'meta-2',
+          ),
+          'sidebar-2' => 
+          array (
+          ),
+          'sidebar-3' => 
+          array (
+          ),
+        ),
+      ),
+    ),
+    'autoload' => 'yes',
+  ),
+  110 => 
+  array (
+    'option_id' => '122',
+    'option_name' => 'can_compress_scripts',
+    'option_value' => '1',
+    'autoload' => 'no',
+  ),
+  111 => 
+  array (
+    'option_id' => '137',
+    'option_name' => 'current_theme',
+    'option_value' => 'Cardealer Child',
+    'autoload' => 'yes',
+  ),
+  112 => 
+  array (
+    'option_id' => '138',
+    'option_name' => 'theme_mods_agriculture',
+    'option_value' => 
+    array (
+      0 => false,
+      'nav_menu_locations' => 
+      array (
+      ),
+      'custom_css_post_id' => -1,
+      'sidebars_widgets' => 
+      array (
+        'time' => 1532448245,
+        'data' => 
+        array (
+          'wp_inactive_widgets' => 
+          array (
+          ),
+          'sidebar-1' => 
+          array (
+          ),
+          'sidebar-2' => 
+          array (
+          ),
+          'sidebar-3' => 
+          array (
+          ),
+        ),
+      ),
+    ),
+    'autoload' => 'yes',
+  ),
+  113 => 
+  array (
+    'option_id' => '139',
+    'option_name' => 'theme_switched',
+    'option_value' => '',
+    'autoload' => 'yes',
+  ),
+  114 => 
+  array (
+    'option_id' => '146',
+    'option_name' => 'WPLANG',
+    'option_value' => '',
+    'autoload' => 'yes',
+  ),
+  115 => 
+  array (
+    'option_id' => '147',
+    'option_name' => 'new_admin_email',
+    'option_value' => 'yogeshk2081991@gmail.com',
+    'autoload' => 'yes',
+  ),
+  116 => 
+  array (
+    'option_id' => '160',
+    'option_name' => 'woocommerce_store_address',
+    'option_value' => 'india',
+    'autoload' => 'yes',
+  ),
+  117 => 
+  array (
+    'option_id' => '161',
+    'option_name' => 'woocommerce_store_address_2',
+    'option_value' => '',
+    'autoload' => 'yes',
+  ),
+  118 => 
+  array (
+    'option_id' => '162',
+    'option_name' => 'woocommerce_store_city',
+    'option_value' => 'Noida',
+    'autoload' => 'yes',
+  ),
+  119 => 
+  array (
+    'option_id' => '163',
+    'option_name' => 'woocommerce_default_country',
+    'option_value' => 'IN:UP',
+    'autoload' => 'yes',
+  ),
+  120 => 
+  array (
+    'option_id' => '164',
+    'option_name' => 'woocommerce_store_postcode',
+    'option_value' => '201301',
+    'autoload' => 'yes',
+  ),
+  121 => 
+  array (
+    'option_id' => '165',
+    'option_name' => 'woocommerce_allowed_countries',
+    'option_value' => 'all',
+    'autoload' => 'yes',
+  ),
+  122 => 
+  array (
+    'option_id' => '166',
+    'option_name' => 'woocommerce_all_except_countries',
+    'option_value' => '',
+    'autoload' => 'yes',
+  ),
+  123 => 
+  array (
+    'option_id' => '167',
+    'option_name' => 'woocommerce_specific_allowed_countries',
+    'option_value' => '',
+    'autoload' => 'yes',
+  ),
+  124 => 
+  array (
+    'option_id' => '168',
+    'option_name' => 'woocommerce_ship_to_countries',
+    'option_value' => '',
+    'autoload' => 'yes',
+  ),
+  125 => 
+  array (
+    'option_id' => '169',
+    'option_name' => 'woocommerce_specific_ship_to_countries',
+    'option_value' => '',
+    'autoload' => 'yes',
+  ),
+  126 => 
+  array (
+    'option_id' => '170',
+    'option_name' => 'woocommerce_default_customer_address',
+    'option_value' => 'geolocation',
+    'autoload' => 'yes',
+  ),
+  127 => 
+  array (
+    'option_id' => '171',
+    'option_name' => 'woocommerce_calc_taxes',
+    'option_value' => 'no',
+    'autoload' => 'yes',
+  ),
+  128 => 
+  array (
+    'option_id' => '172',
+    'option_name' => 'woocommerce_currency',
+    'option_value' => 'INR',
+    'autoload' => 'yes',
+  ),
+  129 => 
+  array (
+    'option_id' => '173',
+    'option_name' => 'woocommerce_currency_pos',
+    'option_value' => 'left',
+    'autoload' => 'yes',
+  ),
+  130 => 
+  array (
+    'option_id' => '174',
+    'option_name' => 'woocommerce_price_thousand_sep',
+    'option_value' => ',',
+    'autoload' => 'yes',
+  ),
+  131 => 
+  array (
+    'option_id' => '175',
+    'option_name' => 'woocommerce_price_decimal_sep',
+    'option_value' => '.',
+    'autoload' => 'yes',
+  ),
+  132 => 
+  array (
+    'option_id' => '176',
+    'option_name' => 'woocommerce_price_num_decimals',
+    'option_value' => '2',
+    'autoload' => 'yes',
+  ),
+  133 => 
+  array (
+    'option_id' => '177',
+    'option_name' => 'woocommerce_shop_page_id',
+    'option_value' => '6',
+    'autoload' => 'yes',
+  ),
+  134 => 
+  array (
+    'option_id' => '178',
+    'option_name' => 'woocommerce_cart_redirect_after_add',
+    'option_value' => 'no',
+    'autoload' => 'yes',
+  ),
+  135 => 
+  array (
+    'option_id' => '179',
+    'option_name' => 'woocommerce_enable_ajax_add_to_cart',
+    'option_value' => 'yes',
+    'autoload' => 'yes',
+  ),
+  136 => 
+  array (
+    'option_id' => '180',
+    'option_name' => 'woocommerce_weight_unit',
+    'option_value' => 'kg',
+    'autoload' => 'yes',
+  ),
+  137 => 
+  array (
+    'option_id' => '181',
+    'option_name' => 'woocommerce_dimension_unit',
+    'option_value' => 'cm',
+    'autoload' => 'yes',
+  ),
+  138 => 
+  array (
+    'option_id' => '182',
+    'option_name' => 'woocommerce_enable_reviews',
+    'option_value' => 'yes',
+    'autoload' => 'yes',
+  ),
+  139 => 
+  array (
+    'option_id' => '183',
+    'option_name' => 'woocommerce_review_rating_verification_label',
+    'option_value' => 'yes',
+    'autoload' => 'no',
+  ),
+  140 => 
+  array (
+    'option_id' => '184',
+    'option_name' => 'woocommerce_review_rating_verification_required',
+    'option_value' => 'no',
+    'autoload' => 'no',
+  ),
+  141 => 
+  array (
+    'option_id' => '185',
+    'option_name' => 'woocommerce_enable_review_rating',
+    'option_value' => 'yes',
+    'autoload' => 'yes',
+  ),
+  142 => 
+  array (
+    'option_id' => '186',
+    'option_name' => 'woocommerce_review_rating_required',
+    'option_value' => 'yes',
+    'autoload' => 'no',
+  ),
+  143 => 
+  array (
+    'option_id' => '187',
+    'option_name' => 'woocommerce_manage_stock',
+    'option_value' => 'yes',
+    'autoload' => 'yes',
+  ),
+  144 => 
+  array (
+    'option_id' => '188',
+    'option_name' => 'woocommerce_hold_stock_minutes',
+    'option_value' => '60',
+    'autoload' => 'no',
+  ),
+  145 => 
+  array (
+    'option_id' => '189',
+    'option_name' => 'woocommerce_notify_low_stock',
+    'option_value' => 'yes',
+    'autoload' => 'no',
+  ),
+  146 => 
+  array (
+    'option_id' => '190',
+    'option_name' => 'woocommerce_notify_no_stock',
+    'option_value' => 'yes',
+    'autoload' => 'no',
+  ),
+  147 => 
+  array (
+    'option_id' => '191',
+    'option_name' => 'woocommerce_stock_email_recipient',
+    'option_value' => 'yogeshk2081991@gmail.com',
+    'autoload' => 'no',
+  ),
+  148 => 
+  array (
+    'option_id' => '192',
+    'option_name' => 'woocommerce_notify_low_stock_amount',
+    'option_value' => '2',
+    'autoload' => 'no',
+  ),
+  149 => 
+  array (
+    'option_id' => '193',
+    'option_name' => 'woocommerce_notify_no_stock_amount',
+    'option_value' => '0',
+    'autoload' => 'yes',
+  ),
+  150 => 
+  array (
+    'option_id' => '194',
+    'option_name' => 'woocommerce_hide_out_of_stock_items',
+    'option_value' => 'no',
+    'autoload' => 'yes',
+  ),
+  151 => 
+  array (
+    'option_id' => '195',
+    'option_name' => 'woocommerce_stock_format',
+    'option_value' => '',
+    'autoload' => 'yes',
+  ),
+  152 => 
+  array (
+    'option_id' => '196',
+    'option_name' => 'woocommerce_file_download_method',
+    'option_value' => 'force',
+    'autoload' => 'no',
+  ),
+  153 => 
+  array (
+    'option_id' => '197',
+    'option_name' => 'woocommerce_downloads_require_login',
+    'option_value' => 'no',
+    'autoload' => 'no',
+  ),
+  154 => 
+  array (
+    'option_id' => '198',
+    'option_name' => 'woocommerce_downloads_grant_access_after_payment',
+    'option_value' => 'yes',
+    'autoload' => 'no',
+  ),
+  155 => 
+  array (
+    'option_id' => '199',
+    'option_name' => 'woocommerce_prices_include_tax',
+    'option_value' => 'no',
+    'autoload' => 'yes',
+  ),
+  156 => 
+  array (
+    'option_id' => '200',
+    'option_name' => 'woocommerce_tax_based_on',
+    'option_value' => 'shipping',
+    'autoload' => 'yes',
+  ),
+  157 => 
+  array (
+    'option_id' => '201',
+    'option_name' => 'woocommerce_shipping_tax_class',
+    'option_value' => 'inherit',
+    'autoload' => 'yes',
+  ),
+  158 => 
+  array (
+    'option_id' => '202',
+    'option_name' => 'woocommerce_tax_round_at_subtotal',
+    'option_value' => 'no',
+    'autoload' => 'yes',
+  ),
+  159 => 
+  array (
+    'option_id' => '203',
+    'option_name' => 'woocommerce_tax_classes',
+    'option_value' => 'Reduced rate
+Zero rate',
+    'autoload' => 'yes',
+  ),
+  160 => 
+  array (
+    'option_id' => '204',
+    'option_name' => 'woocommerce_tax_display_shop',
+    'option_value' => 'excl',
+    'autoload' => 'yes',
+  ),
+  161 => 
+  array (
+    'option_id' => '205',
+    'option_name' => 'woocommerce_tax_display_cart',
+    'option_value' => 'excl',
+    'autoload' => 'no',
+  ),
+  162 => 
+  array (
+    'option_id' => '206',
+    'option_name' => 'woocommerce_price_display_suffix',
+    'option_value' => '',
+    'autoload' => 'yes',
+  ),
+  163 => 
+  array (
+    'option_id' => '207',
+    'option_name' => 'woocommerce_tax_total_display',
+    'option_value' => 'itemized',
+    'autoload' => 'no',
+  ),
+  164 => 
+  array (
+    'option_id' => '208',
+    'option_name' => 'woocommerce_enable_shipping_calc',
+    'option_value' => 'yes',
+    'autoload' => 'no',
+  ),
+  165 => 
+  array (
+    'option_id' => '209',
+    'option_name' => 'woocommerce_shipping_cost_requires_address',
+    'option_value' => 'no',
+    'autoload' => 'no',
+  ),
+  166 => 
+  array (
+    'option_id' => '210',
+    'option_name' => 'woocommerce_ship_to_destination',
+    'option_value' => 'billing',
+    'autoload' => 'no',
+  ),
+  167 => 
+  array (
+    'option_id' => '211',
+    'option_name' => 'woocommerce_shipping_debug_mode',
+    'option_value' => 'no',
+    'autoload' => 'no',
+  ),
+  168 => 
+  array (
+    'option_id' => '212',
+    'option_name' => 'woocommerce_enable_coupons',
+    'option_value' => 'yes',
+    'autoload' => 'yes',
+  ),
+  169 => 
+  array (
+    'option_id' => '213',
+    'option_name' => 'woocommerce_calc_discounts_sequentially',
+    'option_value' => 'no',
+    'autoload' => 'no',
+  ),
+  170 => 
+  array (
+    'option_id' => '214',
+    'option_name' => 'woocommerce_enable_guest_checkout',
+    'option_value' => 'yes',
+    'autoload' => 'no',
+  ),
+  171 => 
+  array (
+    'option_id' => '215',
+    'option_name' => 'woocommerce_force_ssl_checkout',
+    'option_value' => 'no',
+    'autoload' => 'yes',
+  ),
+  172 => 
+  array (
+    'option_id' => '216',
+    'option_name' => 'woocommerce_unforce_ssl_checkout',
+    'option_value' => 'no',
+    'autoload' => 'yes',
+  ),
+  173 => 
+  array (
+    'option_id' => '217',
+    'option_name' => 'woocommerce_cart_page_id',
+    'option_value' => '7',
+    'autoload' => 'yes',
+  ),
+  174 => 
+  array (
+    'option_id' => '218',
+    'option_name' => 'woocommerce_checkout_page_id',
+    'option_value' => '8',
+    'autoload' => 'yes',
+  ),
+  175 => 
+  array (
+    'option_id' => '219',
+    'option_name' => 'woocommerce_terms_page_id',
+    'option_value' => '71',
+    'autoload' => 'no',
+  ),
+  176 => 
+  array (
+    'option_id' => '220',
+    'option_name' => 'woocommerce_checkout_pay_endpoint',
+    'option_value' => 'order-pay',
+    'autoload' => 'yes',
+  ),
+  177 => 
+  array (
+    'option_id' => '221',
+    'option_name' => 'woocommerce_checkout_order_received_endpoint',
+    'option_value' => 'order-received',
+    'autoload' => 'yes',
+  ),
+  178 => 
+  array (
+    'option_id' => '222',
+    'option_name' => 'woocommerce_myaccount_add_payment_method_endpoint',
+    'option_value' => 'add-payment-method',
+    'autoload' => 'yes',
+  ),
+  179 => 
+  array (
+    'option_id' => '223',
+    'option_name' => 'woocommerce_myaccount_delete_payment_method_endpoint',
+    'option_value' => 'delete-payment-method',
+    'autoload' => 'yes',
+  ),
+  180 => 
+  array (
+    'option_id' => '224',
+    'option_name' => 'woocommerce_myaccount_set_default_payment_method_endpoint',
+    'option_value' => 'set-default-payment-method',
+    'autoload' => 'yes',
+  ),
+  181 => 
+  array (
+    'option_id' => '225',
+    'option_name' => 'woocommerce_myaccount_page_id',
+    'option_value' => '9',
+    'autoload' => 'yes',
+  ),
+  182 => 
+  array (
+    'option_id' => '226',
+    'option_name' => 'woocommerce_enable_signup_and_login_from_checkout',
+    'option_value' => 'yes',
+    'autoload' => 'no',
+  ),
+  183 => 
+  array (
+    'option_id' => '227',
+    'option_name' => 'woocommerce_enable_myaccount_registration',
+    'option_value' => 'no',
+    'autoload' => 'no',
+  ),
+  184 => 
+  array (
+    'option_id' => '228',
+    'option_name' => 'woocommerce_enable_checkout_login_reminder',
+    'option_value' => 'yes',
+    'autoload' => 'no',
+  ),
+  185 => 
+  array (
+    'option_id' => '229',
+    'option_name' => 'woocommerce_registration_generate_username',
+    'option_value' => 'yes',
+    'autoload' => 'no',
+  ),
+  186 => 
+  array (
+    'option_id' => '230',
+    'option_name' => 'woocommerce_registration_generate_password',
+    'option_value' => 'no',
+    'autoload' => 'no',
+  ),
+  187 => 
+  array (
+    'option_id' => '231',
+    'option_name' => 'woocommerce_myaccount_orders_endpoint',
+    'option_value' => 'orders',
+    'autoload' => 'yes',
+  ),
+  188 => 
+  array (
+    'option_id' => '232',
+    'option_name' => 'woocommerce_myaccount_view_order_endpoint',
+    'option_value' => 'view-order',
+    'autoload' => 'yes',
+  ),
+  189 => 
+  array (
+    'option_id' => '233',
+    'option_name' => 'woocommerce_myaccount_downloads_endpoint',
+    'option_value' => 'downloads',
+    'autoload' => 'yes',
+  ),
+  190 => 
+  array (
+    'option_id' => '234',
+    'option_name' => 'woocommerce_myaccount_edit_account_endpoint',
+    'option_value' => 'edit-account',
+    'autoload' => 'yes',
+  ),
+  191 => 
+  array (
+    'option_id' => '235',
+    'option_name' => 'woocommerce_myaccount_edit_address_endpoint',
+    'option_value' => 'edit-address',
+    'autoload' => 'yes',
+  ),
+  192 => 
+  array (
+    'option_id' => '236',
+    'option_name' => 'woocommerce_myaccount_payment_methods_endpoint',
+    'option_value' => 'payment-methods',
+    'autoload' => 'yes',
+  ),
+  193 => 
+  array (
+    'option_id' => '237',
+    'option_name' => 'woocommerce_myaccount_lost_password_endpoint',
+    'option_value' => 'lost-password',
+    'autoload' => 'yes',
+  ),
+  194 => 
+  array (
+    'option_id' => '238',
+    'option_name' => 'woocommerce_logout_endpoint',
+    'option_value' => 'customer-logout',
+    'autoload' => 'yes',
+  ),
+  195 => 
+  array (
+    'option_id' => '239',
+    'option_name' => 'woocommerce_email_from_name',
+    'option_value' => 'Agriculture',
+    'autoload' => 'no',
+  ),
+  196 => 
+  array (
+    'option_id' => '240',
+    'option_name' => 'woocommerce_email_from_address',
+    'option_value' => 'yogeshk2081991@gmail.com',
+    'autoload' => 'no',
+  ),
+  197 => 
+  array (
+    'option_id' => '241',
+    'option_name' => 'woocommerce_email_header_image',
+    'option_value' => '',
+    'autoload' => 'no',
+  ),
+  198 => 
+  array (
+    'option_id' => '242',
+    'option_name' => 'woocommerce_email_footer_text',
+    'option_value' => '{site_title}',
+    'autoload' => 'no',
+  ),
+  199 => 
+  array (
+    'option_id' => '243',
+    'option_name' => 'woocommerce_email_base_color',
+    'option_value' => '#96588a',
+    'autoload' => 'no',
+  ),
+  200 => 
+  array (
+    'option_id' => '244',
+    'option_name' => 'woocommerce_email_background_color',
+    'option_value' => '#f7f7f7',
+    'autoload' => 'no',
+  ),
+  201 => 
+  array (
+    'option_id' => '245',
+    'option_name' => 'woocommerce_email_body_background_color',
+    'option_value' => '#ffffff',
+    'autoload' => 'no',
+  ),
+  202 => 
+  array (
+    'option_id' => '246',
+    'option_name' => 'woocommerce_email_text_color',
+    'option_value' => '#3c3c3c',
+    'autoload' => 'no',
+  ),
+  203 => 
+  array (
+    'option_id' => '247',
+    'option_name' => 'woocommerce_api_enabled',
+    'option_value' => 'yes',
+    'autoload' => 'yes',
+  ),
+  204 => 
+  array (
+    'option_id' => '248',
+    'option_name' => 'woocommerce_permalinks',
+    'option_value' => 
+    array (
+      'product_base' => 'product',
+      'category_base' => 'product-category',
+      'tag_base' => 'product-tag',
+      'attribute_base' => '',
+      'use_verbose_page_rules' => false,
+    ),
+    'autoload' => 'yes',
+  ),
+  205 => 
+  array (
+    'option_id' => '249',
+    'option_name' => 'current_theme_supports_woocommerce',
+    'option_value' => 'yes',
+    'autoload' => 'yes',
+  ),
+  206 => 
+  array (
+    'option_id' => '250',
+    'option_name' => 'woocommerce_queue_flush_rewrite_rules',
+    'option_value' => 'no',
+    'autoload' => 'yes',
+  ),
+  207 => 
+  array (
+    'option_id' => '253',
+    'option_name' => 'default_product_cat',
+    'option_value' => '15',
+    'autoload' => 'yes',
+  ),
+  208 => 
+  array (
+    'option_id' => '258',
+    'option_name' => 'recently_activated',
+    'option_value' => 
+    array (
+      'envato-market/envato-market.php' => 1532452068,
+      'envato-wordpress-toolkit-master/index.php' => 1532449738,
+    ),
+    'autoload' => 'yes',
+  ),
+  209 => 
+  array (
+    'option_id' => '259',
+    'option_name' => 'woocommerce_admin_notices',
+    'option_value' => 
+    array (
+      0 => 'update',
+      1 => 'no_secure_connection',
+    ),
+    'autoload' => 'yes',
+  ),
+  210 => 
+  array (
+    'option_id' => '261',
+    'option_name' => 'widget_woocommerce_widget_cart',
+    'option_value' => 
+    array (
+      '_multiwidget' => 1,
+    ),
+    'autoload' => 'yes',
+  ),
+  211 => 
+  array (
+    'option_id' => '262',
+    'option_name' => 'widget_woocommerce_layered_nav_filters',
+    'option_value' => 
+    array (
+      '_multiwidget' => 1,
+    ),
+    'autoload' => 'yes',
+  ),
+  212 => 
+  array (
+    'option_id' => '263',
+    'option_name' => 'widget_woocommerce_layered_nav',
+    'option_value' => 
+    array (
+      '_multiwidget' => 1,
+    ),
+    'autoload' => 'yes',
+  ),
+  213 => 
+  array (
+    'option_id' => '264',
+    'option_name' => 'widget_woocommerce_price_filter',
+    'option_value' => 
+    array (
+      '_multiwidget' => 1,
+    ),
+    'autoload' => 'yes',
+  ),
+  214 => 
+  array (
+    'option_id' => '265',
+    'option_name' => 'widget_woocommerce_product_categories',
+    'option_value' => 
+    array (
+      '_multiwidget' => 1,
+    ),
+    'autoload' => 'yes',
+  ),
+  215 => 
+  array (
+    'option_id' => '266',
+    'option_name' => 'widget_woocommerce_product_search',
+    'option_value' => 
+    array (
+      '_multiwidget' => 1,
+    ),
+    'autoload' => 'yes',
+  ),
+  216 => 
+  array (
+    'option_id' => '267',
+    'option_name' => 'widget_woocommerce_product_tag_cloud',
+    'option_value' => 
+    array (
+      '_multiwidget' => 1,
+    ),
+    'autoload' => 'yes',
+  ),
+  217 => 
+  array (
+    'option_id' => '268',
+    'option_name' => 'widget_woocommerce_products',
+    'option_value' => 
+    array (
+      '_multiwidget' => 1,
+    ),
+    'autoload' => 'yes',
+  ),
+  218 => 
+  array (
+    'option_id' => '269',
+    'option_name' => 'widget_woocommerce_recently_viewed_products',
+    'option_value' => 
+    array (
+      '_multiwidget' => 1,
+    ),
+    'autoload' => 'yes',
+  ),
+  219 => 
+  array (
+    'option_id' => '270',
+    'option_name' => 'widget_woocommerce_top_rated_products',
+    'option_value' => 
+    array (
+      '_multiwidget' => 1,
+    ),
+    'autoload' => 'yes',
+  ),
+  220 => 
+  array (
+    'option_id' => '271',
+    'option_name' => 'widget_woocommerce_recent_reviews',
+    'option_value' => 
+    array (
+      '_multiwidget' => 1,
+    ),
+    'autoload' => 'yes',
+  ),
+  221 => 
+  array (
+    'option_id' => '272',
+    'option_name' => 'widget_woocommerce_rating_filter',
+    'option_value' => 
+    array (
+      '_multiwidget' => 1,
+    ),
+    'autoload' => 'yes',
+  ),
+  222 => 
+  array (
+    'option_id' => '275',
+    'option_name' => 'woocommerce_meta_box_errors',
+    'option_value' => 
+    array (
+    ),
+    'autoload' => 'yes',
+  ),
+  223 => 
+  array (
+    'option_id' => '278',
+    'option_name' => 'woocommerce_product_type',
+    'option_value' => 'physical',
+    'autoload' => 'yes',
+  ),
+  224 => 
+  array (
+    'option_id' => '279',
+    'option_name' => 'woocommerce_sell_in_person',
+    'option_value' => '1',
+    'autoload' => 'yes',
+  ),
+  225 => 
+  array (
+    'option_id' => '280',
+    'option_name' => 'woocommerce_allow_tracking',
+    'option_value' => 'yes',
+    'autoload' => 'yes',
+  ),
+  226 => 
+  array (
+    'option_id' => '281',
+    'option_name' => 'woocommerce_tracker_last_send',
+    'option_value' => '1532447407',
+    'autoload' => 'yes',
+  ),
+  227 => 
+  array (
+    'option_id' => '285',
+    'option_name' => 'woocommerce_ppec_paypal_settings',
+    'option_value' => 
+    array (
+      'enabled' => 'yes',
+      'reroute_requests' => 'yes',
+      'email' => 'yogeshk2081991@gmail.com',
+      'title' => 'PayPal Express Checkout',
+      'description' => 'Pay via PayPal; you can pay with your credit card if you don\'t have a PayPal account.',
+      'environment' => 'live',
+      'api_username' => 'admin',
+      'api_password' => 'admin@123',
+      'api_signature' => '',
+      'api_certificate' => '',
+      'api_subject' => '',
+      'sandbox_api_username' => '',
+      'sandbox_api_password' => '',
+      'sandbox_api_signature' => '',
+      'sandbox_api_certificate' => '',
+      'sandbox_api_subject' => '',
+      'brand_name' => 'Agriculture',
+      'button_size' => 'large',
+      'cart_checkout_enabled' => 'yes',
+      'mark_enabled' => 'no',
+      'logo_image_url' => '',
+      'header_image_url' => '',
+      'page_style' => '',
+      'landing_page' => 'Login',
+      'credit_enabled' => 'no',
+      'checkout_on_single_product_enabled' => 'no',
+      'debug' => 'no',
+      'invoice_prefix' => 'WC-',
+      'require_billing' => 'no',
+      'require_phone_number' => 'no',
+      'paymentaction' => 'sale',
+      'instant_payments' => 'no',
+      'subtotal_mismatch_behavior' => 'add',
+    ),
+    'autoload' => 'yes',
+  ),
+  228 => 
+  array (
+    'option_id' => '286',
+    'option_name' => 'woocommerce_cheque_settings',
+    'option_value' => 
+    array (
+      'enabled' => 'yes',
+    ),
+    'autoload' => 'yes',
+  ),
+  229 => 
+  array (
+    'option_id' => '287',
+    'option_name' => 'woocommerce_bacs_settings',
+    'option_value' => 
+    array (
+      'enabled' => 'yes',
+    ),
+    'autoload' => 'yes',
+  ),
+  230 => 
+  array (
+    'option_id' => '288',
+    'option_name' => 'woocommerce_cod_settings',
+    'option_value' => 
+    array (
+      'enabled' => 'yes',
+    ),
+    'autoload' => 'yes',
+  ),
+  231 => 
+  array (
+    'option_id' => '290',
+    'option_name' => 'woocommerce_flat_rate_1_settings',
+    'option_value' => 
+    array (
+      'title' => 'Flat rate',
+      'tax_status' => 'taxable',
+      'cost' => '10',
+    ),
+    'autoload' => 'yes',
+  ),
+  232 => 
+  array (
+    'option_id' => '291',
+    'option_name' => 'woocommerce_flat_rate_2_settings',
+    'option_value' => 
+    array (
+      'title' => 'Flat rate',
+      'tax_status' => 'taxable',
+      'cost' => '15',
+    ),
+    'autoload' => 'yes',
+  ),
+  233 => 
+  array (
+    'option_id' => '298',
+    'option_name' => 'theme_mods_storefront',
+    'option_value' => 
+    array (
+      0 => false,
+      'nav_menu_locations' => 
+      array (
+      ),
+      'storefront_styles' => '
+			.main-navigation ul li a,
+			.site-title a,
+			ul.menu li a,
+			.site-branding h1 a,
+			.site-footer .storefront-handheld-footer-bar a:not(.button),
+			button.menu-toggle,
+			button.menu-toggle:hover {
+				color: #333333;
+			}
+
+			button.menu-toggle,
+			button.menu-toggle:hover {
+				border-color: #333333;
+			}
+
+			.main-navigation ul li a:hover,
+			.main-navigation ul li:hover > a,
+			.site-title a:hover,
+			a.cart-contents:hover,
+			.site-header-cart .widget_shopping_cart a:hover,
+			.site-header-cart:hover > li > a,
+			.site-header ul.menu li.current-menu-item > a {
+				color: #747474;
+			}
+
+			table th {
+				background-color: #f8f8f8;
+			}
+
+			table tbody td {
+				background-color: #fdfdfd;
+			}
+
+			table tbody tr:nth-child(2n) td,
+			fieldset,
+			fieldset legend {
+				background-color: #fbfbfb;
+			}
+
+			.site-header,
+			.secondary-navigation ul ul,
+			.main-navigation ul.menu > li.menu-item-has-children:after,
+			.secondary-navigation ul.menu ul,
+			.storefront-handheld-footer-bar,
+			.storefront-handheld-footer-bar ul li > a,
+			.storefront-handheld-footer-bar ul li.search .site-search,
+			button.menu-toggle,
+			button.menu-toggle:hover {
+				background-color: #ffffff;
+			}
+
+			p.site-description,
+			.site-header,
+			.storefront-handheld-footer-bar {
+				color: #404040;
+			}
+
+			.storefront-handheld-footer-bar ul li.cart .count,
+			button.menu-toggle:after,
+			button.menu-toggle:before,
+			button.menu-toggle span:before {
+				background-color: #333333;
+			}
+
+			.storefront-handheld-footer-bar ul li.cart .count {
+				color: #ffffff;
+			}
+
+			.storefront-handheld-footer-bar ul li.cart .count {
+				border-color: #ffffff;
+			}
+
+			h1, h2, h3, h4, h5, h6 {
+				color: #333333;
+			}
+
+			.widget h1 {
+				border-bottom-color: #333333;
+			}
+
+			body,
+			.secondary-navigation a,
+			.onsale,
+			.pagination .page-numbers li .page-numbers:not(.current), .woocommerce-pagination .page-numbers li .page-numbers:not(.current) {
+				color: #6d6d6d;
+			}
+
+			.widget-area .widget a,
+			.hentry .entry-header .posted-on a,
+			.hentry .entry-header .byline a {
+				color: #727272;
+			}
+
+			a  {
+				color: #96588a;
+			}
+
+			a:focus,
+			.button:focus,
+			.button.alt:focus,
+			.button.added_to_cart:focus,
+			.button.wc-forward:focus,
+			button:focus,
+			input[type="button"]:focus,
+			input[type="reset"]:focus,
+			input[type="submit"]:focus {
+				outline-color: #96588a;
+			}
+
+			button, input[type="button"], input[type="reset"], input[type="submit"], .button, .added_to_cart, .widget a.button, .site-header-cart .widget_shopping_cart a.button {
+				background-color: #eeeeee;
+				border-color: #eeeeee;
+				color: #333333;
+			}
+
+			button:hover, input[type="button"]:hover, input[type="reset"]:hover, input[type="submit"]:hover, .button:hover, .added_to_cart:hover, .widget a.button:hover, .site-header-cart .widget_shopping_cart a.button:hover {
+				background-color: #d5d5d5;
+				border-color: #d5d5d5;
+				color: #333333;
+			}
+
+			button.alt, input[type="button"].alt, input[type="reset"].alt, input[type="submit"].alt, .button.alt, .added_to_cart.alt, .widget-area .widget a.button.alt, .added_to_cart, .widget a.button.checkout {
+				background-color: #333333;
+				border-color: #333333;
+				color: #ffffff;
+			}
+
+			button.alt:hover, input[type="button"].alt:hover, input[type="reset"].alt:hover, input[type="submit"].alt:hover, .button.alt:hover, .added_to_cart.alt:hover, .widget-area .widget a.button.alt:hover, .added_to_cart:hover, .widget a.button.checkout:hover {
+				background-color: #1a1a1a;
+				border-color: #1a1a1a;
+				color: #ffffff;
+			}
+
+			.pagination .page-numbers li .page-numbers.current, .woocommerce-pagination .page-numbers li .page-numbers.current {
+				background-color: #e6e6e6;
+				color: #636363;
+			}
+
+			#comments .comment-list .comment-content .comment-text {
+				background-color: #f8f8f8;
+			}
+
+			.site-footer {
+				background-color: #f0f0f0;
+				color: #6d6d6d;
+			}
+
+			.site-footer a:not(.button) {
+				color: #333333;
+			}
+
+			.site-footer h1, .site-footer h2, .site-footer h3, .site-footer h4, .site-footer h5, .site-footer h6 {
+				color: #333333;
+			}
+
+			#order_review {
+				background-color: #ffffff;
+			}
+
+			#payment .payment_methods > li .payment_box,
+			#payment .place-order {
+				background-color: #fafafa;
+			}
+
+			#payment .payment_methods > li:not(.woocommerce-notice) {
+				background-color: #f5f5f5;
+			}
+
+			#payment .payment_methods > li:not(.woocommerce-notice):hover {
+				background-color: #f0f0f0;
+			}
+
+			@media screen and ( min-width: 768px ) {
+				.secondary-navigation ul.menu a:hover {
+					color: #595959;
+				}
+
+				.secondary-navigation ul.menu a {
+					color: #404040;
+				}
+
+				.site-header-cart .widget_shopping_cart,
+				.main-navigation ul.menu ul.sub-menu,
+				.main-navigation ul.nav-menu ul.children {
+					background-color: #f0f0f0;
+				}
+
+				.site-header-cart .widget_shopping_cart .buttons,
+				.site-header-cart .widget_shopping_cart .total {
+					background-color: #f5f5f5;
+				}
+
+				.site-header {
+					border-bottom-color: #f0f0f0;
+				}
+			}',
+      'storefront_woocommerce_styles' => '
+			a.cart-contents,
+			.site-header-cart .widget_shopping_cart a {
+				color: #333333;
+			}
+
+			table.cart td.product-remove,
+			table.cart td.actions {
+				border-top-color: #ffffff;
+			}
+
+			.woocommerce-tabs ul.tabs li.active a,
+			ul.products li.product .price,
+			.onsale,
+			.widget_search form:before,
+			.widget_product_search form:before {
+				color: #6d6d6d;
+			}
+
+			.woocommerce-breadcrumb a,
+			a.woocommerce-review-link,
+			.product_meta a {
+				color: #727272;
+			}
+
+			.onsale {
+				border-color: #6d6d6d;
+			}
+
+			.star-rating span:before,
+			.quantity .plus, .quantity .minus,
+			p.stars a:hover:after,
+			p.stars a:after,
+			.star-rating span:before,
+			#payment .payment_methods li input[type=radio]:first-child:checked+label:before {
+				color: #96588a;
+			}
+
+			.widget_price_filter .ui-slider .ui-slider-range,
+			.widget_price_filter .ui-slider .ui-slider-handle {
+				background-color: #96588a;
+			}
+
+			.order_details {
+				background-color: #f8f8f8;
+			}
+
+			.order_details > li {
+				border-bottom: 1px dotted #e3e3e3;
+			}
+
+			.order_details:before,
+			.order_details:after {
+				background: -webkit-linear-gradient(transparent 0,transparent 0),-webkit-linear-gradient(135deg,#f8f8f8 33.33%,transparent 33.33%),-webkit-linear-gradient(45deg,#f8f8f8 33.33%,transparent 33.33%)
+			}
+
+			p.stars a:before,
+			p.stars a:hover~a:before,
+			p.stars.selected a.active~a:before {
+				color: #6d6d6d;
+			}
+
+			p.stars.selected a.active:before,
+			p.stars:hover a:before,
+			p.stars.selected a:not(.active):before,
+			p.stars.selected a.active:before {
+				color: #96588a;
+			}
+
+			.single-product div.product .woocommerce-product-gallery .woocommerce-product-gallery__trigger {
+				background-color: #eeeeee;
+				color: #333333;
+			}
+
+			.single-product div.product .woocommerce-product-gallery .woocommerce-product-gallery__trigger:hover {
+				background-color: #d5d5d5;
+				border-color: #d5d5d5;
+				color: #333333;
+			}
+
+			.button.loading {
+				color: #eeeeee;
+			}
+
+			.button.loading:hover {
+				background-color: #eeeeee;
+			}
+
+			.button.loading:after {
+				color: #333333;
+			}
+
+			@media screen and ( min-width: 768px ) {
+				.site-header-cart .widget_shopping_cart,
+				.site-header .product_list_widget li .quantity {
+					color: #404040;
+				}
+			}',
+      'storefront_woocommerce_extension_styles' => '',
+      'custom_css_post_id' => -1,
+      'sidebars_widgets' => 
+      array (
+        'time' => 1524396046,
+        'data' => 
+        array (
+          'wp_inactive_widgets' => 
+          array (
+          ),
+          'sidebar-1' => 
+          array (
+            0 => 'search-2',
+            1 => 'recent-posts-2',
+            2 => 'recent-comments-2',
+            3 => 'archives-2',
+            4 => 'categories-2',
+            5 => 'meta-2',
+          ),
+          'header-1' => 
+          array (
+          ),
+          'footer-1' => 
+          array (
+          ),
+          'footer-2' => 
+          array (
+          ),
+          'footer-3' => 
+          array (
+          ),
+          'footer-4' => 
+          array (
+          ),
+        ),
+      ),
+    ),
+    'autoload' => 'yes',
+  ),
+  234 => 
+  array (
+    'option_id' => '299',
+    'option_name' => 'storefront_nux_fresh_site',
+    'option_value' => '0',
+    'autoload' => 'yes',
+  ),
+  235 => 
+  array (
+    'option_id' => '300',
+    'option_name' => 'woocommerce_catalog_rows',
+    'option_value' => '4',
+    'autoload' => 'yes',
+  ),
+  236 => 
+  array (
+    'option_id' => '301',
+    'option_name' => 'woocommerce_catalog_columns',
+    'option_value' => '3',
+    'autoload' => 'yes',
+  ),
+  237 => 
+  array (
+    'option_id' => '302',
+    'option_name' => 'woocommerce_maybe_regenerate_images_hash',
+    'option_value' => '991b1ca641921cf0f5baf7a2fe85861b',
+    'autoload' => 'yes',
+  ),
+  238 => 
+  array (
+    'option_id' => '318',
+    'option_name' => 'jetpack_activated',
+    'option_value' => '1',
+    'autoload' => 'yes',
+  ),
+  239 => 
+  array (
+    'option_id' => '321',
+    'option_name' => 'jetpack_activation_source',
+    'option_value' => 
+    array (
+      0 => 'unknown',
+      1 => NULL,
+    ),
+    'autoload' => 'yes',
+  ),
+  240 => 
+  array (
+    'option_id' => '322',
+    'option_name' => 'jetpack_sync_settings_disable',
+    'option_value' => '0',
+    'autoload' => 'yes',
+  ),
+  241 => 
+  array (
+    'option_id' => '325',
+    'option_name' => 'jetpack_available_modules',
+    'option_value' => 
+    array (
+      '6.0' => 
+      array (
+        'after-the-deadline' => '1.1',
+        'carousel' => '1.5',
+        'comment-likes' => '5.1',
+        'comments' => '1.4',
+        'contact-form' => '1.3',
+        'custom-content-types' => '3.1',
+        'custom-css' => '1.7',
+        'enhanced-distribution' => '1.2',
+        'google-analytics' => '4.5',
+        'gravatar-hovercards' => '1.1',
+        'infinite-scroll' => '2.0',
+        'json-api' => '1.9',
+        'latex' => '1.1',
+        'lazy-images' => '5.6.0',
+        'likes' => '2.2',
+        'manage' => '3.4',
+        'markdown' => '2.8',
+        'masterbar' => '4.8',
+        'minileven' => '1.8',
+        'monitor' => '2.6',
+        'notes' => '1.9',
+        'photon' => '2.0',
+        'post-by-email' => '2.0',
+        'protect' => '3.4',
+        'publicize' => '2.0',
+        'pwa' => '5.6.0',
+        'related-posts' => '2.9',
+        'search' => '5.0',
+        'seo-tools' => '4.4',
+        'sharedaddy' => '1.1',
+        'shortcodes' => '1.1',
+        'shortlinks' => '1.1',
+        'sitemaps' => '3.9',
+        'sso' => '2.6',
+        'stats' => '1.1',
+        'subscriptions' => '1.2',
+        'tiled-gallery' => '2.1',
+        'vaultpress' => '0:1.2',
+        'verification-tools' => '3.0',
+        'videopress' => '2.5',
+        'widget-visibility' => '2.4',
+        'widgets' => '1.2',
+        'wordads' => '4.5.0',
+      ),
+    ),
+    'autoload' => 'yes',
+  ),
+  242 => 
+  array (
+    'option_id' => '326',
+    'option_name' => 'jetpack_options',
+    'option_value' => 
+    array (
+      'version' => '6.0:1524395738',
+      'old_version' => '6.0:1524395738',
+      'fallback_no_verify_ssl_certs' => 0,
+      'time_diff' => -1,
+    ),
+    'autoload' => 'yes',
+  ),
+  243 => 
+  array (
+    'option_id' => '327',
+    'option_name' => 'jetpack_testimonial',
+    'option_value' => '0',
+    'autoload' => 'yes',
+  ),
+  244 => 
+  array (
+    'option_id' => '328',
+    'option_name' => 'do_activate',
+    'option_value' => '0',
+    'autoload' => 'yes',
+  ),
+  245 => 
+  array (
+    'option_id' => '336',
+    'option_name' => 'jetpack_tos_agreed',
+    'option_value' => '1',
+    'autoload' => 'yes',
+  ),
+  246 => 
+  array (
+    'option_id' => '337',
+    'option_name' => 'wc_connect_options',
+    'option_value' => 
+    array (
+      'tos_accepted' => true,
+    ),
+    'autoload' => 'yes',
+  ),
+  247 => 
+  array (
+    'option_id' => '338',
+    'option_name' => 'jetpack_secrets',
+    'option_value' => 
+    array (
+      'jetpack_register_1' => 
+      array (
+        'secret_1' => 'XlRiWhr4yFN8yWKu3bpwm6g5h0BSxjcp',
+        'secret_2' => 'uZKBfMU8O0CDUdWz7Ltgo7CpPzgmm94A',
+        'exp' => 1524396362,
+      ),
+    ),
+    'autoload' => 'no',
+  ),
+  248 => 
+  array (
+    'option_id' => '340',
+    'option_name' => 'wc_ppec_version',
+    'option_value' => '1.6.1',
+    'autoload' => 'yes',
+  ),
+  249 => 
+  array (
+    'option_id' => '342',
+    'option_name' => 'storefront_nux_dismissed',
+    'option_value' => '1',
+    'autoload' => 'yes',
+  ),
+  250 => 
+  array (
+    'option_id' => '365',
+    'option_name' => 'product_cat_children',
+    'option_value' => 
+    array (
+      16 => 
+      array (
+        0 => 17,
+        1 => 18,
+        2 => 19,
+      ),
+    ),
+    'autoload' => 'yes',
+  ),
+  251 => 
+  array (
+    'option_id' => '376',
+    'option_name' => 'pa_size_children',
+    'option_value' => 
+    array (
+    ),
+    'autoload' => 'yes',
+  ),
+  252 => 
+  array (
+    'option_id' => '429',
+    'option_name' => 'nav_menu_options',
+    'option_value' => 
+    array (
+      0 => false,
+      'auto_add' => 
+      array (
+      ),
+    ),
+    'autoload' => 'yes',
+  ),
+  253 => 
+  array (
+    'option_id' => '443',
+    'option_name' => 'woocommerce_gateway_order',
+    'option_value' => 
+    array (
+      'bacs' => 0,
+      'cheque' => 1,
+      'cod' => 2,
+      'paypal' => 3,
+      'ppec_paypal' => 4,
+    ),
+    'autoload' => 'yes',
+  ),
+  254 => 
+  array (
+    'option_id' => '444',
+    'option_name' => 'woocommerce_paypal_settings',
+    'option_value' => 
+    array (
+      'enabled' => 'yes',
+      'title' => 'PayPal',
+      'description' => 'Pay via PayPal; you can pay with your credit card if you don\'t have a PayPal account.',
+      'email' => 'yogeshk2081991@gmail.com',
+      'advanced' => '',
+      'testmode' => 'yes',
+      'debug' => 'no',
+      'ipn_notification' => 'yes',
+      'receiver_email' => 'yogeshk2081991@gmail.com',
+      'identity_token' => '',
+      'invoice_prefix' => 'WC-',
+      'send_shipping' => 'no',
+      'address_override' => 'no',
+      'paymentaction' => 'sale',
+      'page_style' => '',
+      'image_url' => '',
+      'api_details' => '',
+      'api_username' => 'admin',
+      'api_password' => 'admin@123',
+      'api_signature' => '',
+      'sandbox_api_username' => '',
+      'sandbox_api_password' => '',
+      'sandbox_api_signature' => '',
+    ),
+    'autoload' => 'yes',
+  ),
+  255 => 
+  array (
+    'option_id' => '451',
+    'option_name' => 'wpmenucart',
+    'option_value' => 
+    array (
+      'shop_plugin' => 'woocommerce',
+      'menu_slugs' => 
+      array (
+        1 => '0',
+      ),
+      'always_display' => '1',
+      'icon_display' => '1',
+      'cart_icon' => '0',
+      'items_display' => '3',
+      'items_alignment' => 'standard',
+      'total_price_type' => 'total',
+      'builtin_ajax' => '1',
+    ),
+    'autoload' => 'yes',
+  ),
+  256 => 
+  array (
+    'option_id' => '470',
+    'option_name' => 'ctp_last_prefix_change',
+    'option_value' => 'April 22, 2018, 3:03 PM UTC',
+    'autoload' => 'yes',
+  ),
+  257 => 
+  array (
+    'option_id' => '483',
+    'option_name' => 'auto_core_update_notified',
+    'option_value' => 
+    array (
+      'type' => 'success',
+      'email' => 'yogeshk2081991@gmail.com',
+      'version' => '4.9.7',
+      'timestamp' => 1532447403,
+    ),
+    'autoload' => 'no',
+  ),
+  258 => 
+  array (
+    'option_id' => '484',
+    'option_name' => 'woocommerce_tracker_ua',
+    'option_value' => 
+    array (
+      0 => 'mozilla/5.0 (windows nt 10.0; win64; x64) applewebkit/537.36 (khtml, like gecko) chrome/67.0.3396.99 safari/537.36',
+    ),
+    'autoload' => 'yes',
+  ),
+  259 => 
+  array (
+    'option_id' => '520',
+    'option_name' => 'theme_mods_cardealer-child',
+    'option_value' => 
+    array (
+      'nav_menu_locations' => 
+      array (
+      ),
+      'custom_css_post_id' => -1,
+    ),
+    'autoload' => 'yes',
+  ),
+  260 => 
+  array (
+    'option_id' => '521',
+    'option_name' => 'thememakers_theme_options',
+    'option_value' => 
+    array (
+      'theme_was_activated' => 1,
+      'sidebar_position' => 'sbr',
+      'copyright_text' => 'Copyright &copy; 2018. <a target="_blank" href="http://webtemplatemasters.com">ThemeMakers</a>. All rights reserved',
+      'child_theme_was_activated' => 1,
+      'tmm_set_wc_image_sizes' => true,
+    ),
+    'autoload' => 'yes',
+  ),
+  261 => 
+  array (
+    'option_id' => '522',
+    'option_name' => 'widget_thememakers_latest_tweets_widget',
+    'option_value' => 
+    array (
+      '_multiwidget' => 1,
+    ),
+    'autoload' => 'yes',
+  ),
+  262 => 
+  array (
+    'option_id' => '523',
+    'option_name' => 'widget_thememakers_social_links_widget',
+    'option_value' => 
+    array (
+      '_multiwidget' => 1,
+    ),
+    'autoload' => 'yes',
+  ),
+  263 => 
+  array (
+    'option_id' => '524',
+    'option_name' => 'widget_thememakers_recent_posts_widget',
+    'option_value' => 
+    array (
+      '_multiwidget' => 1,
+    ),
+    'autoload' => 'yes',
+  ),
+  264 => 
+  array (
+    'option_id' => '525',
+    'option_name' => 'widget_tmm_contact_form_widget',
+    'option_value' => 
+    array (
+      '_multiwidget' => 1,
+    ),
+    'autoload' => 'yes',
+  ),
+  265 => 
+  array (
+    'option_id' => '526',
+    'option_name' => 'widget_thememakers_flickr_widget',
+    'option_value' => 
+    array (
+      '_multiwidget' => 1,
+    ),
+    'autoload' => 'yes',
+  ),
+  266 => 
+  array (
+    'option_id' => '527',
+    'option_name' => 'widget_tmm_google_map_widget',
+    'option_value' => 
+    array (
+      '_multiwidget' => 1,
+    ),
+    'autoload' => 'yes',
+  ),
+  267 => 
+  array (
+    'option_id' => '528',
+    'option_name' => 'widget_thememakers_contacts_bar_widget',
+    'option_value' => 
+    array (
+      '_multiwidget' => 1,
+    ),
+    'autoload' => 'yes',
+  ),
+  268 => 
+  array (
+    'option_id' => '529',
+    'option_name' => 'widget_tmm_facebook_likebox_widget',
+    'option_value' => 
+    array (
+      '_multiwidget' => 1,
+    ),
+    'autoload' => 'yes',
+  ),
+  269 => 
+  array (
+    'option_id' => '530',
+    'option_name' => 'widget_thememakers_timetable_widget',
+    'option_value' => 
+    array (
+      '_multiwidget' => 1,
+    ),
+    'autoload' => 'yes',
+  ),
+  270 => 
+  array (
+    'option_id' => '531',
+    'option_name' => 'widget_thememakers_banners_widget',
+    'option_value' => 
+    array (
+      '_multiwidget' => 1,
+    ),
+    'autoload' => 'yes',
+  ),
+  271 => 
+  array (
+    'option_id' => '532',
+    'option_name' => 'widget_thememakers_app_cardealer_quicksearch',
+    'option_value' => 
+    array (
+      '_multiwidget' => 1,
+    ),
+    'autoload' => 'yes',
+  ),
+  272 => 
+  array (
+    'option_id' => '533',
+    'option_name' => 'widget_thememakers_app_cars',
+    'option_value' => 
+    array (
+      '_multiwidget' => 1,
+    ),
+    'autoload' => 'yes',
+  ),
+  273 => 
+  array (
+    'option_id' => '534',
+    'option_name' => 'widget_thememakers_app_cardealer_recentcars',
+    'option_value' => 
+    array (
+      '_multiwidget' => 1,
+    ),
+    'autoload' => 'yes',
+  ),
+  274 => 
+  array (
+    'option_id' => '535',
+    'option_name' => 'widget_thememakers_app_cardealer_featuredcars',
+    'option_value' => 
+    array (
+      '_multiwidget' => 1,
+    ),
+    'autoload' => 'yes',
+  ),
+  275 => 
+  array (
+    'option_id' => '536',
+    'option_name' => 'widget_thememakers_app_cardealer_dealermap',
+    'option_value' => 
+    array (
+      '_multiwidget' => 1,
+    ),
+    'autoload' => 'yes',
+  ),
+  276 => 
+  array (
+    'option_id' => '537',
+    'option_name' => 'widget_thememakers_app_cardealer_drivemycars',
+    'option_value' => 
+    array (
+      '_multiwidget' => 1,
+    ),
+    'autoload' => 'yes',
+  ),
+  277 => 
+  array (
+    'option_id' => '538',
+    'option_name' => 'widget_thememakers_app_cardealer_carstatistic',
+    'option_value' => 
+    array (
+      '_multiwidget' => 1,
+    ),
+    'autoload' => 'yes',
+  ),
+  278 => 
+  array (
+    'option_id' => '539',
+    'option_name' => 'widget_thememakers_app_cardealer_dealercontacts',
+    'option_value' => 
+    array (
+      '_multiwidget' => 1,
+    ),
+    'autoload' => 'yes',
+  ),
+  279 => 
+  array (
+    'option_id' => '540',
+    'option_name' => 'widget_thememakers_app_cardealer_dealerscars',
+    'option_value' => 
+    array (
+      '_multiwidget' => 1,
+    ),
+    'autoload' => 'yes',
+  ),
+  280 => 
+  array (
+    'option_id' => '541',
+    'option_name' => 'widget_thememakers_app_cardealer_dealers',
+    'option_value' => 
+    array (
+      '_multiwidget' => 1,
+    ),
+    'autoload' => 'yes',
+  ),
+  281 => 
+  array (
+    'option_id' => '542',
+    'option_name' => 'widget_thememakers_app_cardealer_carscounter',
+    'option_value' => 
+    array (
+      '_multiwidget' => 1,
+    ),
+    'autoload' => 'yes',
+  ),
+  282 => 
+  array (
+    'option_id' => '543',
+    'option_name' => 'widget_thememakers_loancalculator_widget',
+    'option_value' => 
+    array (
+      '_multiwidget' => 1,
+    ),
+    'autoload' => 'yes',
+  ),
+  283 => 
+  array (
+    'option_id' => '544',
+    'option_name' => 'widget_thememakers_carbody_widget',
+    'option_value' => 
+    array (
+      '_multiwidget' => 1,
+    ),
+    'autoload' => 'yes',
+  ),
+  284 => 
+  array (
+    'option_id' => '546',
+    'option_name' => 'shop_catalog_image_size',
+    'option_value' => 
+    array (
+      'width' => '460',
+      'height' => '290',
+      'crop' => 1,
+    ),
+    'autoload' => 'yes',
+  ),
+  285 => 
+  array (
+    'option_id' => '547',
+    'option_name' => 'shop_single_image_size',
+    'option_value' => 
+    array (
+      'width' => '550',
+      'height' => '550',
+      'crop' => 1,
+    ),
+    'autoload' => 'yes',
+  ),
+  286 => 
+  array (
+    'option_id' => '548',
+    'option_name' => 'shop_thumbnail_image_size',
+    'option_value' => 
+    array (
+      'width' => '100',
+      'height' => '100',
+      'crop' => 1,
+    ),
+    'autoload' => 'yes',
+  ),
+  287 => 
+  array (
+    'option_id' => '549',
+    'option_name' => 'thememakers_theme_app_options',
+    'option_value' => 
+    array (
+      'thememakers_app_cardealer_' => 
+      array (
+        'actual_exchange_rates' => 
+        array (
+        ),
+      ),
+    ),
+    'autoload' => 'yes',
+  ),
+  288 => 
+  array (
+    'option_id' => '585',
+    'option_name' => 'ls-plugin-version',
+    'option_value' => '6.6.2',
+    'autoload' => 'yes',
+  ),
+  289 => 
+  array (
+    'option_id' => '586',
+    'option_name' => 'ls-db-version',
+    'option_value' => '6.5.5',
+    'autoload' => 'yes',
+  ),
+  290 => 
+  array (
+    'option_id' => '587',
+    'option_name' => 'ls-installed',
+    'option_value' => '1',
+    'autoload' => 'yes',
+  ),
+  291 => 
+  array (
+    'option_id' => '588',
+    'option_name' => 'ls-date-installed',
+    'option_value' => '1532448749',
+    'autoload' => 'yes',
+  ),
+  292 => 
+  array (
+    'option_id' => '590',
+    'option_name' => 'woosidebars-version',
+    'option_value' => '1.4.3',
+    'autoload' => 'yes',
+  ),
+  293 => 
+  array (
+    'option_id' => '595',
+    'option_name' => 'widget_layerslider_widget',
+    'option_value' => 
+    array (
+      '_multiwidget' => 1,
+    ),
+    'autoload' => 'yes',
+  ),
+  294 => 
+  array (
+    'option_id' => '596',
+    'option_name' => 'widget_thememakers_addthis_widget',
+    'option_value' => 
+    array (
+      '_multiwidget' => 1,
+    ),
+    'autoload' => 'yes',
+  ),
+  295 => 
+  array (
+    'option_id' => '606',
+    'option_name' => 'ls-latest-version',
+    'option_value' => '6.7.6',
+    'autoload' => 'yes',
+  ),
+  296 => 
+  array (
+    'option_id' => '615',
+    'option_name' => 'woocommerce_erasure_request_removes_order_data',
+    'option_value' => 'no',
+    'autoload' => 'no',
+  ),
+  297 => 
+  array (
+    'option_id' => '616',
+    'option_name' => 'woocommerce_erasure_request_removes_download_data',
+    'option_value' => 'no',
+    'autoload' => 'no',
+  ),
+  298 => 
+  array (
+    'option_id' => '617',
+    'option_name' => 'wp_page_for_privacy_policy',
+    'option_value' => '',
+    'autoload' => 'yes',
+  ),
+  299 => 
+  array (
+    'option_id' => '618',
+    'option_name' => 'woocommerce_registration_privacy_policy_text',
+    'option_value' => 'Your personal data will be used to support your experience throughout this website, to manage access to your account, and for other purposes described in our [privacy_policy].',
+    'autoload' => 'yes',
+  ),
+  300 => 
+  array (
+    'option_id' => '619',
+    'option_name' => 'woocommerce_checkout_privacy_policy_text',
+    'option_value' => 'Your personal data will be used to process your order, support your experience throughout this website, and for other purposes described in our [privacy_policy].',
+    'autoload' => 'yes',
+  ),
+  301 => 
+  array (
+    'option_id' => '620',
+    'option_name' => 'woocommerce_delete_inactive_accounts',
+    'option_value' => 
+    array (
+      'number' => '',
+      'unit' => 'months',
+    ),
+    'autoload' => 'no',
+  ),
+  302 => 
+  array (
+    'option_id' => '621',
+    'option_name' => 'woocommerce_trash_pending_orders',
+    'option_value' => '',
+    'autoload' => 'no',
+  ),
+  303 => 
+  array (
+    'option_id' => '622',
+    'option_name' => 'woocommerce_trash_failed_orders',
+    'option_value' => '',
+    'autoload' => 'no',
+  ),
+  304 => 
+  array (
+    'option_id' => '623',
+    'option_name' => 'woocommerce_trash_cancelled_orders',
+    'option_value' => '',
+    'autoload' => 'no',
+  ),
+  305 => 
+  array (
+    'option_id' => '624',
+    'option_name' => 'woocommerce_anonymize_completed_orders',
+    'option_value' => 
+    array (
+      'number' => '',
+      'unit' => 'months',
+    ),
+    'autoload' => 'no',
+  ),
+  306 => 
+  array (
+    'option_id' => '625',
+    'option_name' => 'woocommerce_single_image_width',
+    'option_value' => '600',
+    'autoload' => 'yes',
+  ),
+  307 => 
+  array (
+    'option_id' => '626',
+    'option_name' => 'woocommerce_thumbnail_image_width',
+    'option_value' => '300',
+    'autoload' => 'yes',
+  ),
+  308 => 
+  array (
+    'option_id' => '627',
+    'option_name' => 'woocommerce_checkout_highlight_required_fields',
+    'option_value' => 'yes',
+    'autoload' => 'yes',
+  ),
+  309 => 
+  array (
+    'option_id' => '628',
+    'option_name' => 'woocommerce_demo_store',
+    'option_value' => 'no',
+    'autoload' => 'no',
+  ),
+  310 => 
+  array (
+    'option_id' => '629',
+    'option_name' => 'woocommerce_version',
+    'option_value' => '3.4.3',
+    'autoload' => 'yes',
+  ),
+  311 => 
+  array (
+    'option_id' => '654',
+    'option_name' => 'envato_market_version',
+    'option_value' => '2.0.0',
+    'autoload' => 'yes',
+  ),
+  312 => 
+  array (
+    'option_id' => '655',
+    'option_name' => 'envato_market',
+    'option_value' => 
+    array (
+      'is_plugin_active' => '',
+    ),
+    'autoload' => 'yes',
+  ),
+  313 => 
+  array (
+    'option_id' => '657',
+    'option_name' => 'envato_market_installed_version',
+    'option_value' => '2.0.0',
+    'autoload' => 'yes',
+  ),
+  314 => 
+  array (
+    'option_id' => '658',
+    'option_name' => 'envato_market_state',
+    'option_value' => 'activated',
+    'autoload' => 'yes',
+  ),
+  315 => 
+  array (
+    'option_id' => '673',
+    'option_name' => 'woocommerce_db_version',
+    'option_value' => '3.4.3',
+    'autoload' => 'yes',
+  ),
+  316 => 
+  array (
+    'option_id' => '767',
+    'option_name' => 'ls-store-last-updated',
+    'option_value' => '1532452419',
+    'autoload' => 'yes',
+  ),
+  317 => 
+  array (
+    'option_id' => '768',
+    'option_name' => 'ls-store-data',
+    'option_value' => 
+    array (
+      'last_updated' => '2017-12-22',
+      'sliders' => 
+      array (
+        'catering-xmas-slider' => 
+        array (
+          'released' => '2017-12-22',
+          'name' => 'Catering Christmas Slider',
+          'premium' => true,
+          'requires' => '6.6.0',
+          'groups' => 'premium,new,static,text,blend',
+          'url' => 'https://layerslider.kreaturamedia.com/sliders/catering-christmas-slider/',
+          'preview' => 'https://repository.kreaturamedia.com/v4/sliders/packages/catering-xmas-slider.jpg',
+        ),
+        'discover-the-details' => 
+        array (
+          'released' => '2017-12-19',
+          'name' => 'Discover the Details',
+          'premium' => true,
+          'requires' => '6.6.0',
+          'groups' => 'premium,new,loop,parallax,blendmode,specialeffects',
+          'url' => 'https://layerslider.kreaturamedia.com/sliders/discover-the-details/',
+          'preview' => 'https://repository.kreaturamedia.com/v4/sliders/packages/discover-the-details.jpg',
+        ),
+        'rainforest' => 
+        array (
+          'released' => '2017-12-17',
+          'name' => 'Rainforest',
+          'premium' => true,
+          'requires' => '6.6.0',
+          'groups' => 'premium,new,loop,filter,blendmode,specialeffects',
+          'url' => 'https://layerslider.kreaturamedia.com/sliders/rainforest/',
+          'preview' => 'https://repository.kreaturamedia.com/v4/sliders/packages/rainforest.jpg',
+        ),
+        'ecommerce-global-hover-example' => 
+        array (
+          'released' => '2017-12-15',
+          'name' => 'eCommerce Global Hover Example',
+          'premium' => true,
+          'requires' => '6.6.0',
+          'groups' => 'premium,new,experiments',
+          'url' => 'https://layerslider.kreaturamedia.com/sliders/ecommerce-global-hover-example/',
+          'preview' => 'https://repository.kreaturamedia.com/v4/sliders/packages/ecommerce-global-hover-example.jpg',
+        ),
+        '3d-canyon-experience' => 
+        array (
+          'released' => '2017-12-13',
+          'name' => '3D Canyon Experience',
+          'premium' => true,
+          'requires' => '6.6.0',
+          'groups' => 'premium,new,parallax,experiments,text',
+          'url' => 'https://layerslider.kreaturamedia.com/sliders/3d-canyon-experience/',
+          'preview' => 'https://repository.kreaturamedia.com/v4/sliders/packages/3d-canyon-experience.jpg',
+        ),
+        'discount-popup' => 
+        array (
+          'released' => '2017-12-10',
+          'name' => 'Discount Popup',
+          'premium' => true,
+          'requires' => '6.5.5',
+          'groups' => 'premium,premium,popup',
+          'url' => 'https://layerslider.kreaturamedia.com/sliders/discount-popup/',
+          'preview' => 'https://repository.kreaturamedia.com/v4/sliders/packages/discount-popup.jpg',
+        ),
+        'vintage-photos' => 
+        array (
+          'released' => '2017-12-08',
+          'name' => 'Vintage Photos',
+          'premium' => true,
+          'requires' => '6.6.0',
+          'groups' => 'premium,new,fullsize,loop,filter,specialeffects',
+          'url' => 'https://layerslider.kreaturamedia.com/sliders/vintage-photos/',
+          'preview' => 'https://repository.kreaturamedia.com/v4/sliders/packages/vintage-photos.jpg',
+        ),
+        'social-share-popup' => 
+        array (
+          'released' => '2017-12-06',
+          'name' => 'Social Share Popup',
+          'premium' => true,
+          'requires' => '6.5.5',
+          'groups' => 'premium,new,popup,api',
+          'url' => 'https://layerslider.kreaturamedia.com/sliders/social-share-popup/',
+          'preview' => 'https://repository.kreaturamedia.com/v4/sliders/packages/social-share-popup.jpg',
+        ),
+        'aquarium' => 
+        array (
+          'released' => '2017-12-04',
+          'name' => 'Aquarium',
+          'premium' => true,
+          'requires' => '6.5.5',
+          'groups' => 'premium,new,parallax,loop,filter,experiments,specialeffects',
+          'url' => 'https://layerslider.kreaturamedia.com/sliders/aquarium/',
+          'preview' => 'https://repository.kreaturamedia.com/v4/sliders/packages/aquarium.jpg',
+        ),
+        'what-is-the-time' => 
+        array (
+          'released' => '2017-08-25',
+          'name' => 'What is the time?',
+          'premium' => true,
+          'requires' => '6.5.5',
+          'groups' => 'premium,new,parallax,text,blendmode,experiments,api',
+          'url' => 'https://layerslider.kreaturamedia.com/sliders/what-is-the-time/',
+          'preview' => 'https://repository.kreaturamedia.com/v4/sliders/packages/what-is-the-time.jpg',
+        ),
+        'personal-page-pack' => 
+        array (
+          'released' => '2017-08-23',
+          'name' => 'Personal Page PACK',
+          'premium' => true,
+          'requires' => '6.5.5',
+          'groups' => 'premium,new,fullsize,fullwidth,landing,text,parallax,packs',
+          'url' => 'https://layerslider.kreaturamedia.com/sliders/personal-page-pack/',
+          'preview' => 'https://repository.kreaturamedia.com/v4/sliders/packages/personal-page-pack.jpg',
+        ),
+        'marketing-page-pack' => 
+        array (
+          'released' => '2017-08-21',
+          'name' => 'Marketing Page PACK',
+          'premium' => true,
+          'requires' => '6.5.5',
+          'groups' => 'premium,new,fullsize,fullwidth,landing,parallax,static,loop,packs',
+          'url' => 'https://layerslider.kreaturamedia.com/sliders/marketing-page-pack/',
+          'preview' => 'https://repository.kreaturamedia.com/v4/sliders/packages/marketing-page-pack.jpg',
+        ),
+        'dynamic-slider' => 
+        array (
+          'released' => '2017-08-18',
+          'name' => 'Dynamic Slider',
+          'premium' => true,
+          'requires' => '6.5.5',
+          'groups' => 'premium,new,fullwidth,landing,static',
+          'url' => 'https://layerslider.kreaturamedia.com/sliders/dynamic-slider/',
+          'preview' => 'https://repository.kreaturamedia.com/v4/sliders/packages/dynamic-slider.jpg',
+        ),
+        'colorful-cases' => 
+        array (
+          'released' => '2017-08-16',
+          'name' => 'Colorful Cases',
+          'premium' => true,
+          'requires' => '6.5.5',
+          'groups' => 'premium,new,text,loop,parallax,static,blendmode',
+          'url' => 'https://layerslider.kreaturamedia.com/sliders/colorful-cases/',
+          'preview' => 'https://repository.kreaturamedia.com/v4/sliders/packages/colorful-cases.jpg',
+        ),
+        'beauty-shop-pack' => 
+        array (
+          'released' => '2017-08-14',
+          'name' => 'Beauty Shop PACK',
+          'premium' => true,
+          'requires' => '6.5.5',
+          'groups' => 'premium,new,fullwidth,text,landing,packs',
+          'url' => 'https://layerslider.kreaturamedia.com/sliders/beauty-shop-pack/',
+          'preview' => 'https://repository.kreaturamedia.com/v4/sliders/packages/beauty-shop-pack.jpg',
+        ),
+        'popup-guide-demo' => 
+        array (
+          'released' => '2017-06-11',
+          'name' => 'Popup Guide Demo',
+          'premium' => true,
+          'requires' => '6.5.0',
+          'groups' => 'premium,new,popup,parallax,text',
+          'url' => 'https://layerslider.kreaturamedia.com/sliders/popup-guide-demo/',
+          'preview' => 'https://repository.kreaturamedia.com/v4/sliders/packages/popup-guide-demo.jpg',
+        ),
+        'popup-welcome-demo' => 
+        array (
+          'released' => '2017-06-11',
+          'name' => 'Popup Welcome Demo',
+          'premium' => true,
+          'requires' => '6.5.0',
+          'groups' => 'premium,new,popup,parallax,text',
+          'url' => 'https://layerslider.kreaturamedia.com/sliders/popup-welcome-demo/',
+          'preview' => 'https://repository.kreaturamedia.com/v4/sliders/packages/popup-welcome-demo.jpg',
+        ),
+        'popup-transparent-demo' => 
+        array (
+          'released' => '2017-06-11',
+          'name' => 'Popup Transparent Demo',
+          'premium' => true,
+          'requires' => '6.5.0',
+          'groups' => 'premium,new,popup,parallax,loop',
+          'url' => 'https://layerslider.kreaturamedia.com/sliders/popup-transparent-demo/',
+          'preview' => 'https://repository.kreaturamedia.com/v4/sliders/packages/popup-transparent-demo.jpg',
+        ),
+        'popup-sidebar-demo' => 
+        array (
+          'released' => '2017-06-11',
+          'name' => 'Popup Sidebar Demo',
+          'premium' => true,
+          'requires' => '6.5.0',
+          'groups' => 'premium,popup,experiments,blendmode,text',
+          'url' => 'https://layerslider.kreaturamedia.com/sliders/popup-sidebar-demo/',
+          'preview' => 'https://repository.kreaturamedia.com/v4/sliders/packages/popup-sidebar-demo.jpg',
+        ),
+        'popup-photo-gallery' => 
+        array (
+          'released' => '2017-06-11',
+          'name' => 'Popup Photo Gallery',
+          'premium' => true,
+          'requires' => '6.5.0',
+          'groups' => 'premium,new,popup,kenburns',
+          'url' => 'https://layerslider.kreaturamedia.com/sliders/popup-photo-gallery/',
+          'preview' => 'https://repository.kreaturamedia.com/v4/sliders/packages/popup-photo-gallery.jpg',
+        ),
+        'popup-modal-demo' => 
+        array (
+          'released' => '2017-06-11',
+          'name' => 'Popup Modal Demo',
+          'premium' => true,
+          'requires' => '6.5.0',
+          'groups' => 'premium,new,popup,static',
+          'url' => 'https://layerslider.kreaturamedia.com/sliders/popup-modal-demo/',
+          'preview' => 'https://repository.kreaturamedia.com/v4/sliders/packages/popup-modal-demo.jpg',
+        ),
+        'popup-infobar-demo' => 
+        array (
+          'released' => '2017-06-11',
+          'name' => 'Popup Infobar Demo',
+          'premium' => true,
+          'requires' => '6.5.0',
+          'groups' => 'premium,new,popup,experiments,text',
+          'url' => 'https://layerslider.kreaturamedia.com/sliders/popup-infobar-demo/',
+          'preview' => 'https://repository.kreaturamedia.com/v4/sliders/packages/popup-infobar-demo.jpg',
+        ),
+        'popup-fullsize-desk-demo' => 
+        array (
+          'released' => '2017-06-11',
+          'name' => 'Popup Fullsize Desk Demo',
+          'premium' => true,
+          'requires' => '6.5.0',
+          'groups' => 'premium,new,popup,experiments,fullsize,parallax',
+          'url' => 'https://layerslider.kreaturamedia.com/sliders/popup-fullsize-desk-demo/',
+          'preview' => 'https://repository.kreaturamedia.com/v4/sliders/packages/popup-fullsize-desk-demo.jpg',
+        ),
+        'conversation-popup' => 
+        array (
+          'released' => '2017-06-11',
+          'name' => 'Conversation Popup',
+          'premium' => true,
+          'requires' => '6.5.0',
+          'groups' => 'premium,new,popup,experiments',
+          'url' => 'https://layerslider.kreaturamedia.com/sliders/conversation-popup/',
+          'preview' => 'https://repository.kreaturamedia.com/v4/sliders/packages/conversation-popup.jpg',
+        ),
+        'global-hover-example' => 
+        array (
+          'released' => '2017-05-02',
+          'name' => 'Global Hover Example',
+          'premium' => true,
+          'requires' => '6.4.0',
+          'groups' => 'premium,new,experiments,specialeffects,parallax,text',
+          'url' => 'https://layerslider.kreaturamedia.com/sliders/global-hover-example/',
+          'preview' => 'https://repository.kreaturamedia.com/v4/sliders/packages/global-hover-example.jpg',
+        ),
+        'gastronomy' => 
+        array (
+          'released' => '2017-03-29',
+          'name' => 'Gastronomy',
+          'premium' => true,
+          'requires' => '6.2.2',
+          'groups' => 'premium,kenburns,filter,text',
+          'url' => 'https://layerslider.kreaturamedia.com/sliders/gastronomy/',
+          'preview' => 'https://repository.kreaturamedia.com/v4/sliders/packages/gastronomy.jpg',
+        ),
+        'police-lights' => 
+        array (
+          'released' => '2017-03-29',
+          'name' => 'Police Lights',
+          'premium' => true,
+          'requires' => '6.2.2',
+          'groups' => 'premium,specialeffects,loop,blendmode,parallax',
+          'url' => 'https://layerslider.kreaturamedia.com/sliders/police-lights/',
+          'preview' => 'https://repository.kreaturamedia.com/v4/sliders/packages/police-lights.jpg',
+        ),
+        'beautiful-sunset' => 
+        array (
+          'released' => '2017-03-29',
+          'name' => 'Beautiful Sunset',
+          'premium' => true,
+          'requires' => '6.2.2',
+          'groups' => 'premium,specialeffects,loop,blendmode',
+          'url' => 'https://layerslider.kreaturamedia.com/sliders/beautiful-sunset/',
+          'preview' => 'https://repository.kreaturamedia.com/v4/sliders/packages/beautiful-sunset.jpg',
+        ),
+        'blend-mode-experiment-1' => 
+        array (
+          'released' => '2017-03-29',
+          'name' => 'Blend Mode Experiment 1',
+          'premium' => true,
+          'requires' => '6.2.2',
+          'groups' => 'premium,specialeffects,text,blendmode,experiments,loop,parallax',
+          'url' => 'https://layerslider.kreaturamedia.com/sliders/blend-mode-experiment-1/',
+          'preview' => 'https://repository.kreaturamedia.com/v4/sliders/packages/blend-mode-experiment-1.jpg',
+        ),
+        'flying-banners-2' => 
+        array (
+          'released' => '2017-03-29',
+          'name' => 'Flying Banners 2',
+          'premium' => true,
+          'requires' => '6.1.0',
+          'groups' => 'premium,parallax,specialeffects,fullsize',
+          'url' => 'https://layerslider.kreaturamedia.com/sliders/flying-banners-2/',
+          'preview' => 'https://repository.kreaturamedia.com/v4/sliders/packages/flying-banners-2.jpg',
+        ),
+        'layerslider-v6' => 
+        array (
+          'released' => '2017-03-08',
+          'name' => 'LayerSlider v6',
+          'premium' => true,
+          'requires' => '6.1.6',
+          'groups' => 'premium,specialeffects,parallax,fullsize,landing,loop,text,media,api',
+          'url' => 'https://layerslider.kreaturamedia.com/sliders/layerslider-v6/',
+          'preview' => 'https://repository.kreaturamedia.com/v4/sliders/packages/layerslider-v6.jpg',
+        ),
+        'flying-banners-1' => 
+        array (
+          'released' => '2017-03-08',
+          'name' => 'Flying Banners 1',
+          'premium' => false,
+          'requires' => '6.1.0',
+          'groups' => 'free,parallax,loop,text,specialeffects',
+          'url' => 'https://layerslider.kreaturamedia.com/sliders/flying-banners-1/',
+          'preview' => 'https://repository.kreaturamedia.com/v4/sliders/packages/flying-banners-1.jpg',
+        ),
+        'anniversary-slider' => 
+        array (
+          'released' => '2017-03-08',
+          'name' => 'Anniversary Slider',
+          'premium' => false,
+          'requires' => '6.1.0',
+          'groups' => 'free,parallax,experiments,specialeffects',
+          'url' => 'https://layerslider.kreaturamedia.com/sliders/anniversary-slider/',
+          'preview' => 'https://repository.kreaturamedia.com/v4/sliders/packages/anniversary-slider.jpg',
+        ),
+        'origami' => 
+        array (
+          'released' => '2016-12-07',
+          'name' => 'Origami',
+          'premium' => true,
+          'requires' => '6.1.0',
+          'groups' => 'premium,experiments,specialeffects,3dtransition',
+          'url' => 'https://layerslider.kreaturamedia.com/sliders/origami/',
+          'preview' => 'https://repository.kreaturamedia.com/v4/sliders/packages/origami.jpg',
+        ),
+        'origami-buildings' => 
+        array (
+          'released' => '2016-12-07',
+          'name' => 'Origami Buildings',
+          'premium' => true,
+          'requires' => '6.1.0',
+          'groups' => 'premium,experiments,specialeffects,kenburns,3dtransition',
+          'url' => 'https://layerslider.kreaturamedia.com/sliders/origami-buildings/',
+          'preview' => 'https://repository.kreaturamedia.com/v4/sliders/packages/origami-buildings.jpg',
+        ),
+        'autumn-experiment' => 
+        array (
+          'released' => '2016-11-28',
+          'name' => 'Autumn Experiment',
+          'premium' => false,
+          'requires' => '6.0.4',
+          'groups' => 'experiments,free,loop,parallax,specialeffects',
+          'url' => 'https://layerslider.kreaturamedia.com/sliders/autumn-experiment/',
+          'preview' => 'https://repository.kreaturamedia.com/v4/sliders/packages/autumn-experiment.jpg',
+        ),
+        'features-parallax-experiment' => 
+        array (
+          'released' => '2016-11-28',
+          'name' => 'Features | A Parallax Experiment',
+          'premium' => false,
+          'requires' => '6.0.4',
+          'groups' => 'experiments,free,parallax,specialeffects',
+          'url' => 'https://layerslider.kreaturamedia.com/sliders/features-parallax-experiment/',
+          'preview' => 'https://repository.kreaturamedia.com/v4/sliders/packages/features-parallax-experiment.jpg',
+        ),
+        'furniture-slider' => 
+        array (
+          'released' => '2016-11-28',
+          'name' => 'Furniture Slider',
+          'premium' => true,
+          'requires' => '6.0.4',
+          'groups' => 'fullwidth,parallax,premium,static',
+          'url' => 'https://layerslider.kreaturamedia.com/sliders/furniture-slider/',
+          'preview' => 'https://repository.kreaturamedia.com/v4/sliders/packages/furniture-slider.jpg',
+        ),
+        'room-experiment' => 
+        array (
+          'released' => '2016-11-28',
+          'name' => 'Room Experiment',
+          'premium' => true,
+          'requires' => '6.0.6',
+          'groups' => 'api,experiments,media,parallax,premium,specialeffects,static,text',
+          'url' => 'https://layerslider.kreaturamedia.com/sliders/room-experiment/',
+          'preview' => 'https://repository.kreaturamedia.com/v4/sliders/packages/room-experiment.jpg',
+        ),
+        'drag-n-drop' => 
+        array (
+          'name' => 'Drag & Drop',
+          'premium' => true,
+          'requires' => '6.0.3',
+          'groups' => 'premium,fullwidth,specialeffects,text',
+          'url' => 'https://layerslider.kreaturamedia.com/sliders/drag-n-drop/',
+          'preview' => 'https://repository.kreaturamedia.com/v4/sliders/packages/drag-n-drop.jpg',
+        ),
+        'headphones' => 
+        array (
+          'name' => 'Headphones',
+          'premium' => true,
+          'requires' => '6.0.3',
+          'groups' => 'premium,static',
+          'url' => 'https://layerslider.kreaturamedia.com/sliders/headphones/',
+          'preview' => 'https://repository.kreaturamedia.com/v4/sliders/packages/headphones.jpg',
+        ),
+        'play-by-scroll' => 
+        array (
+          'name' => 'Play By Scroll demo',
+          'premium' => true,
+          'requires' => '6.0.4',
+          'groups' => 'premium,fullsize,text,experiments,specialeffects,playbyscroll,loop',
+          'url' => 'https://layerslider.kreaturamedia.com/sliders/play-by-scroll/',
+          'preview' => 'https://repository.kreaturamedia.com/v4/sliders/packages/play-by-scroll.jpg',
+        ),
+        'sky' => 
+        array (
+          'name' => 'Sky Experience',
+          'premium' => true,
+          'requires' => '6.0.3',
+          'groups' => 'premium,fullwidth,text,experiments,parallax,specialeffects,loop',
+          'url' => 'https://layerslider.kreaturamedia.com/sliders/sky-experience/',
+          'preview' => 'https://repository.kreaturamedia.com/v4/sliders/packages/sky.jpg',
+        ),
+        'halloween' => 
+        array (
+          'name' => 'Happy Halloween!',
+          'premium' => false,
+          'requires' => '6.0.3',
+          'groups' => 'free,fullsize,text,experiments,loop',
+          'url' => 'https://layerslider.kreaturamedia.com/sliders/happy-halloween/',
+          'preview' => 'https://repository.kreaturamedia.com/v4/sliders/packages/halloween.jpg',
+        ),
+        'creative-agency' => 
+        array (
+          'name' => 'Agency',
+          'premium' => true,
+          'requires' => '6.0.0',
+          'groups' => 'premium,fullsize,kenburns,parallax,landing,filter',
+          'url' => 'https://layerslider.kreaturamedia.com/sliders/creative-agency/',
+          'preview' => 'https://repository.kreaturamedia.com/v4/sliders/packages/creative-agency.jpg',
+        ),
+        'interactive-slider' => 
+        array (
+          'name' => 'Interactive Slider',
+          'premium' => true,
+          'requires' => '6.0.0',
+          'groups' => 'premium,fullsize,parallax,kenburns,text,landing',
+          'url' => 'https://layerslider.kreaturamedia.com/sliders/interactive-slider/',
+          'preview' => 'https://repository.kreaturamedia.com/v4/sliders/packages/interactive-slider.jpg',
+        ),
+        'ecommerce' => 
+        array (
+          'name' => 'eCommerce',
+          'premium' => true,
+          'requires' => '6.0.0',
+          'groups' => 'premium,fullwidth',
+          'url' => 'https://layerslider.kreaturamedia.com/sliders/ecommerce/',
+          'preview' => 'https://repository.kreaturamedia.com/v4/sliders/packages/ecommerce.jpg',
+        ),
+        'landing-page-intro' => 
+        array (
+          'name' => 'Landing Page Intro',
+          'premium' => true,
+          'requires' => '6.0.0',
+          'groups' => 'premium,fullsize,landing,parallax,text',
+          'url' => 'https://layerslider.kreaturamedia.com/sliders/landing-page/',
+          'preview' => 'https://repository.kreaturamedia.com/v4/sliders/packages/landing-page-intro.jpg',
+        ),
+        'hiking' => 
+        array (
+          'name' => 'Hiking',
+          'premium' => true,
+          'requires' => '6.0.0',
+          'groups' => 'premium,fullwidth',
+          'url' => 'https://layerslider.kreaturamedia.com/sliders/hiking/',
+          'preview' => 'https://repository.kreaturamedia.com/v4/sliders/packages/hiking.jpg',
+        ),
+        'movie-slider' => 
+        array (
+          'name' => 'Movie Slider',
+          'premium' => true,
+          'requires' => '6.0.0',
+          'groups' => 'premium,fullwidth',
+          'url' => 'https://layerslider.kreaturamedia.com/sliders/movie-slider/',
+          'preview' => 'https://repository.kreaturamedia.com/v4/sliders/packages/movie-slider.jpg',
+        ),
+        'photo-studio' => 
+        array (
+          'name' => 'Photo Studio',
+          'premium' => true,
+          'requires' => '6.0.0',
+          'groups' => 'premium,fullsize,filter,text,parallax,specialeffects,blendmode',
+          'url' => 'https://layerslider.kreaturamedia.com/sliders/photo-studio/',
+          'preview' => 'https://repository.kreaturamedia.com/v4/sliders/packages/photo-studio.jpg',
+        ),
+        'shoes' => 
+        array (
+          'name' => 'Shoes',
+          'premium' => true,
+          'requires' => '6.0.0',
+          'groups' => 'premium,fullwidth,parallax,carousel',
+          'url' => 'https://layerslider.kreaturamedia.com/sliders/shoes/',
+          'preview' => 'https://repository.kreaturamedia.com/v4/sliders/packages/shoes.jpg',
+        ),
+        'mini-cooper' => 
+        array (
+          'name' => 'Mini Cooper Slider',
+          'premium' => true,
+          'requires' => '6.0.0',
+          'groups' => 'premium,fullsize,parallax,specialeffects',
+          'url' => 'https://layerslider.kreaturamedia.com/sliders/mini-cooper-slider/',
+          'preview' => 'https://repository.kreaturamedia.com/v4/sliders/packages/mini-cooper.jpg',
+        ),
+        'xmas' => 
+        array (
+          'name' => 'Merry Christmas!',
+          'premium' => true,
+          'requires' => '6.0.0',
+          'groups' => 'premium,parallax,filter,experiments,specialeffects,text,loop',
+          'url' => 'https://layerslider.kreaturamedia.com/sliders/merry-christmas/',
+          'preview' => 'https://repository.kreaturamedia.com/v4/sliders/packages/xmas.jpg',
+        ),
+        'clock' => 
+        array (
+          'name' => 'Vintage Clock | shows valid time',
+          'premium' => true,
+          'requires' => '6.0.0',
+          'groups' => 'premium,fullsize,api,experiments,loop',
+          'url' => 'https://layerslider.kreaturamedia.com/sliders/vintage-clock/',
+          'preview' => 'https://repository.kreaturamedia.com/v4/sliders/packages/clock.jpg',
+        ),
+        'car-show' => 
+        array (
+          'name' => 'Car Show',
+          'premium' => true,
+          'requires' => '5.0.0',
+          'groups' => 'premium,fullwidth,experiments,api,loop',
+          'url' => 'https://layerslider.kreaturamedia.com/sliders/car-show/',
+          'preview' => 'https://repository.kreaturamedia.com/v4/sliders/packages/car-show.jpg',
+        ),
+        'landing-screen-1' => 
+        array (
+          'name' => 'Landing Screen 1',
+          'premium' => true,
+          'requires' => '6.0.0',
+          'groups' => 'premium,fullwidth,landing,parallax',
+          'url' => 'https://layerslider.kreaturamedia.com/sliders/landing-screen-1/',
+          'preview' => 'https://repository.kreaturamedia.com/v4/sliders/packages/landing-screen-1.jpg',
+        ),
+        'landing-screen-2' => 
+        array (
+          'name' => 'Landing Screen 2',
+          'premium' => true,
+          'requires' => '6.0.0',
+          'groups' => 'premium,fullwidth,landing',
+          'url' => 'https://layerslider.kreaturamedia.com/sliders/landing-screen-2/',
+          'preview' => 'https://repository.kreaturamedia.com/v4/sliders/packages/landing-screen-2.jpg',
+        ),
+        'landing-screen-3' => 
+        array (
+          'name' => 'Landing Screen 3',
+          'premium' => true,
+          'requires' => '6.0.0',
+          'groups' => 'premium,fullwidth,landing,parallax',
+          'url' => 'https://layerslider.kreaturamedia.com/sliders/landing-screen-3/',
+          'preview' => 'https://repository.kreaturamedia.com/v4/sliders/packages/landing-screen-3.jpg',
+        ),
+        'landing-screen-4' => 
+        array (
+          'name' => 'Landing Screen 4',
+          'premium' => true,
+          'requires' => '6.0.0',
+          'groups' => 'premium,fullwidth,landing,parallax',
+          'url' => 'https://layerslider.kreaturamedia.com/sliders/landing-screen-4/',
+          'preview' => 'https://repository.kreaturamedia.com/v4/sliders/packages/landing-screen-4.jpg',
+        ),
+        'landing-screen-5' => 
+        array (
+          'name' => 'Landing Screen 5',
+          'premium' => true,
+          'requires' => '6.0.0',
+          'groups' => 'premium,fullwidth,landing',
+          'url' => 'https://layerslider.kreaturamedia.com/sliders/landing-screen-5/',
+          'preview' => 'https://repository.kreaturamedia.com/v4/sliders/packages/landing-screen-5.jpg',
+        ),
+        'landing-screen-6' => 
+        array (
+          'name' => 'Landing Screen 6',
+          'premium' => true,
+          'requires' => '6.0.0',
+          'groups' => 'premium,fullwidth,landing',
+          'url' => 'https://layerslider.kreaturamedia.com/sliders/landing-screen-6/',
+          'preview' => 'https://repository.kreaturamedia.com/v4/sliders/packages/landing-screen-6.jpg',
+        ),
+        'landing-screen-7' => 
+        array (
+          'name' => 'Landing Screen 7',
+          'premium' => true,
+          'requires' => '6.0.0',
+          'groups' => 'premium,fullwidth,landing',
+          'url' => 'https://layerslider.kreaturamedia.com/sliders/landing-screen-7/',
+          'preview' => 'https://repository.kreaturamedia.com/v4/sliders/packages/landing-screen-7.jpg',
+        ),
+        'carousel' => 
+        array (
+          'name' => 'Carousel',
+          'premium' => false,
+          'requires' => '5.0.0',
+          'groups' => 'free,carousel',
+          'url' => 'https://layerslider.kreaturamedia.com/sliders/carousel/',
+          'preview' => 'https://repository.kreaturamedia.com/v4/sliders/packages/carousel.jpg',
+        ),
+        'fancy-parallax' => 
+        array (
+          'name' => 'Fancy Parallax Slider',
+          'premium' => true,
+          'requires' => '6.0.0',
+          'groups' => 'premium,fullwidth,parallax',
+          'url' => 'https://layerslider.kreaturamedia.com/sliders/parallax-slider/',
+          'preview' => 'https://repository.kreaturamedia.com/v4/sliders/packages/fancy-parallax.jpg',
+        ),
+        'simple-slider' => 
+        array (
+          'name' => 'Simple Slider',
+          'premium' => false,
+          'requires' => '5.0.0',
+          'groups' => 'free',
+          'url' => 'https://layerslider.kreaturamedia.com/sliders/simple-slider/',
+          'preview' => 'https://repository.kreaturamedia.com/v4/sliders/packages/simple-slider.jpg',
+        ),
+        'image-slider' => 
+        array (
+          'name' => 'Image Slider',
+          'premium' => false,
+          'requires' => '5.0.0',
+          'groups' => 'free',
+          'url' => 'https://layerslider.kreaturamedia.com/sliders/image-slideshow/',
+          'preview' => 'https://repository.kreaturamedia.com/v4/sliders/packages/image-slider.jpg',
+        ),
+        'client-testimonials' => 
+        array (
+          'name' => 'Client Testimonials',
+          'premium' => true,
+          'requires' => '6.0.0',
+          'groups' => 'premium,fullwidth',
+          'url' => 'https://layerslider.kreaturamedia.com/sliders/client-testimonials/',
+          'preview' => 'https://repository.kreaturamedia.com/v4/sliders/packages/client-testimonials.jpg',
+        ),
+        'fixed-bg' => 
+        array (
+          'name' => 'Fixed Background',
+          'premium' => true,
+          'requires' => '6.0.0',
+          'groups' => 'premium,fullwidth,media',
+          'url' => 'https://layerslider.kreaturamedia.com/sliders/fixed-background/',
+          'preview' => 'https://repository.kreaturamedia.com/v4/sliders/packages/fixed-bg.jpg',
+        ),
+        'dynamic-content-slider' => 
+        array (
+          'name' => 'Dynamic Content Slider',
+          'premium' => false,
+          'requires' => '5.0.0',
+          'groups' => 'free',
+          'url' => 'https://layerslider.kreaturamedia.com/sliders/dynamic-content-slider/',
+          'preview' => 'https://repository.kreaturamedia.com/v4/sliders/packages/dynamic-content-slider.jpg',
+        ),
+        'old-3d' => 
+        array (
+          'name' => 'LayerSlider v4',
+          'premium' => false,
+          'requires' => '5.0.0',
+          'groups' => 'free,3dtransition,media',
+          'url' => 'https://layerslider.kreaturamedia.com/sliders/3d-demo-slider/',
+          'preview' => 'https://repository.kreaturamedia.com/v4/sliders/packages/old-3d.jpg',
+        ),
+        'v5' => 
+        array (
+          'name' => 'LayerSlider v5',
+          'premium' => false,
+          'requires' => '5.0.0',
+          'groups' => 'free,parallax,media',
+          'url' => 'https://layerslider.kreaturamedia.com/sliders/layerslider-v5/',
+          'preview' => 'https://repository.kreaturamedia.com/v4/sliders/packages/v5.jpg',
+        ),
+        'video-slider' => 
+        array (
+          'name' => 'Video Slider',
+          'premium' => false,
+          'requires' => '5.0.0',
+          'groups' => 'free,media',
+          'url' => 'https://layerslider.kreaturamedia.com/sliders/video-slider/',
+          'preview' => 'https://repository.kreaturamedia.com/v4/sliders/packages/video-slider.jpg',
+        ),
+        'resort' => 
+        array (
+          'name' => 'Resort',
+          'premium' => true,
+          'requires' => '5.0.0',
+          'groups' => 'premium,fullwidth',
+          'url' => 'https://layerslider.kreaturamedia.com/sliders/restort/',
+          'preview' => 'https://repository.kreaturamedia.com/v4/sliders/packages/resort.jpg',
+        ),
+      ),
+    ),
+    'autoload' => 'no',
+  ),
+)

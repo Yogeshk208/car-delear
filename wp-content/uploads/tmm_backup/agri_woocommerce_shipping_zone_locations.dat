@@ -1,0 +1,9 @@
+array (
+  0 => 
+  array (
+    'location_id' => '1',
+    'zone_id' => '1',
+    'location_code' => 'IN',
+    'location_type' => 'country',
+  ),
+)

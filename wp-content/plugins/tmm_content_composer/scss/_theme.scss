@@ -1,0 +1,122 @@
+
+#content {
+	padding-bottom: 0;
+
+	section {
+		position: relative;
+		overflow: hidden;
+
+		&.pricing-table {
+			overflow: inherit;
+		}
+	}
+
+	// Offset Options
+	.padding-off {
+		padding-top: 0;
+		padding-bottom: 0;
+	}
+
+	.padding-top-20 {
+		padding-top: 20px;
+	}
+
+	.padding-top-40 {
+		padding-top: 40px;
+	}
+
+	.padding-top-60 {
+		padding-top: 60px;
+	}
+
+	.padding-top-80 {
+		padding-top: 80px;
+	}
+
+	.padding-top-100 {
+		padding-top: 100px;
+	}
+
+	.padding-bottom-20 {
+		padding-bottom: 20px;
+	}
+
+	.padding-bottom-40 {
+		padding-bottom: 40px;
+	}
+
+	.padding-bottom-60 {
+		padding-bottom: 60px;
+	}
+
+	.padding-bottom-80 {
+		padding-bottom: 80px;
+	}
+
+	.padding-bottom-100 {
+		padding-bottom: 100px;
+	}
+
+	// Border Styles
+	.brd-1 {
+		border-top: 1px solid rgba(0, 0, 0, 0.5);
+	}
+
+	.brd-2 {
+		border-top: 1px solid rgba(0, 0, 0, 0.3);
+	}
+
+	.brd-3 {
+		border-top: 1px dashed rgba(0, 0, 0, 0.5);
+	}
+
+	// Parallax Option
+	.parallax {
+		background-attachment: fixed;
+		background-size: cover;
+	}
+
+	// Viewport Height
+	.viewport-50 {
+		min-height: 50vh;
+	}
+
+	.viewport-100 {
+		min-height: 100vh;
+	}
+
+	// Background Colors
+	.bg-color-1 {
+		background-color: #fff;  // White
+	}
+
+	.bg-color-2 {
+		background-color: #e4e4e4;  // Silver
+	}
+
+	.bg-color-3 {
+		background-color: #f3f3f3;  // Light Gray
+	}
+
+	.bg-color-4 {
+		background-color: #deeff5;	// Light Blue
+	}
+
+	.content-center {
+		text-align: center;
+	}
+
+	.content-right {
+		text-align: right;
+	}
+
+	// Overlay layer
+	.overlay {
+		position: absolute;
+		top: 0;
+		bottom: 0;
+		left: 0;
+		right: 0;
+		background-color: rgba(255,255,255,0.8);
+	}
+}

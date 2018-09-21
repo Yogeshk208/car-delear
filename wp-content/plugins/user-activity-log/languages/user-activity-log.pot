@@ -1,0 +1,811 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: User Activity Log\n"
+"POT-Creation-Date: 2018-05-22 15:52+0530\n"
+"PO-Revision-Date: 2017-04-10 13:06+0530\n"
+"Last-Translator: \n"
+"Language-Team: solwininfotech <info@solwininfotech.com>\n"
+"Language: en_EN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;_e;__;_n;_n:1,2;_x:1,2c;_ex;_nx;"
+"esc_attr_e;_n_noop:1,2;esc_attr__;esc_attr_x;esc_html__;esc_html_e;"
+"esc_html_x\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: promo_notice.php:118
+msgid "We are glad you like"
+msgstr ""
+
+#: promo_notice.php:118 user_activity_log.php:155 user_activity_log.php:212
+#: user_activity_log.php:215 user_activity_log.php:218
+#: user_activity_log.php:408
+msgid "User Activity Log"
+msgstr ""
+
+#: promo_notice.php:118
+msgid ""
+"We are glad you like <strong>User Activity Log</strong> plugin and have been "
+"using it since the past few days. It is time to take the next step."
+msgstr ""
+
+#: promo_notice.php:120
+msgid "Upgrade to Pro"
+msgstr ""
+
+#: promo_notice.php:121
+msgid "Rate it"
+msgstr ""
+
+#: promo_notice.php:122
+msgid "Like Us on Facebook"
+msgstr ""
+
+#: promo_notice.php:123
+msgid "Tweet about User Activity Log"
+msgstr ""
+
+#: user_activity_log.php:63 user_activity_log.php:74
+msgid "News From Solwin Infotech"
+msgstr ""
+
+#: user_activity_log.php:71
+msgid "Solwin Infotech News"
+msgstr ""
+
+#: user_activity_log.php:86
+msgid "Latest Product"
+msgstr ""
+
+#: user_activity_log.php:90
+msgid "Something went wrong"
+msgstr ""
+
+#: user_activity_log.php:154
+msgid "If you like "
+msgstr ""
+
+#: user_activity_log.php:155 user_activity_log.php:212 user_activity_log.php:215
+#: user_activity_log.php:218 user_activity_log.php:408
+msgid "User Activity Log"
+msgstr ""
+
+#: user_activity_log.php:156
+msgid "please leave us a"
+msgstr ""
+
+#: user_activity_log.php:158
+msgid "rating. A heartly thank you from Solwin Infotech in advance!"
+msgstr ""
+
+#: user_activity_log.php:218 user_functions.php:973 user_settings_menu.php:17
+msgid "Settings"
+msgstr ""
+
+#: user_activity_log.php:239
+msgid "Number of Logs per page"
+msgstr ""
+
+#: user_activity_log.php:276
+msgid "Hi there!"
+msgstr ""
+
+#: user_activity_log.php:277
+msgid ""
+"Don't ever miss an opportunity to opt in for Email Notifications / "
+"Announcements about exciting New Features and Update Releases."
+msgstr ""
+
+#: user_activity_log.php:278
+msgid ""
+"Contribute in helping us making our plugin compatible with most plugins and "
+"themes by allowing to share non-sensitive information about your website."
+msgstr ""
+
+#: user_activity_log.php:279
+msgid "Email Address for Notifications"
+msgstr ""
+
+#: user_activity_log.php:281
+msgid "If you're not ready to Opt-In, that's ok too!"
+msgstr ""
+
+#: user_activity_log.php:282
+msgid "User Activity Log will still work fine."
+msgstr ""
+
+#: user_activity_log.php:283
+msgid "What permissions are being granted?"
+msgstr ""
+
+#: user_activity_log.php:289
+msgid "User Details"
+msgstr ""
+
+#: user_activity_log.php:290
+msgid "Name and Email Address"
+msgstr ""
+
+#: user_activity_log.php:296
+msgid "Current Plugin Status"
+msgstr ""
+
+#: user_activity_log.php:297
+msgid "Activation, Deactivation and Uninstall"
+msgstr ""
+
+#: user_activity_log.php:305
+msgid "Notifications"
+msgstr ""
+
+#: user_activity_log.php:306
+msgid "Updates & Announcements"
+msgstr ""
+
+#: user_activity_log.php:312
+msgid "Website Overview"
+msgstr ""
+
+#: user_activity_log.php:313
+msgid "Site URL, WP Version, PHP Info, Plugins & Themes Info"
+msgstr ""
+
+#: user_activity_log.php:320 user_functions.php:1578
+msgid ""
+"By clicking this button, you agree with the storage and handling of your data "
+"as mentioned above by this website. (GDPR Compliance)"
+msgstr ""
+
+#: user_activity_log.php:323 user_functions.php:1582
+msgid "Skip"
+msgstr ""
+
+#: user_activity_log.php:323 user_activity_log.php:324
+msgid "Continue"
+msgstr ""
+
+#: user_activity_log.php:324
+msgid "Opt-In"
+msgstr ""
+
+#: user_activity_log.php:416
+msgid "All Time"
+msgstr ""
+
+#: user_activity_log.php:419
+msgid "Today"
+msgstr ""
+
+#: user_activity_log.php:420
+msgid "Yesterday"
+msgstr ""
+
+#: user_activity_log.php:421
+msgid "Week"
+msgstr ""
+
+#: user_activity_log.php:422
+msgid "This Month"
+msgstr ""
+
+#: user_activity_log.php:423
+msgid "Last 1 Month"
+msgstr ""
+
+#: user_activity_log.php:424
+msgid "Last 2 Month"
+msgstr ""
+
+#: user_activity_log.php:425
+msgid "Last 3 Month"
+msgstr ""
+
+#: user_activity_log.php:426
+msgid "Last 6 Month"
+msgstr ""
+
+#: user_activity_log.php:427
+msgid "This Year"
+msgstr ""
+
+#: user_activity_log.php:428
+msgid "Last Year"
+msgstr ""
+
+#: user_activity_log.php:429
+msgid "Custom Date Range"
+msgstr ""
+
+#: user_activity_log.php:443
+msgid "All IP"
+msgstr ""
+
+#: user_activity_log.php:460
+msgid "All Hooks"
+msgstr ""
+
+#: user_activity_log.php:463
+msgid "wp_login"
+msgstr ""
+
+#: user_activity_log.php:464
+msgid "wp_login_failed"
+msgstr ""
+
+#: user_activity_log.php:478
+msgid "All Favorite/Unfavorite"
+msgstr ""
+
+#: user_activity_log.php:481 user_activity_log.php:573
+msgid "Favorite"
+msgstr ""
+
+#: user_activity_log.php:482 user_activity_log.php:574
+msgid "Unfavorite"
+msgstr ""
+
+#: user_activity_log.php:496
+msgid "All Countries"
+msgstr ""
+
+#: user_activity_log.php:503
+msgid "All Roles"
+msgstr ""
+
+#: user_activity_log.php:523
+msgid "All Users"
+msgstr ""
+
+#: user_activity_log.php:543
+msgid "All Types"
+msgstr ""
+
+#: user_activity_log.php:561 user_settings_menu.php:183
+msgid "Filter"
+msgstr ""
+
+#: user_activity_log.php:568
+msgid "Select bulk action"
+msgstr ""
+
+#: user_activity_log.php:571
+msgid "Bulk Actions"
+msgstr ""
+
+#: user_activity_log.php:572
+msgid "Delete Permanently"
+msgstr ""
+
+#: user_activity_log.php:576
+msgid "Apply"
+msgstr ""
+
+#: user_activity_log.php:578
+msgid "Export Logs (CSV)"
+msgstr ""
+
+#: user_activity_log.php:586 user_activity_log.php:588
+#: user_settings_menu.php:166 user_settings_menu.php:168
+msgid "Search"
+msgstr ""
+
+#: user_activity_log.php:587
+msgid "User, Role, Action"
+msgstr ""
+
+#: user_activity_log.php:595 user_settings_menu.php:186
+msgid "item"
+msgid_plural "items"
+msgstr[0] ""
+msgstr[1] ""
+
+#: user_activity_log.php:626 user_activity_log.php:638
+#: user_settings_menu.php:225 user_settings_menu.php:236
+#: user_settings_menu.php:310 user_settings_menu.php:317
+msgid "No."
+msgstr ""
+
+#: user_activity_log.php:627 user_activity_log.php:639 user_functions.php:1253
+msgid "Date"
+msgstr ""
+
+#: user_activity_log.php:628 user_activity_log.php:640 user_functions.php:1254
+msgid "Author"
+msgstr ""
+
+#: user_activity_log.php:629 user_activity_log.php:641
+msgid "IP Address"
+msgstr ""
+
+#: user_activity_log.php:630 user_activity_log.php:642
+msgid "Type"
+msgstr ""
+
+#: user_activity_log.php:631 user_activity_log.php:643
+msgid "Action"
+msgstr ""
+
+#: user_activity_log.php:632 user_activity_log.php:644
+msgid "Description"
+msgstr ""
+
+#: user_activity_log.php:700 user_settings_menu.php:290
+#: user_settings_menu.php:352
+msgid "No record found."
+msgstr ""
+
+#: user_activity_log.php:726 user_settings_menu.php:202
+msgid "Current page"
+msgstr ""
+
+#: user_activity_log.php:726 user_settings_menu.php:202
+msgid "of"
+msgstr ""
+
+#: user_activity_log.php:750
+msgid "Help to improve this plugin!"
+msgstr ""
+
+#: user_activity_log.php:752
+msgid "Enjoyed this plugin?"
+msgstr ""
+
+#: user_activity_log.php:753
+msgid "You can help by"
+msgstr ""
+
+#: user_activity_log.php:755
+msgid " rating this plugin on wordpress.org"
+msgstr ""
+
+#: user_activity_log.php:760
+msgid "Downloads"
+msgstr ""
+
+#: user_activity_log.php:772
+msgid "User Activity Log Pro"
+msgstr ""
+
+#: user_activity_log.php:776
+msgid "Supports 15 plugins"
+msgstr ""
+
+#: user_activity_log.php:777
+msgid "Exclude activity logs for particular users"
+msgstr ""
+
+#: user_activity_log.php:778
+msgid "Add detail logs for WooCommerce products "
+msgstr ""
+
+#: user_activity_log.php:779
+msgid "Add Support of WooCommerce Coupon"
+msgstr ""
+
+#: user_activity_log.php:780
+msgid "Export logs in CSV Format"
+msgstr ""
+
+#: user_activity_log.php:781
+msgid "View Detail logs(Old/New comparison)"
+msgstr ""
+
+#: user_activity_log.php:782
+msgid "Delete Logs"
+msgstr ""
+
+#: user_activity_log.php:783
+msgid "Favorite/Unfavorite Logs"
+msgstr ""
+
+#: user_activity_log.php:784
+msgid "Password Security"
+msgstr ""
+
+#: user_activity_log.php:785
+msgid "Role selection option for display logs"
+msgstr ""
+
+#: user_activity_log.php:786
+msgid "Hook Selection option to monitor activity"
+msgstr ""
+
+#: user_activity_log.php:787
+msgid "Add Custom event to track the logs"
+msgstr ""
+
+#: user_activity_log.php:788
+msgid "External database integration and migration"
+msgstr ""
+
+#: user_activity_log.php:789
+msgid "List currently logged in users"
+msgstr ""
+
+#: user_activity_log.php:791
+msgid "Buy Now only at "
+msgstr ""
+
+#: user_activity_log.php:795
+msgid "Buy Now on Codecanyon"
+msgstr ""
+
+#: user_activity_log.php:801
+msgid "Need Support?"
+msgstr ""
+
+#: user_activity_log.php:803
+msgid "Check out the"
+msgstr ""
+
+#: user_activity_log.php:804
+msgid "FAQs"
+msgstr ""
+
+#: user_activity_log.php:805
+msgid "and"
+msgstr ""
+
+#: user_activity_log.php:806
+msgid "Support Forums"
+msgstr ""
+
+#: user_activity_log.php:811
+msgid "Share & Follow Us"
+msgstr ""
+
+#: user_activity_log.php:892
+msgid "Documentation"
+msgstr ""
+
+#: user_activity_log.php:893
+msgid "Upgrade"
+msgstr ""
+
+#: user_functions.php:74
+msgid "User Activity Log Data Update"
+msgstr ""
+
+#: user_functions.php:75
+msgid "We need to update your database to the latest version."
+msgstr ""
+
+#: user_functions.php:79
+msgid "Run the updater"
+msgstr ""
+
+#: user_functions.php:91
+msgid ""
+"It is strongly recommended that you backup your database before proceeding. "
+"Are you sure you wish to run the updater now?"
+msgstr ""
+
+#: user_functions.php:1009
+msgid "User Activity Log Plugin"
+msgstr ""
+
+#: user_functions.php:1011
+msgid "Live Documentation"
+msgstr ""
+
+#: user_functions.php:1015
+msgid "Want more user activity log features?"
+msgstr ""
+
+#: user_functions.php:1017
+msgid "Upgrade to PRO"
+msgstr ""
+
+#: user_functions.php:1021
+msgid "Live Preview"
+msgstr ""
+
+#: user_functions.php:1022
+msgid "Dismiss This Notice"
+msgstr ""
+
+#: user_functions.php:1243
+msgid "Latest User Activity Logs"
+msgstr ""
+
+#: user_functions.php:1255
+msgid "Activity"
+msgstr ""
+
+#: user_functions.php:1304
+msgid "No Log found."
+msgstr ""
+
+#: user_functions.php:1536
+msgid ""
+"If you have a moment, please let us know why you are deactivating. We would "
+"like to help you in fixing the issue."
+msgstr ""
+
+#: user_functions.php:1542
+msgid "I am going to upgrade to PRO version"
+msgstr ""
+
+#: user_functions.php:1547
+msgid "The plugin suddenly stopped working"
+msgstr ""
+
+#: user_functions.php:1552
+msgid "The plugin was not working"
+msgstr ""
+
+#: user_functions.php:1557
+msgid "Found other better plugin than this plugin"
+msgstr ""
+
+#: user_functions.php:1562
+msgid "The plugin broke my site completely"
+msgstr ""
+
+#: user_functions.php:1567
+msgid "No any reason"
+msgstr ""
+
+#: user_functions.php:1572
+msgid "Other"
+msgstr ""
+
+#: user_functions.php:1580
+msgid "Submit"
+msgstr ""
+
+#: user_functions.php:1580 user_functions.php:1582
+msgid "Deactivate"
+msgstr ""
+
+#: user_functions.php:1581
+msgid "Cancel"
+msgstr ""
+
+#: user_functions.php:1582
+msgid "Deactivate User Activity Log"
+msgstr ""
+
+#: user_functions.php:1585
+msgid "Would you like to give us a chance to help you?"
+msgstr ""
+
+#: user_functions.php:1587
+msgid "Create a support ticket"
+msgstr ""
+
+#: user_settings_menu.php:21
+msgid "General Settings"
+msgstr ""
+
+#: user_settings_menu.php:24
+msgid "User Settings"
+msgstr ""
+
+#: user_settings_menu.php:27
+msgid "Email Notification"
+msgstr ""
+
+#: user_settings_menu.php:30
+msgid "Hook Settings"
+msgstr ""
+
+#: user_settings_menu.php:33
+msgid "Password Settings"
+msgstr ""
+
+#: user_settings_menu.php:36
+msgid "Role Manager"
+msgstr ""
+
+#: user_settings_menu.php:39
+msgid "Custom Event Settings"
+msgstr ""
+
+#: user_settings_menu.php:112 user_settings_menu.php:450
+#: user_settings_menu.php:625
+msgid "Settings saved successfully."
+msgstr ""
+
+#: user_settings_menu.php:159
+msgid "Select Users/Roles"
+msgstr ""
+
+#: user_settings_menu.php:160
+msgid "Email will be sent upon login of these selected users/roles."
+msgstr ""
+
+#: user_settings_menu.php:167
+msgid "Search user by username,email,firstname and lastname"
+msgstr ""
+
+#: user_settings_menu.php:167
+msgid "Username, Email, Firstname, Lastname"
+msgstr ""
+
+#: user_settings_menu.php:178 user_settings_menu.php:229
+#: user_settings_menu.php:240 user_settings_menu.php:311
+#: user_settings_menu.php:318
+msgid "Role"
+msgstr ""
+
+#: user_settings_menu.php:179 user_settings_menu.php:226
+#: user_settings_menu.php:237
+msgid "User"
+msgstr ""
+
+#: user_settings_menu.php:198
+msgid "Go to the first page"
+msgstr ""
+
+#: user_settings_menu.php:199
+msgid "Go to the previous page"
+msgstr ""
+
+#: user_settings_menu.php:205
+msgid "Go to the next page"
+msgstr ""
+
+#: user_settings_menu.php:206
+msgid "Go to the last page"
+msgstr ""
+
+#: user_settings_menu.php:227 user_settings_menu.php:238
+msgid "First name"
+msgstr ""
+
+#: user_settings_menu.php:228 user_settings_menu.php:239
+msgid "Last name"
+msgstr ""
+
+#: user_settings_menu.php:230 user_settings_menu.php:241
+msgid "Email address"
+msgstr ""
+
+#: user_settings_menu.php:391 user_settings_menu.php:507
+#: user_settings_menu.php:661
+msgid "Save Changes"
+msgstr ""
+
+#: user_settings_menu.php:422
+msgid "Hi "
+msgstr ""
+
+#: user_settings_menu.php:424
+msgid "Following user is logged in your site"
+msgstr ""
+
+#: user_settings_menu.php:425
+msgid "Thanks"
+msgstr ""
+
+#: user_settings_menu.php:438
+msgid "Please enter message"
+msgstr ""
+
+#: user_settings_menu.php:441
+msgid "Please enter the email address"
+msgstr ""
+
+#: user_settings_menu.php:444
+msgid "Please enter valid email address"
+msgstr ""
+
+#: user_settings_menu.php:465 user_settings_menu.php:561
+msgid "Email"
+msgstr ""
+
+#: user_settings_menu.php:466
+msgid "This email will be sent upon login of selected users/roles."
+msgstr ""
+
+#: user_settings_menu.php:469
+msgid "Enable?"
+msgstr ""
+
+#: user_settings_menu.php:473
+msgid "Yes"
+msgstr ""
+
+#: user_settings_menu.php:477
+msgid "No"
+msgstr ""
+
+#: user_settings_menu.php:482
+msgid "From Email"
+msgstr ""
+
+#: user_settings_menu.php:485
+msgid "The source Email address"
+msgstr ""
+
+#: user_settings_menu.php:489
+msgid "To Email"
+msgstr ""
+
+#: user_settings_menu.php:492
+msgid "The Email address notifications will be sent to"
+msgstr ""
+
+#: user_settings_menu.php:496
+msgid "Message"
+msgstr ""
+
+#: user_settings_menu.php:499
+msgid "Customize the message as per your requirement"
+msgstr ""
+
+#: user_settings_menu.php:558
+msgid "Username"
+msgstr ""
+
+#: user_settings_menu.php:559
+msgid "Firstname"
+msgstr ""
+
+#: user_settings_menu.php:560
+msgid "Lastname"
+msgstr ""
+
+#: user_settings_menu.php:562
+msgid "Date Time"
+msgstr ""
+
+#: user_settings_menu.php:563
+msgid "IP address"
+msgstr ""
+
+#: user_settings_menu.php:583
+msgid "User Login Notification"
+msgstr ""
+
+#: user_settings_menu.php:641
+msgid "Display Option"
+msgstr ""
+
+#: user_settings_menu.php:642
+msgid "There are some basic options for display User Action Log"
+msgstr ""
+
+#: user_settings_menu.php:645
+msgid "Keep logs for"
+msgstr ""
+
+#: user_settings_menu.php:647
+msgid "Days"
+msgstr ""
+
+#: user_settings_menu.php:648
+msgid ""
+"Maximum number of days to keep activity log. Leave blank to keep activity log "
+"forever"
+msgstr ""
+
+#: user_settings_menu.php:648
+msgid "not recommended"
+msgstr ""
+
+#: user_settings_menu.php:652
+msgid "Delete Log Activities"
+msgstr ""
+
+#: user_settings_menu.php:655
+msgid "Are you sure want to Reset Database?"
+msgstr ""
+
+#: user_settings_menu.php:655
+msgid "Reset Database"
+msgstr ""
+
+#: user_settings_menu.php:656
+msgid "Warning"
+msgstr ""
+
+#: user_settings_menu.php:656
+msgid "Clicking this will delete all activities from the database."
+msgstr ""

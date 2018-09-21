@@ -1,0 +1,18 @@
+array (
+  0 => 
+  array (
+    'zone_id' => '1',
+    'instance_id' => '1',
+    'method_id' => 'flat_rate',
+    'method_order' => '1',
+    'is_enabled' => '1',
+  ),
+  1 => 
+  array (
+    'zone_id' => '0',
+    'instance_id' => '2',
+    'method_id' => 'flat_rate',
+    'method_order' => '1',
+    'is_enabled' => '1',
+  ),
+)

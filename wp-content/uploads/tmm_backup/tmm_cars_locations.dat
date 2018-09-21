@@ -1,0 +1,23 @@
+array (
+  0 => 
+  array (
+    'id' => '1',
+    'parent_id' => '0',
+    'name' => 'India',
+    'slug' => 'india',
+  ),
+  1 => 
+  array (
+    'id' => '2',
+    'parent_id' => '1',
+    'name' => 'up',
+    'slug' => 'up',
+  ),
+  2 => 
+  array (
+    'id' => '3',
+    'parent_id' => '2',
+    'name' => 'noida',
+    'slug' => 'noida',
+  ),
+)
