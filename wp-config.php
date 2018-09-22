@@ -20,13 +20,13 @@
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define('DB_NAME', 'ieslascholarship');
+define('DB_NAME', 'car-dealer');
 
 /** MySQL database username */
-define('DB_USER', 'ieslascholarship');
+define('DB_USER', 'root');
 
 /** MySQL database password */
-define('DB_PASSWORD', 'ieslascholarship@123');
+define('DB_PASSWORD', 'mysql@123$database');
 
 /** MySQL hostname */
 define('DB_HOST', 'localhost');
@@ -89,4 +89,4 @@ if ( !defined('ABSPATH') )
 require_once(ABSPATH . 'wp-settings.php');
 
 error_reporting(0);
-define('DISALLOW_FILE_MODS', true);
+//define('DISALLOW_FILE_MODS', true);

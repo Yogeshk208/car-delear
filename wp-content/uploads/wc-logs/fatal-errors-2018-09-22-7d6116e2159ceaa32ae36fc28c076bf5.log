@@ -1,0 +1,104 @@
+2018-09-22T14:22:18+00:00 CRITICAL Uncaught Error: Cannot unset string offsets in /var/www/html/car-dealer/wp-admin/includes/file.php:1613
+Stack trace:
+#0 /var/www/html/car-dealer/wp-admin/includes/class-wp-upgrader-skin.php(93): request_filesystem_credentials('', 'ftpext', false, '/var/www/html/c...', Array, false)
+#1 /var/www/html/car-dealer/wp-admin/includes/class-automatic-upgrader-skin.php(47): WP_Upgrader_Skin->request_filesystem_credentials(false, '/var/www/html/c...', false)
+#2 /var/www/html/car-dealer/wp-admin/includes/class-wp-automatic-updater.php(144): Automatic_Upgrader_Skin->request_filesystem_credentials(false, '/var/www/html/c...', false)
+#3 /var/www/html/car-dealer/wp-admin/includes/class-wp-automatic-updater.php(278): WP_Automatic_Updater->should_update('plugin', Object(stdClass), '/var/www/html/c...')
+#4 /var/www/html/car-dealer/wp-admin/includes/class-wp-automatic-updater.php(389): WP_Automatic_Updater->update('plugin', Object(stdClass))
+#5 /var/www/html/car-dealer/wp-includes/update.php(562): WP_Automatic_Updater->run()
+#6
+
+2018-09-22T14:22:27+00:00 CRITICAL Uncaught Error: Cannot unset string offsets in /var/www/html/car-dealer/wp-admin/includes/file.php:1613
+Stack trace:
+#0 /var/www/html/car-dealer/wp-admin/includes/file.php(1783): request_filesystem_credentials('http://18.191.1...')
+#1 /var/www/html/car-dealer/wp-admin/plugins.php(578): wp_print_request_filesystem_credentials_modal()
+#2 {main}
+  thrown
+
+2018-09-22T14:22:36+00:00 CRITICAL Uncaught Error: Cannot unset string offsets in /var/www/html/car-dealer/wp-admin/includes/file.php:1613
+Stack trace:
+#0 /var/www/html/car-dealer/wp-admin/includes/file.php(1783): request_filesystem_credentials('http://18.191.1...')
+#1 /var/www/html/car-dealer/wp-admin/plugins.php(578): wp_print_request_filesystem_credentials_modal()
+#2 {main}
+  thrown
+
+2018-09-22T14:32:56+00:00 CRITICAL Uncaught Error: Cannot unset string offsets in /var/www/html/car-dealer/wp-admin/includes/file.php:1613
+Stack trace:
+#0 /var/www/html/car-dealer/wp-admin/includes/file.php(1783): request_filesystem_credentials('http://18.191.1...')
+#1 /var/www/html/car-dealer/wp-admin/plugins.php(578): wp_print_request_filesystem_credentials_modal()
+#2 {main}
+  thrown
+
+2018-09-22T14:33:15+00:00 CRITICAL Uncaught Error: Cannot unset string offsets in /var/www/html/car-dealer/wp-admin/includes/file.php:1613
+Stack trace:
+#0 /var/www/html/car-dealer/wp-admin/includes/class-wp-upgrader-skin.php(93): request_filesystem_credentials('', 'ftpext', false, '/var/www/html/c...', Array, false)
+#1 /var/www/html/car-dealer/wp-admin/includes/class-automatic-upgrader-skin.php(47): WP_Upgrader_Skin->request_filesystem_credentials(false, '/var/www/html/c...', false)
+#2 /var/www/html/car-dealer/wp-admin/includes/class-wp-upgrader.php(187): Automatic_Upgrader_Skin->request_filesystem_credentials(false, '/var/www/html/c...', false)
+#3 /var/www/html/car-dealer/wp-admin/includes/class-plugin-upgrader.php(233): WP_Upgrader->fs_connect(Array)
+#4 /var/www/html/car-dealer/wp-admin/includes/ajax-actions.php(3796): Plugin_Upgrader->bulk_upgrade(Array)
+#5 /var/www/html/car-dealer/wp-includes/class-wp-hook.php(286): wp_ajax_update_plugin('')
+#6 /var/www/html/car-dealer/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#
+
+2018-09-22T14:33:48+00:00 CRITICAL Uncaught Error: Cannot unset string offsets in /var/www/html/car-dealer/wp-admin/includes/file.php:1613
+Stack trace:
+#0 /var/www/html/car-dealer/wp-admin/includes/file.php(1783): request_filesystem_credentials('http://18.191.1...')
+#1 /var/www/html/car-dealer/wp-admin/plugin-install.php(164): wp_print_request_filesystem_credentials_modal()
+#2 {main}
+  thrown
+
+2018-09-22T14:33:52+00:00 CRITICAL Uncaught Error: Cannot unset string offsets in /var/www/html/car-dealer/wp-admin/includes/file.php:1613
+Stack trace:
+#0 /var/www/html/car-dealer/wp-admin/includes/file.php(1783): request_filesystem_credentials('http://18.191.1...')
+#1 /var/www/html/car-dealer/wp-admin/plugin-install.php(164): wp_print_request_filesystem_credentials_modal()
+#2 {main}
+  thrown
+
+2018-09-22T14:34:08+00:00 CRITICAL Uncaught Error: Cannot unset string offsets in /var/www/html/car-dealer/wp-admin/includes/file.php:1613
+Stack trace:
+#0 /var/www/html/car-dealer/wp-admin/includes/class-wp-upgrader-skin.php(93): request_filesystem_credentials('update.php?acti...', 'ftpext', false, '/var/www/html/c...', Array, false)
+#1 /var/www/html/car-dealer/wp-admin/includes/class-wp-upgrader.php(187): WP_Upgrader_Skin->request_filesystem_credentials(false, '/var/www/html/c...', false)
+#2 /var/www/html/car-dealer/wp-admin/includes/class-wp-upgrader.php(693): WP_Upgrader->fs_connect(Array)
+#3 /var/www/html/car-dealer/wp-admin/includes/class-plugin-upgrader.php(107): WP_Upgrader->run(Array)
+#4 /var/www/html/car-dealer/wp-admin/update.php(162): Plugin_Upgrader->install('/var/www/html/c...')
+#5 {main}
+  thrown
+
+2018-09-22T14:34:35+00:00 CRITICAL Uncaught Error: Cannot unset string offsets in /var/www/html/car-dealer/wp-admin/includes/file.php:1613
+Stack trace:
+#0 /var/www/html/car-dealer/wp-admin/includes/file.php(1783): request_filesystem_credentials('http://18.191.1...')
+#1 /var/www/html/car-dealer/wp-admin/plugins.php(578): wp_print_request_filesystem_credentials_modal()
+#2 {main}
+  thrown
+
+2018-09-22T14:35:12+00:00 CRITICAL Uncaught Error: Cannot unset string offsets in /var/www/html/car-dealer/wp-admin/includes/file.php:1613
+Stack trace:
+#0 /var/www/html/car-dealer/wp-admin/includes/file.php(1783): request_filesystem_credentials('http://18.191.1...')
+#1 /var/www/html/car-dealer/wp-admin/plugin-install.php(164): wp_print_request_filesystem_credentials_modal()
+#2 {main}
+  thrown
+
+2018-09-22T14:35:17+00:00 CRITICAL Uncaught Error: Cannot unset string offsets in /var/www/html/car-dealer/wp-admin/includes/file.php:1613
+Stack trace:
+#0 /var/www/html/car-dealer/wp-admin/includes/file.php(1783): request_filesystem_credentials('http://18.191.1...')
+#1 /var/www/html/car-dealer/wp-admin/plugin-install.php(164): wp_print_request_filesystem_credentials_modal()
+#2 {main}
+  thrown
+
+2018-09-22T14:35:22+00:00 CRITICAL Uncaught Error: Cannot unset string offsets in /var/www/html/car-dealer/wp-admin/includes/file.php:1613
+Stack trace:
+#0 /var/www/html/car-dealer/wp-admin/includes/file.php(1783): request_filesystem_credentials('http://18.191.1...')
+#1 /var/www/html/car-dealer/wp-admin/plugin-install.php(164): wp_print_request_filesystem_credentials_modal()
+#2 {main}
+  thrown
+
+2018-09-22T14:35:38+00:00 CRITICAL Uncaught Error: Cannot unset string offsets in /var/www/html/car-dealer/wp-admin/includes/file.php:1613
+Stack trace:
+#0 /var/www/html/car-dealer/wp-admin/includes/class-wp-upgrader-skin.php(93): request_filesystem_credentials('update.php?acti...', 'ftpext', false, '/var/www/html/c...', Array, false)
+#1 /var/www/html/car-dealer/wp-admin/includes/class-wp-upgrader.php(187): WP_Upgrader_Skin->request_filesystem_credentials(false, '/var/www/html/c...', false)
+#2 /var/www/html/car-dealer/wp-admin/includes/class-wp-upgrader.php(693): WP_Upgrader->fs_connect(Array)
+#3 /var/www/html/car-dealer/wp-admin/includes/class-plugin-upgrader.php(107): WP_Upgrader->run(Array)
+#4 /var/www/html/car-dealer/wp-admin/update.php(162): Plugin_Upgrader->install('/var/www/html/c...')
+#5 {main}
+  thrown
+
