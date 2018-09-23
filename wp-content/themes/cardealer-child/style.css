@@ -1,5 +1,6 @@
 /*
- Theme Name:   Cardealer Child | Shared by VestaThemes.com
+ Theme Name:   Cardealer Child
+ | Shared by VestaThemes.com
  Theme URI:    http://example.com
  Description:  Child theme for the Cardealer
  Author:       Your name
@@ -10,3 +11,11 @@
  Text Domain:  cardealer-child
 */
 
+#boatdealer_meta_price {
+    margin-top: 10px !important;
+}
+
+.page-id-893 #main {
+    width: 100%!important;
+     position: static; 
+}

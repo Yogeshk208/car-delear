@@ -1,0 +1,891 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Boat Dealer Plugin\n"
+"POT-Creation-Date: 2018-06-21 19:09-0000\n"
+"PO-Revision-Date: 2018-06-21 19:24-0000\n"
+"Last-Translator: Bill <sergiominozzi@gmail.com>\n"
+"Language-Team: Bill Minozzi <sergiominozzi@gmail.com>\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.11\n"
+"X-Poedit-Basepath: F:\\BoatDealerPro\\versao_7\\boatdealer\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: F:\\BoatDealerPro\\versao_7\\boatdealer\n"
+
+#: F:\BoatDealerPro\versao_7\boatdealer/includes/contact-form/multi-contact-show-form.php:22
+msgid "Request Information"
+msgstr "Información requerida"
+
+#: F:\BoatDealerPro\versao_7\boatdealer/includes/contact-form/multi-contact-show-form.php:26
+msgid "Your Name"
+msgstr "Tu nombre"
+
+#: F:\BoatDealerPro\versao_7\boatdealer/includes/contact-form/multi-contact-show-form.php:29
+msgid "Please type your name"
+msgstr "Por favor, escreva o teu nome"
+
+#: F:\BoatDealerPro\versao_7\boatdealer/includes/contact-form/multi-contact-show-form.php:32
+msgid "Your Email"
+msgstr "Tu Email"
+
+#: F:\BoatDealerPro\versao_7\boatdealer/includes/contact-form/multi-contact-show-form.php:35
+msgid "Please type your email"
+msgstr "Por favor escriba su correo electrónico"
+
+#: F:\BoatDealerPro\versao_7\boatdealer/includes/contact-form/multi-contact-show-form.php:39
+msgid "Your Message"
+msgstr "Su mensaje"
+
+#: F:\BoatDealerPro\versao_7\boatdealer/includes/contact-form/multi-contact-show-form.php:41
+msgid "Please type your message"
+msgstr "Por favor escriba su mensaje"
+
+#: F:\BoatDealerPro\versao_7\boatdealer/includes/contact-form/multi-contact-show-form.php:47
+msgid "Send"
+msgstr "Enviar"
+
+#: F:\BoatDealerPro\versao_7\boatdealer/includes/contact-form/multi-contact-show-form.php:48
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: F:\BoatDealerPro\versao_7\boatdealer/includes/help/help.php:49
+#: F:\BoatDealerPro\versao_7\boatdealer/includes/help/help.php:119
+#: F:\BoatDealerPro\versao_7\boatdealer/includes/help/help.php:205
+#: F:\BoatDealerPro\versao_7\boatdealer/includes/help/help.php:242
+#: F:\BoatDealerPro\versao_7\boatdealer/includes/help/help.php:261
+msgid "Overview"
+msgstr "Visión de conjunto"
+
+#: F:\BoatDealerPro\versao_7\boatdealer/includes/help/help.php:124
+#, fuzzy
+msgid "Field Types"
+msgstr "Tipo Carburante"
+
+#: F:\BoatDealerPro\versao_7\boatdealer/includes/help/help.php:129
+msgid "Add Fields Form"
+msgstr "Agregar formulario de campos"
+
+#: F:\BoatDealerPro\versao_7\boatdealer/includes/help/help.php:134
+msgid "Edit and Trash Fields"
+msgstr "Editar y eliminar campos"
+
+#: F:\BoatDealerPro\versao_7\boatdealer/includes/help/help.php:210
+msgid "Agents"
+msgstr "Agents"
+
+#: F:\BoatDealerPro\versao_7\boatdealer/includes/help/help.php:215
+msgid "Location"
+msgstr "Ubicación"
+
+#: F:\BoatDealerPro\versao_7\boatdealer/includes/help/help.php:220
+msgid "Edit and Trash Boats"
+msgstr "Editar y eliminar barcos"
+
+#: F:\BoatDealerPro\versao_7\boatdealer/includes/help/help.php:225
+#, fuzzy
+msgid "Featured Images"
+msgstr "Añadir una imagen destacada"
+
+#: F:\BoatDealerPro\versao_7\boatdealer/includes/help/help.php:230
+msgid "Images Gallery"
+msgstr "Galería de imágenes"
+
+#: F:\BoatDealerPro\versao_7\boatdealer/includes/post-type/meta-box.php:6
+msgid "Mark to show up at Featured Widget."
+msgstr "Marca para aparecer en Widget destacado."
+
+#: F:\BoatDealerPro\versao_7\boatdealer/includes/post-type/meta-box.php:11
+msgid ""
+"No special characters here (\"$\" \",\" \".\"), the plugin will auto format "
+"the number."
+msgstr ""
+"No hay caracteres especiales aquí. El plug in formateará automáticamente el "
+"número."
+
+#: F:\BoatDealerPro\versao_7\boatdealer/includes/post-type/meta-box.php:18
+#, fuzzy
+msgid "The year of the product. Only numbers, no point, no comma."
+msgstr "El año del modelo. Solo números, sin punto, sin coma."
+
+#: F:\BoatDealerPro\versao_7\boatdealer/includes/post-type/meta-box.php:25
+msgid "The amount of "
+msgstr "La cantidad de"
+
+#: F:\BoatDealerPro\versao_7\boatdealer/includes/post-type/meta-box.php:32
+msgid "Engine HP. Only numbers, no point, no comma."
+msgstr "Motor HP. Solo números, sin punto, sin coma."
+
+#: F:\BoatDealerPro\versao_7\boatdealer/includes/post-type/meta-box.php:38
+#, fuzzy
+msgid "The amount of miles on this car . Only numbers, no point, no comma."
+msgstr ""
+"La cantidad de millas en este barco. Solo números, sin punto, sin coma."
+
+#: F:\BoatDealerPro\versao_7\boatdealer/includes/post-type/meta-box.php:42
+msgid "New"
+msgstr "Nuevo"
+
+#: F:\BoatDealerPro\versao_7\boatdealer/includes/post-type/meta-box.php:43
+msgid "Used"
+msgstr "Usado"
+
+#: F:\BoatDealerPro\versao_7\boatdealer/includes/post-type/meta-box.php:44
+msgid "Damaged"
+msgstr "Estropeado"
+
+#: F:\BoatDealerPro\versao_7\boatdealer/includes/post-type/meta-box.php:62
+msgid "Fuel Type."
+msgstr "Tipo de combustible"
+
+#: F:\BoatDealerPro\versao_7\boatdealer/includes/post-type/meta-box.php:66
+#: F:\BoatDealerPro\versao_7\boatdealer/includes/search/search-function.php:120
+msgid "Diesel"
+msgstr ""
+
+#: F:\BoatDealerPro\versao_7\boatdealer/includes/post-type/meta-box.php:67
+#: F:\BoatDealerPro\versao_7\boatdealer/includes/search/search-function.php:123
+msgid "Gasoline"
+msgstr "Gasolina"
+
+#: F:\BoatDealerPro\versao_7\boatdealer/includes/post-type/meta-box.php:68
+#: F:\BoatDealerPro\versao_7\boatdealer/includes/search/search-function.php:126
+msgid "Hybrid"
+msgstr "Hibrido"
+
+#: F:\BoatDealerPro\versao_7\boatdealer/includes/post-type/meta-box.php:69
+#: F:\BoatDealerPro\versao_7\boatdealer/includes/search/search-function.php:129
+msgid "Electric"
+msgstr "Electrico"
+
+#: F:\BoatDealerPro\versao_7\boatdealer/includes/post-type/meta-box.php:70
+#: F:\BoatDealerPro\versao_7\boatdealer/includes/search/search-function.php:132
+msgid "Biodiesel"
+msgstr ""
+
+#: F:\BoatDealerPro\versao_7\boatdealer/includes/post-type/meta-box.php:71
+#: F:\BoatDealerPro\versao_7\boatdealer/includes/search/search-function.php:135
+msgid "CNG"
+msgstr ""
+
+#: F:\BoatDealerPro\versao_7\boatdealer/includes/post-type/meta-box.php:72
+#: F:\BoatDealerPro\versao_7\boatdealer/includes/search/search-function.php:138
+msgid "Ethanol"
+msgstr ""
+
+#: F:\BoatDealerPro\versao_7\boatdealer/includes/post-type/meta-box.php:73
+#: F:\BoatDealerPro\versao_7\boatdealer/includes/search/search-function.php:141
+msgid "Other"
+msgstr "Otro"
+
+#: F:\BoatDealerPro\versao_7\boatdealer/includes/post-type/meta-box.php:174
+#: F:\BoatDealerPro\versao_7\boatdealer/includes/templates/template-functions.php:32
+msgid "Details"
+msgstr "Detalles"
+
+#: F:\BoatDealerPro\versao_7\boatdealer/includes/post-type/post-functions.php:53
+msgid "Parent Model"
+msgstr "Modelo"
+
+#: F:\BoatDealerPro\versao_7\boatdealer/includes/post-type/post-functions.php:54
+msgid "Parent Model:"
+msgstr "Modelo:"
+
+#: F:\BoatDealerPro\versao_7\boatdealer/includes/post-type/post-functions.php:55
+msgid "Edit Model"
+msgstr "Editar modelo"
+
+#: F:\BoatDealerPro\versao_7\boatdealer/includes/post-type/post-functions.php:56
+msgid "Update Model"
+msgstr "Actualizar modelo"
+
+#: F:\BoatDealerPro\versao_7\boatdealer/includes/post-type/post-functions.php:57
+msgid "Add New Model"
+msgstr "Añadir nuevo modelo"
+
+#: F:\BoatDealerPro\versao_7\boatdealer/includes/post-type/post-functions.php:58
+msgid "New Model"
+msgstr "Nuevo modelo"
+
+#: F:\BoatDealerPro\versao_7\boatdealer/includes/post-type/post-functions.php:59
+msgid "Separate Model with commas"
+msgstr "Separar el modelo con comas"
+
+#: F:\BoatDealerPro\versao_7\boatdealer/includes/post-type/post-functions.php:60
+msgid "Add or Remove Model"
+msgstr "Agregar o quitar modelo"
+
+#: F:\BoatDealerPro\versao_7\boatdealer/includes/post-type/post-functions.php:61
+msgid "Choose from the most used Model"
+msgstr "Elija entre el modelo más utilizado"
+
+#: F:\BoatDealerPro\versao_7\boatdealer/includes/post-type/post-functions.php:76
+#, fuzzy
+msgid "Parent team"
+msgstr "Modelo"
+
+#: F:\BoatDealerPro\versao_7\boatdealer/includes/post-type/post-functions.php:77
+#, fuzzy
+msgid "Parent team:"
+msgstr "Modelo:"
+
+#: F:\BoatDealerPro\versao_7\boatdealer/includes/post-type/post-functions.php:78
+msgid "Edit team member"
+msgstr ""
+
+#: F:\BoatDealerPro\versao_7\boatdealer/includes/post-type/post-functions.php:79
+#, fuzzy
+msgid "Update team"
+msgstr "Actualizar modelo"
+
+#: F:\BoatDealerPro\versao_7\boatdealer/includes/post-type/post-functions.php:80
+#, fuzzy
+msgid "Add New team member"
+msgstr "Añadir nuevas características"
+
+#: F:\BoatDealerPro\versao_7\boatdealer/includes/post-type/post-functions.php:81
+#, fuzzy
+msgid "New team"
+msgstr "Nuevas características"
+
+#: F:\BoatDealerPro\versao_7\boatdealer/includes/post-type/post-functions.php:82
+#, fuzzy
+msgid "Separate team with commas"
+msgstr "Separar el modelo con comas"
+
+#: F:\BoatDealerPro\versao_7\boatdealer/includes/post-type/post-functions.php:83
+#, fuzzy
+msgid "Add or Remove team"
+msgstr "Agregar o quitar modelo"
+
+#: F:\BoatDealerPro\versao_7\boatdealer/includes/post-type/post-functions.php:84
+#, fuzzy
+msgid "Choose from the most used makers"
+msgstr "Elija entre las funciones más utilizadas"
+
+#: F:\BoatDealerPro\versao_7\boatdealer/includes/post-type/post-functions.php:103
+msgid "Parent Features"
+msgstr "Características principales"
+
+#: F:\BoatDealerPro\versao_7\boatdealer/includes/post-type/post-functions.php:104
+msgid "Parent Features:"
+msgstr "Características principales:"
+
+#: F:\BoatDealerPro\versao_7\boatdealer/includes/post-type/post-functions.php:105
+msgid "Edit Features"
+msgstr "Editar características"
+
+#: F:\BoatDealerPro\versao_7\boatdealer/includes/post-type/post-functions.php:106
+msgid "Update Features"
+msgstr "Actualizar las características"
+
+#: F:\BoatDealerPro\versao_7\boatdealer/includes/post-type/post-functions.php:107
+msgid "Add New Features"
+msgstr "Añadir nuevas características"
+
+#: F:\BoatDealerPro\versao_7\boatdealer/includes/post-type/post-functions.php:108
+msgid "New Features"
+msgstr "Nuevas características"
+
+#: F:\BoatDealerPro\versao_7\boatdealer/includes/post-type/post-functions.php:109
+msgid "Separate Features with commas"
+msgstr "Separar las características con comas"
+
+#: F:\BoatDealerPro\versao_7\boatdealer/includes/post-type/post-functions.php:110
+msgid "Add or Remove Features"
+msgstr "Agregar o eliminar características"
+
+#: F:\BoatDealerPro\versao_7\boatdealer/includes/post-type/post-functions.php:111
+msgid "Choose from the most used Features"
+msgstr "Elija entre las funciones más utilizadas"
+
+#: F:\BoatDealerPro\versao_7\boatdealer/includes/post-type/post-functions.php:406
+#, fuzzy
+msgid "Featured Image"
+msgstr "Añadir una imagen destacada"
+
+#: F:\BoatDealerPro\versao_7\boatdealer/includes/post-type/post-functions.php:434
+msgid "Call For Price"
+msgstr "Llame para consultar precio"
+
+#: F:\BoatDealerPro\versao_7\boatdealer/includes/post-type/post-functions.php:457
+#, fuzzy
+msgid "Name"
+msgstr "Tu nombre"
+
+#: F:\BoatDealerPro\versao_7\boatdealer/includes/post-type/post-functions.php:458
+msgid "Description"
+msgstr ""
+
+#: F:\BoatDealerPro\versao_7\boatdealer/includes/post-type/post-functions.php:459
+msgid "Slug"
+msgstr ""
+
+#: F:\BoatDealerPro\versao_7\boatdealer/includes/search/search-function.php:16
+#: F:\BoatDealerPro\versao_7\boatdealer/includes/search/search-function.php:379
+#: F:\BoatDealerPro\versao_7\boatdealer/includes/widgets/widgets.php:248
+msgid "Search"
+msgstr "Buscar"
+
+#: F:\BoatDealerPro\versao_7\boatdealer/includes/search/search-function.php:79
+#: F:\BoatDealerPro\versao_7\boatdealer/includes/templates/template-functions.php:109
+#: F:\BoatDealerPro\versao_7\boatdealer/includes/templates/template-showroom.php:172
+#: F:\BoatDealerPro\versao_7\boatdealer/includes/templates/template-showroom2.php:241
+#: F:\BoatDealerPro\versao_7\boatdealer/includes/widgets/widgets.php:86
+#: F:\BoatDealerPro\versao_7\boatdealer/includes/widgets/widgets.php:182
+msgid "Year"
+msgstr "Año"
+
+#: F:\BoatDealerPro\versao_7\boatdealer/includes/search/search-function.php:84
+#: F:\BoatDealerPro\versao_7\boatdealer/includes/search/search-function.php:118
+#: F:\BoatDealerPro\versao_7\boatdealer/includes/search/search-function.php:186
+#: F:\BoatDealerPro\versao_7\boatdealer/includes/search/search-function.php:210
+#: F:\BoatDealerPro\versao_7\boatdealer/includes/search/search-function.php:235
+#: F:\BoatDealerPro\versao_7\boatdealer/includes/search/search-function.php:267
+msgid "Any"
+msgstr "alguna"
+
+#: F:\BoatDealerPro\versao_7\boatdealer/includes/search/search-function.php:112
+#: F:\BoatDealerPro\versao_7\boatdealer/includes/templates/template-functions.php:108
+#: F:\BoatDealerPro\versao_7\boatdealer/includes/templates/template-showroom.php:173
+#: F:\BoatDealerPro\versao_7\boatdealer/includes/templates/template-showroom2.php:242
+msgid "Fuel"
+msgstr "Carbustible"
+
+#: F:\BoatDealerPro\versao_7\boatdealer/includes/search/search-function.php:260
+msgid "Order By"
+msgstr "Ordenar por"
+
+#: F:\BoatDealerPro\versao_7\boatdealer/includes/search/search-function.php:269
+msgid "Year newest first"
+msgstr "Año más nuevo primero"
+
+#: F:\BoatDealerPro\versao_7\boatdealer/includes/search/search-function.php:272
+msgid "Year oldest first"
+msgstr "Año más antiguo primero"
+
+#: F:\BoatDealerPro\versao_7\boatdealer/includes/search/search-function.php:275
+msgid "Price higher first"
+msgstr "Precio más alto primero"
+
+#: F:\BoatDealerPro\versao_7\boatdealer/includes/search/search-function.php:278
+msgid "Price lower first"
+msgstr "Precio más bajo primero"
+
+#: F:\BoatDealerPro\versao_7\boatdealer/includes/search/search-function.php:285
+msgid "Hours higher first"
+msgstr "Horas más altas primero"
+
+#: F:\BoatDealerPro\versao_7\boatdealer/includes/search/search-function.php:288
+msgid "Hours lower first"
+msgstr "Horas más bajas primero"
+
+#: F:\BoatDealerPro\versao_7\boatdealer/includes/search/search-function.php:295
+msgid "Mileage higher first"
+msgstr "Kilometraje más alto primero"
+
+#: F:\BoatDealerPro\versao_7\boatdealer/includes/search/search-function.php:298
+msgid "Mileage lower first"
+msgstr "Kilometraje más bajo primero"
+
+#: F:\BoatDealerPro\versao_7\boatdealer/includes/search/search-function.php:325
+#, fuzzy
+msgid "Price Range"
+msgstr "Precio"
+
+#: F:\BoatDealerPro\versao_7\boatdealer/includes/search/search-function.php:353
+msgid "Price"
+msgstr "Precio"
+
+#: F:\BoatDealerPro\versao_7\boatdealer/includes/team/team.php:114
+msgid "No Team Member Added!"
+msgstr ""
+
+#: F:\BoatDealerPro\versao_7\boatdealer/includes/templates/template-functions.php:18
+msgid "Model"
+msgstr "Modelo"
+
+#: F:\BoatDealerPro\versao_7\boatdealer/includes/templates/template-functions.php:66
+msgid "Features"
+msgstr "Características"
+
+#: F:\BoatDealerPro\versao_7\boatdealer/includes/templates/template-functions.php:100
+#: F:\BoatDealerPro\versao_7\boatdealer/includes/templates/template-showroom.php:167
+#: F:\BoatDealerPro\versao_7\boatdealer/includes/templates/template-showroom1.php:219
+#: F:\BoatDealerPro\versao_7\boatdealer/includes/templates/template-showroom2.php:236
+#: F:\BoatDealerPro\versao_7\boatdealer/includes/templates/template-showroom3.php:256
+#: F:\BoatDealerPro\versao_7\boatdealer/includes/widgets/widgets.php:84
+#: F:\BoatDealerPro\versao_7\boatdealer/includes/widgets/widgets.php:180
+msgid "Call for Price"
+msgstr "Llame para consultar precio"
+
+#: F:\BoatDealerPro\versao_7\boatdealer/includes/templates/template-functions.php:111
+msgid "Cond"
+msgstr "Cond"
+
+#: F:\BoatDealerPro\versao_7\boatdealer/includes/templates/template-functions.php:112
+#: F:\BoatDealerPro\versao_7\boatdealer/includes/templates/template-showroom.php:171
+#: F:\BoatDealerPro\versao_7\boatdealer/includes/templates/template-showroom1.php:225
+#: F:\BoatDealerPro\versao_7\boatdealer/includes/templates/template-showroom2.php:240
+#: F:\BoatDealerPro\versao_7\boatdealer/includes/templates/template-showroom3.php:262
+msgid "HP"
+msgstr ""
+
+#: F:\BoatDealerPro\versao_7\boatdealer/includes/templates/template-showroom.php:174
+#: F:\BoatDealerPro\versao_7\boatdealer/includes/templates/template-showroom2.php:243
+msgid "Transmission"
+msgstr "Transmisión"
+
+#: F:\BoatDealerPro\versao_7\boatdealer/includes/templates/template-showroom.php:199
+#: F:\BoatDealerPro\versao_7\boatdealer/includes/templates/template-showroom1.php:280
+#: F:\BoatDealerPro\versao_7\boatdealer/includes/templates/template-showroom2.php:265
+#: F:\BoatDealerPro\versao_7\boatdealer/includes/templates/template-showroom3.php:314
+#: F:\BoatDealerPro\versao_7\boatdealer/includes/templates/template-single.php:37
+msgid "Back"
+msgstr "Atrás"
+
+#: F:\BoatDealerPro\versao_7\boatdealer/includes/templates/template-showroom.php:200
+#: F:\BoatDealerPro\versao_7\boatdealer/includes/templates/template-showroom1.php:281
+#: F:\BoatDealerPro\versao_7\boatdealer/includes/templates/template-showroom2.php:266
+#: F:\BoatDealerPro\versao_7\boatdealer/includes/templates/template-showroom3.php:315
+msgid "Onward"
+msgstr "Adelante"
+
+#: F:\BoatDealerPro\versao_7\boatdealer/includes/templates/template-showroom.php:210
+#: F:\BoatDealerPro\versao_7\boatdealer/includes/templates/template-showroom1.php:291
+#: F:\BoatDealerPro\versao_7\boatdealer/includes/templates/template-showroom2.php:275
+#: F:\BoatDealerPro\versao_7\boatdealer/includes/templates/template-showroom3.php:324
+msgid "Not Found !"
+msgstr "No encontrado !"
+
+#: F:\BoatDealerPro\versao_7\boatdealer/includes/templates/template-showroom1.php:268
+#: F:\BoatDealerPro\versao_7\boatdealer/includes/templates/template-showroom3.php:305
+msgid "View"
+msgstr "Ver"
+
+#: F:\BoatDealerPro\versao_7\boatdealer/includes/templates/template-single.php:52
+msgid "Contact Us"
+msgstr "Contactenos"
+
+#: F:\BoatDealerPro\versao_7\boatdealer/includes/widgets/widgets.php:15
+#, fuzzy
+msgid "A list of Recent boats"
+msgstr "Lista de barcos reciente"
+
+#: F:\BoatDealerPro\versao_7\boatdealer/includes/widgets/widgets.php:41
+msgid "New Arrivals"
+msgstr "Recién llegados"
+
+#: F:\BoatDealerPro\versao_7\boatdealer/includes/widgets/widgets.php:107
+#, fuzzy
+msgid "A list of Featured boat-s"
+msgstr "Lista de barcos destacados"
+
+#: F:\BoatDealerPro\versao_7\boatdealer/includes/widgets/widgets.php:131
+#, fuzzy
+msgid "Featured boats"
+msgstr "Barcos destacados"
+
+#: F:\BoatDealerPro\versao_7\boatdealer/includes/widgets/widgets.php:223
+#, fuzzy
+msgid "Search boats"
+msgstr "Búsqueda de barcos"
+
+#: F:\BoatDealerPro\versao_7\boatdealer/includes/widgets/widgets.php:235
+msgid "Title"
+msgstr "Titulo"
+
+#: F:\BoatDealerPro\versao_7\boatdealer/settings/options/plugin_options_tabbed.php:16
+msgid "Choose your currency, metric system and so on."
+msgstr "Elija su moneda, sistema métrico y así sucesivamente."
+
+#: F:\BoatDealerPro\versao_7\boatdealer/settings/options/plugin_options_tabbed.php:21
+msgid "Currency"
+msgstr "Moneda"
+
+#: F:\BoatDealerPro\versao_7\boatdealer/settings/options/plugin_options_tabbed.php:39
+msgid "Miles - Km - Hours"
+msgstr "Millas - Km - Horas"
+
+#: F:\BoatDealerPro\versao_7\boatdealer/settings/options/plugin_options_tabbed.php:41
+msgid "Miles"
+msgstr "Milas"
+
+#: F:\BoatDealerPro\versao_7\boatdealer/settings/options/plugin_options_tabbed.php:42
+msgid "Kms"
+msgstr "Kms"
+
+#: F:\BoatDealerPro\versao_7\boatdealer/settings/options/plugin_options_tabbed.php:43
+msgid "Hours"
+msgstr "Horas"
+
+#: F:\BoatDealerPro\versao_7\boatdealer/settings/options/plugin_options_tabbed.php:49
+msgid "Liters - Gallons"
+msgstr "Litros - Galones"
+
+#: F:\BoatDealerPro\versao_7\boatdealer/settings/options/plugin_options_tabbed.php:51
+msgid "Liters"
+msgstr "Litros"
+
+#: F:\BoatDealerPro\versao_7\boatdealer/settings/options/plugin_options_tabbed.php:52
+msgid "Gallons"
+msgstr "Galones"
+
+#: F:\BoatDealerPro\versao_7\boatdealer/settings/options/plugin_options_tabbed.php:59
+msgid "Feet - Meters"
+msgstr "Pies - Metros"
+
+#: F:\BoatDealerPro\versao_7\boatdealer/settings/options/plugin_options_tabbed.php:61
+msgid "Feet"
+msgstr "Pies"
+
+#: F:\BoatDealerPro\versao_7\boatdealer/settings/options/plugin_options_tabbed.php:62
+msgid "Meters"
+msgstr "Metros"
+
+#: F:\BoatDealerPro\versao_7\boatdealer/settings/options/plugin_options_tabbed.php:69
+msgid "How many boats would you like to display per page?"
+msgstr "¿Cuántos barcos te gustaría mostrar por página?"
+
+#: F:\BoatDealerPro\versao_7\boatdealer/settings/options/plugin_options_tabbed.php:93
+msgid "Remove Sidebar from Search Result Page"
+msgstr "Eliminar la barra lateral de la página de resultados de la búsqueda"
+
+#: F:\BoatDealerPro\versao_7\boatdealer/settings/options/plugin_options_tabbed.php:102
+msgid "Replace the Wordpress Gallery with Flexslider Gallery"
+msgstr "Reemplazar la galería de Wordpress con la  galaría Flexlider"
+
+#: F:\BoatDealerPro\versao_7\boatdealer/settings/options/plugin_options_tabbed.php:111
+msgid "Use thumbnails size 2:1 or 4:3 ?"
+msgstr "Use miniaturas tamaño 2:1 o 4:3?"
+
+#: F:\BoatDealerPro\versao_7\boatdealer/settings/options/plugin_options_tabbed.php:120
+msgid "Enable Contact Form in Single Product Page?"
+msgstr "¿Habilitar el formulario de contacto en la página de un solo producto?"
+
+#: F:\BoatDealerPro\versao_7\boatdealer/settings/options/plugin_options_tabbed.php:129
+msgid ""
+"Fill out your contact email to receive email from your Contact Form at "
+"bottom of the individual boat page."
+msgstr ""
+"Complete su correo electrónico de contacto para recibir un correo "
+"electrónico de su formulario de contacto en laParte inferior de la página "
+"individual del barco."
+
+#: F:\BoatDealerPro\versao_7\boatdealer/settings/options/plugin_options_tabbed.php:134
+msgid "In Show Room Page, use Gallery or List View Template"
+msgstr "En la página Show Room, use Gallery o List View Template"
+
+#: F:\BoatDealerPro\versao_7\boatdealer/settings/options/plugin_options_tabbed.php:142
+msgid ""
+"Customize your Search Options. Choose the fields to show on the front end "
+"search bar."
+msgstr ""
+"Personaliza tus opciones de búsqueda. Elija los campos para mostrar en la "
+"barra de búsqueda de la parte delantera."
+
+#: F:\BoatDealerPro\versao_7\boatdealer/settings/options/plugin_options_tabbed.php:148
+#: F:\BoatDealerPro\versao_7\boatdealer/settings/options/plugin_options_tabbed.php:189
+msgid "Show the Fuel type control"
+msgstr "Mostrar el control de tipo de combustible"
+
+#: F:\BoatDealerPro\versao_7\boatdealer/settings/options/plugin_options_tabbed.php:157
+#: F:\BoatDealerPro\versao_7\boatdealer/settings/options/plugin_options_tabbed.php:198
+msgid "Show the Year control"
+msgstr "Mostrar el control del año"
+
+#: F:\BoatDealerPro\versao_7\boatdealer/settings/options/plugin_options_tabbed.php:167
+msgid "Show the Price slider"
+msgstr "Mostrar el control deslizante Precio"
+
+#: F:\BoatDealerPro\versao_7\boatdealer/settings/options/plugin_options_tabbed.php:176
+#: F:\BoatDealerPro\versao_7\boatdealer/settings/options/plugin_options_tabbed.php:217
+msgid "Show the Order By Control"
+msgstr "Mostrar el orden por control"
+
+#: F:\BoatDealerPro\versao_7\boatdealer/settings/options/plugin_options_tabbed.php:183
+msgid ""
+"Customize your Search Widget Options. Choose the fields to show on the "
+"Search Widget."
+msgstr ""
+"Personaliza tus opciones de búsqueda. Elija los campos para mostrar en la "
+"barra de búsqueda de la parte delantera."
+
+#: F:\BoatDealerPro\versao_7\boatdealer/settings/options/plugin_options_tabbed.php:207
+msgid "Show the Price control"
+msgstr "Mostrar el control de precios"
+
+#: F:\BoatDealerPro\versao_7\boatdealer/settings/options/plugin_options_tabbed.php:225
+#, fuzzy
+msgid "Choose colours and so on"
+msgstr "Elija su moneda, sistema métrico y así sucesivamente."
+
+#: F:\BoatDealerPro\versao_7\boatdealer/settings/options/plugin_options_tabbed.php:232
+msgid "Search Button Background Color"
+msgstr ""
+
+#: F:\BoatDealerPro\versao_7\boatdealer/settings/options/plugin_options_tabbed.php:238
+msgid "Search Button Color"
+msgstr ""
+
+#: F:\BoatDealerPro\versao_7\boatdealer/settings/options/plugin_options_tabbed.php:245
+msgid "Background Color"
+msgstr ""
+
+#: F:\BoatDealerPro\versao_7\boatdealer/settings/options/plugin_options_tabbed.php:252
+msgid "Foreground Text Color"
+msgstr ""
+
+#: F:\BoatDealerPro\versao_7\boatdealer/settings/options/plugin_options_tabbed.php:258
+msgid "Label Color"
+msgstr ""
+
+#: F:\BoatDealerPro\versao_7\boatdealer/settings/options/plugin_options_tabbed.php:265
+msgid "Select Border Color"
+msgstr ""
+
+#: F:\BoatDealerPro\versao_7\boatdealer/settings/options/plugin_options_tabbed.php:272
+msgid "Boat Background Page Color"
+msgstr ""
+
+#: F:\BoatDealerPro\versao_7\boatdealer/settings/options/plugin_options_tabbed.php:278
+msgid "Boat Box Border Color"
+msgstr ""
+
+#: F:\BoatDealerPro\versao_7\boatdealer/settings/options/plugin_options_tabbed.php:285
+msgid "Select Title Color"
+msgstr ""
+
+#: F:\BoatDealerPro\versao_7\boatdealer/settings/options/plugin_options_tabbed.php:292
+msgid "Single Boat Page Background Color"
+msgstr ""
+
+#: F:\BoatDealerPro\versao_7\boatdealer/settings/options/plugin_options_tabbed.php:302
+msgid "Single Boat Page Foreground Text Color"
+msgstr ""
+
+#: F:\BoatDealerPro\versao_7\boatdealer/settings/options/plugin_options_tabbed.php:310
+msgid "Customized CSS"
+msgstr ""
+
+#~ msgid "BoatDealer: Could not load the localization file (Language file)"
+#~ msgstr ""
+#~ "BoatDealer: No se pudo cargar el archivo de localización (archivo de "
+#~ "idioma)"
+
+#~ msgid "Please, take a look the online Guide item Plugin Setup => Language"
+#~ msgstr ""
+#~ "Por favor, eche un vistazo al elemento de guía on line Plugin instalar=> "
+#~ "Idioma"
+
+#~ msgid "The easiest way to manage, list and sell your boats online."
+#~ msgstr ""
+#~ "La forma más fácil de gestionar, listar y vender sus barcos en línea."
+
+#~ msgid "Take a look at our Start Up Guide"
+#~ msgstr "Echa un vistazo a nuestra guia de inicio"
+
+#~ msgid "here"
+#~ msgstr "aquí"
+
+#~ msgid "You can find also our complete OnLine Guide"
+#~ msgstr "También puede encontrar nuestra Guía Online completa"
+
+#~ msgid "Make"
+#~ msgstr "Fabricante"
+
+#~ msgid "Hull Material. Eg: Fiberglass, Aluminum ..."
+#~ msgstr "Material del casco. Ej .: Fibra de vidrio, aluminio ..."
+
+#~ msgid "Length Of Boat in "
+#~ msgstr "Eslora del barco en"
+
+#~ msgid "Only numbers. No point, no comma."
+#~ msgstr "Sólo números. Ningún punto, ninguna coma."
+
+#~ msgid "Fuel Capacity in "
+#~ msgstr "Capacidad de combustible en"
+
+#~ msgid "Passenger Capacity. Only numbers."
+#~ msgstr "Capacidad de pasajeros. Sólo números."
+
+#~ msgid "Engine eg: Johnson"
+#~ msgstr "Motor ej: Johnson"
+
+#~ msgid "Color of the Interior"
+#~ msgstr "Color del interior"
+
+#~ msgid "Interior Material"
+#~ msgstr "Material interior"
+
+#, fuzzy
+#~ msgid "Featured"
+#~ msgstr "Características"
+
+#~ msgid "Length"
+#~ msgstr "Eslora"
+
+#~ msgid "Boat Type"
+#~ msgstr "Tipo de barco"
+
+#~ msgid "Power"
+#~ msgstr "Motor"
+
+#~ msgid "Sail"
+#~ msgstr "Vela"
+
+#~ msgid "PWC"
+#~ msgstr "Moto de agua"
+
+#~ msgid "New/Used"
+#~ msgstr "Nuevo/Usado"
+
+#~ msgid "Options"
+#~ msgstr "Opciones"
+
+#~ msgid "Engine"
+#~ msgstr "Motor"
+
+#~ msgid "Fuel Capacity"
+#~ msgstr "Capacidad Carburante"
+
+#~ msgid "Passenger Capacity"
+#~ msgstr "Capacidad pasajeros"
+
+#~ msgid "Hull Material"
+#~ msgstr "Material casco"
+
+#~ msgid "Interior Color"
+#~ msgstr "Color interior"
+
+#~ msgid ""
+#~ "Thanks for install Boat Dealer Plugin. The easiest way to manage, list "
+#~ "and sell your boats online."
+#~ msgstr ""
+#~ "Gracias por instalar Boat Dealer Plugin. La forma más sencilla de "
+#~ "gestionar y vender sus barcos online."
+
+#~ msgid "Follow this steps"
+#~ msgstr "Siga estos pasos"
+
+#~ msgid ""
+#~ " Go to Boat Settings tab and choose your currency, metric system etc..."
+#~ msgstr "Vaya a la pestaña de Ajustes y elija moneda, sistema métrico, etc."
+
+#~ msgid ""
+#~ "Go to your Pages and chose one (or more) page where you want show the "
+#~ "boats. "
+#~ msgstr ""
+#~ "Ir a sus páginas y elegir una (o más) la página donde desea mostrar los "
+#~ "barcos."
+
+#~ msgid "Paste this shortcode there"
+#~ msgstr "Pega este código corto allí"
+
+#~ msgid "Click Update to Save"
+#~ msgstr "Haga clic en Actualizar para guardar"
+
+#~ msgid "Go to Model and Add some models"
+#~ msgstr "Ir a modelo y añadir algunos modelos"
+
+#~ msgid "For example "
+#~ msgstr "Por ejemplo"
+
+#~ msgid "Sport"
+#~ msgstr "Sport"
+
+#~ msgid "Fishing"
+#~ msgstr "Pesca"
+
+#~ msgid "and so on..."
+#~ msgstr "y así ..."
+
+#~ msgid "Go to Features and Add some"
+#~ msgstr "Vaya a características y añada"
+
+#~ msgid "For example"
+#~ msgstr "Por ejemplo"
+
+#~ msgid "Cabin"
+#~ msgstr "Cabina"
+
+#~ msgid "Bathroom"
+#~ msgstr "Baño"
+
+#~ msgid "Go to Boats for Sale and Choose Add New"
+#~ msgstr "Ir a barcos en venta y elegir añadir"
+
+#~ msgid "Fill Out all info"
+#~ msgstr "Rellena toda la información"
+
+#~ msgid "Add one Featured Image"
+#~ msgstr "Añadir una imagen destacada"
+
+#~ msgid "Load images "
+#~ msgstr "Cargar imágenes"
+
+#~ msgid ""
+#~ "Just create one wordpress gallery. Our plugin will create automatically "
+#~ "one nice slider gallery.\n"
+#~ "For details how to create a wordpress gallery, check the wordpress site."
+#~ msgstr ""
+#~ "Simplemente crea una galería de wordpress. Nuestro plugin creará "
+#~ "automáticamente unaGalería deslizante agradable.Para obtener más "
+#~ "información sobre cómo crear una galería de wordpress, consulte el sitio "
+#~ "wordpress."
+
+#~ msgid "Click Publish to Save."
+#~ msgstr "Haga clic en publicar para guardar "
+
+#~ msgid "We have 3 dedicated Widgets"
+#~ msgstr "Tenemos 3 widgets dedicados"
+
+#~ msgid "  Recent Boats"
+#~ msgstr "Barcos recientes"
+
+#~ msgid "Boats Search"
+#~ msgstr "Barcos recientes"
+
+#~ msgid "To install, just go to "
+#~ msgstr "Para instalar, sólo tienes que ir a"
+
+#~ msgid "and install them"
+#~ msgstr "y los instala"
+
+#~ msgid "Permalinks"
+#~ msgstr "Enlaces permanentes"
+
+#~ msgid "Set Permalinks to Post Name "
+#~ msgstr "Establecer los enlaces a un nombre de correo"
+
+#~ msgid "That's all. I hope you enjoy it "
+#~ msgstr "Eso es todo. Espero que lo disfruten"
+
+#~ msgid "Where is the updated OnLine Manual?"
+#~ msgstr "¿Dónde está actualizado el manuel online?"
+
+#~ msgid "Where is the complete updated OnLine FAQ page?"
+#~ msgstr "¿Dónde está la página online actualizada de FAQ?"
+
+#~ msgid "Where is the demo online?"
+#~ msgstr "¿Donde está la demo online?"
+
+#~ msgid "Where is the complete online updated StartUp Guide?"
+#~ msgstr ""
+#~ "¿Dónde está la guia completa de actualización de k¡la puesta en marcha?"
+
+#~ msgid "Where is the donation page?"
+#~ msgstr "¿Dónde está la página de donaciones?"
+
+#~ msgid "How can i get support?"
+#~ msgstr "¿Cómo puedo obtener soporte?"
+
+#~ msgid "Where is the language file?"
+#~ msgstr "¿Dónde está el archivo de idioma?"
+
+#~ msgid ""
+#~ "We have an english language file ready to translate to another language."
+#~ msgstr ""
+#~ "Tenemos un archivo en inglés preparado para traducir en otro idioma."
